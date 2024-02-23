@@ -1,0 +1,279 @@
+Type,Name,Field name,Data type,Data subtype,Indexation,Duplicates allowed,Size characters,Required,Default value,Notes
+Query,filter_for_reports,codes,Number,,No,,,No,Only_codes.Codes,Restricting Query
+Report,general_report,,,,,,,,,Restricted by Code_filter.Codes
+Report,tabular_data,,,,,,,,,Restricted by Code_filter.Codes
+Report,tabular_data_with_graphics,,,,,,,,,Restricted by Code_filter.Codes
+Table,a_database_description,Type,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Name,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Field name,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Data type,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Data subtype,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Indexation,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Duplicates allowed,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Size characters,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Required,Text,,No,,255,No,,Description of all other tables and queries
+Table,a_database_description,Default value,Text,,No,,255,No,,Description of all other tables and queries
+Table,aggregate_size_distribution,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,aggregate_size_distribution,dry_aggregate_size,Number,Double,No,,,No,Null,
+Table,aggregate_size_distribution,dry_aggregate_percentage,Number,Double,No,,,No,Null,
+Table,code_filter,codes,Number,Long Integer,No,,,No,General.Code,"Restricted code list, output of the Restricting query"
+Table,comment_field_general,comment_field_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_field_general,comment_field,Memo,,No,,64Kb,No,No default,
+Table,comment_field_hydr_cond,comment_fhc_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_field_hydr_cond,comment_fhc,Text,,No,,255,No,No default,
+Table,comment_field_sat_cond,comment_fsc_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_field_sat_cond,comment_fsc,Text,,No,,255,No,No default,
+Table,comment_field_wat_ret,comment_fwr_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_field_wat_ret,comment_fwr,Text,,No,,255,No,No default,
+Table,comment_general,comment_general_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_general,comment_general,Memo,,No,,64Kb,No,No default,
+Table,comment_lab_general,comment_lab_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_lab_general,comment_lab,Memo,,No,,64Kb,No,No default,
+Table,comment_lab_hydr_cond,comment_lhc_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_lab_hydr_cond,comment_lhc,Text,,No,,255,No,No default,
+Table,comment_lab_sat_cond,comment_lsc_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_lab_sat_cond,comment_lsc,Text,,No,,255,No,No default,
+Table,comment_lab_wat_ret,comment_lwr_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_lab_wat_ret,comment_lwr,Text,,No,,255,No,No default,
+Table,comment_soil_properties,comment_soilprop_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,comment_soil_properties,comment_soilprop,Memo,,No,,64Kb,No,No default,
+Table,contact_person,contact_person_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,contact_person,contact_person,Text,,No,,255,No,No default,
+Table,field_drying_h-k,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,field_drying_h-k,preshead,Number,Double,No,,,No,Null,
+Table,field_drying_h-k,conductivity,Number,Double,No,,,No,Null,
+Table,field_drying_h-t,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,field_drying_h-t,preshead,Number,Double,No,,,No,Null,
+Table,field_drying_h-t,theta,Number,Double,No,,,No,Null,
+Table,field_drying_t-d,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,field_drying_t-d,theta,Number,Double,No,,,No,Null,
+Table,field_drying_t-d,diffusivity,Number,Double,No,,,No,Null,
+Table,field_drying_t-k,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,field_drying_t-k,theta,Number,Double,No,,,No,Null,
+Table,field_drying_t-k,conductivity,Number,Double,No,,,No,Null,
+Table,field_wetting_h-k,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,field_wetting_h-k,preshead,Number,Double,No,,,No,Null,
+Table,field_wetting_h-k,conductivity,Number,Double,No,,,No,Null,
+Table,field_wetting_h-t,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,field_wetting_h-t,preshead,Number,Double,No,,,No,Null,
+Table,field_wetting_h-t,theta,Number,Double,No,,,No,Null,
+Table,field_wetting_t-d,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,field_wetting_t-d,theta,Number,Double,No,,,No,Null,
+Table,field_wetting_t-d,diffusivity,Number,Double,No,,,No,Null,
+Table,field_wetting_t-k,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,field_wetting_t-k,theta,Number,Double,No,,,No,Null,
+Table,field_wetting_t-k,conductivity,Number,Double,No,,,No,Null,
+Table,general,code,Number,Long Integer,Yes,No,,Yes,No default,
+Table,general,family,Text,,No,,255,No,Null,
+Table,general,series,Text,,No,,255,No,Null,
+Table,general,texture,Text,,No,,255,No,Null,
+Table,general,structure,Text,,No,,255,No,Null,
+Table,general,depth_upper,Number,Double,No,,,No,Null,
+Table,general,depth_lower,Number,Double,No,,,No,Null,
+Table,general,horizon,Text,,No,,255,No,Null,
+Table,general,depth_gwater,Number,Double,No,,,No,Null,
+Table,general,location,Text,,No,,255,No,Null,
+Table,general,site_ID,Text,,No,,255,No,Null,
+Table,general,annual_rain,Number,Double,No,,,No,Null,
+Table,general,avetemp_jan,Number,Double,No,,,No,Null,
+Table,general,avetemp_jul,Number,Double,No,,,No,Null,
+Table,general,date,Text,,No,,255,No,Null,
+Table,general,publication_ID,Number,Double,Yes,Yes,,No,999,
+Table,general,keyword,Text,,No,,255,No,Null,
+Table,general,contact_person_ID,Number,Double,Yes,Yes,,No,999,
+Table,general,rating,Number,Double,No,,,No,Null,
+Table,general,rated_by,Text,,No,,255,No,Null,
+Table,lab_drying_h-k,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,lab_drying_h-k,preshead,Number,Double,No,,,No,Null,
+Table,lab_drying_h-k,conductivity,Number,Double,No,,,No,Null,
+Table,lab_drying_h-t,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,lab_drying_h-t,preshead,Number,Double,No,,,No,Null,
+Table,lab_drying_h-t,theta,Number,Double,No,,,No,Null,
+Table,lab_drying_t-d,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,lab_drying_t-d,theta,Number,Double,No,,,No,Null,
+Table,lab_drying_t-d,diffusivity,Number,Double,No,,,No,Null,
+Table,lab_drying_t-k,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,lab_drying_t-k,theta,Number,Double,No,,,No,Null,
+Table,lab_drying_t-k,conductivity,Number,Double,No,,,No,Null,
+Table,lab_wetting_h-k,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,lab_wetting_h-k,preshead,Number,Double,No,,,No,Null,
+Table,lab_wetting_h-k,conductivity,Number,Double,No,,,No,Null,
+Table,lab_wetting_h-t,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,lab_wetting_h-t,preshead,Number,Double,No,,,No,Null,
+Table,lab_wetting_h-t,theta,Number,Double,No,,,No,Null,
+Table,lab_wetting_t-d,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,lab_wetting_t-d,theta,Number,Double,No,,,No,Null,
+Table,lab_wetting_t-d,diffusivity,Number,Double,No,,,No,Null,
+Table,lab_wetting_t-k,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,lab_wetting_t-k,theta,Number,Double,No,,,No,Null,
+Table,lab_wetting_t-k,conductivity,Number,Double,No,,,No,Null,
+Table,methodology,code,Number,Long Integer,Yes,No,,Yes,No default,
+Table,methodology,comment_general_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_soilprop_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_fwr_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_lwr_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_fhc_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_lhc_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_fsc_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_lsc_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_field_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,methodology,comment_lab_ID,Number,Long Integer,Yes,Yes,,No,999,
+Table,mineralogy,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,mineralogy,mineral_type,Text,,No,,255,No,Null,
+Table,mineralogy,mineral_fraction,Number,Double,No,,,No,Null,
+Table,particle_size,code,Number,Long Integer,Yes,Yes,,Yes,No default,
+Table,particle_size,particle_size,Number,Double,No,,,No,Null,
+Table,particle_size,particle_fraction,Number,Double,No,,,No,Null,
+Table,publication,publication_ID,Number,Long Integer,Yes,No,,Yes,No default,
+Table,publication,publication,Text,,No,,255,No,No default,
+Table,soil_properties,code,Number,Long Integer,Yes,No,,Yes,No default,
+Table,soil_properties,bulk_density,Number,Double,No,,,No,Null,
+Table,soil_properties,particle_density,Number,Double,No,,,No,Null,
+Table,soil_properties,porosity,Number,Double,No,,,No,Null,
+Table,soil_properties,OM_content,Number,Double,No,,,No,Null,
+Table,soil_properties,k_sat,Number,Double,No,,,No,Null,
+Table,soil_properties,theta_sat,Number,Double,No,,,No,Null,
+Table,soil_properties,CEC,Number,Double,No,,,No,Null,
+Table,soil_properties,pH,Number,Double,No,,,No,Null,
+Table,soil_properties,electrolyte_level,Number,Double,No,,,No,Null,
+Table,soil_properties,SAR,Number,Double,No,,,No,Null,
+Table,soil_properties,ESP,Number,Double,No,,,No,Null,
+Table,soil_properties,EC,Number,Double,No,,,No,Null,
+Table,soil_properties,free_Fe_Al_oxide,Number,Double,No,,,No,Null,
+Table,summary_of_tabular_data,general_code,Number,Long Integer,Yes,No,,No,General.Code,
+Table,summary_of_tabular_data,summary_of_tabular_data_field_code,Number,Long Integer,No,,,No,General.Code,
+Table,summary_of_tabular_data,CountOfdry_aggregate_size,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,CountOfmineral_type,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,CountOfparticle_size,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_fld_dry_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_fld_dry_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_fld_dry_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_fld_dry_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_fld_wet_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_fld_wet_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_fld_wet_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_fld_wet_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,summary_of_tabular_data_lab_code,Number,Long Integer,No,,,No,General.Code,
+Table,summary_of_tabular_data,count_lab_dry_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_lab_dry_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_lab_dry_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_lab_dry_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_lab_wet_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_lab_wet_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_lab_wet_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Table,summary_of_tabular_data,count_lab_wet_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Macro,Update_table_summary_of_tabular_data,,,,,,,,,Used only when new data is entered into the database
+Hidden Report,aggregate_size_distribution,,,,,,,,,Report on the underlying table
+Hidden Report,field_drying_h-k,,,,,,,,,Report on the underlying table
+Hidden Report,field_drying_h-t,,,,,,,,,Report on the underlying table
+Hidden Report,field_drying_t-d,,,,,,,,,Report on the underlying table
+Hidden Report,field_drying_t-k,,,,,,,,,Report on the underlying table
+Hidden Report,field_wetting_h-k,,,,,,,,,Report on the underlying table
+Hidden Report,field_wetting_h-t,,,,,,,,,Report on the underlying table
+Hidden Report,field_wetting_t-d,,,,,,,,,Report on the underlying table
+Hidden Report,field_wetting_t-k,,,,,,,,,Report on the underlying table
+Hidden Report,lab_drying_h-k,,,,,,,,,Report on the underlying table
+Hidden Report,lab_drying_h-t,,,,,,,,,Report on the underlying table
+Hidden Report,lab_drying_t-d,,,,,,,,,Report on the underlying table
+Hidden Report,lab_drying_t-k,,,,,,,,,Report on the underlying table
+Hidden Report,lab_wetting_h-k,,,,,,,,,Report on the underlying table
+Hidden Report,lab_wetting_h-t,,,,,,,,,Report on the underlying table
+Hidden Report,lab_wetting_t-d,,,,,,,,,Report on the underlying table
+Hidden Report,lab_wetting_t-k,,,,,,,,,Report on the underlying table
+Hidden Report,mineralogy,,,,,,,,,Report on the underlying table
+Hidden Report,particle_size_distribution,,,,,,,,,Report on the underlying table
+Hidden Report,subreport_summary_of_tabular_data,,,,,,,,,Report on the underlying table
+Hidden Query,comments_summary,code,Number,Long Integer,No,,,No,Methodology.Code,
+Hidden Query,comments_summary,comment_general,Memo,,No,,64Kb,No,comment_general,
+Hidden Query,comments_summary,somment_soilprop,Memo,,No,,64Kb,No,somment_soilprop,
+Hidden Query,comments_summary,comment_field,Memo,,No,,64Kb,No,comment_field,
+Hidden Query,comments_summary,comment_lab,Memo,,No,,64Kb,No,comment_lab,
+Hidden Query,comments_summary,comment_fwr,Text,,No,,255,No,comment_fwr,
+Hidden Query,comments_summary,comment_fsc,Text,,No,,255,No,comment_fsc,
+Hidden Query,comments_summary,comment_fhc,Text,,No,,255,No,comment_fhc,
+Hidden Query,comments_summary,comment_lwr,Text,,No,,255,No,comment_lwr,
+Hidden Query,comments_summary,comment_lsc,Text,,No,,255,No,comment_lsc,
+Hidden Query,comments_summary,comment_lhc,Text,,No,,255,No,comment_lhc,
+Hidden Query,count_aggregate_size,code,Number,Long Integer,,,,No,count_aggregate_size.Code,
+Hidden Query,count_aggregate_size,CountOfdry_aggregate_size,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_fld_dry_h-k,code,Number,Long Integer,,,,No,count_fld_dry_h-k.Code,
+Hidden Query,count_fld_dry_h-k,CountOfpreshead,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_fld_dry_h-t,code,Number,Long Integer,,,,No,count_fld_dry_h-t.Code,
+Hidden Query,count_fld_dry_h-t,CountOfpreshead,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_fld_dry_t-d,code,Number,Long Integer,,,,No,count_fld_dry_t-d.Code,
+Hidden Query,count_fld_dry_t-d,CountOftheta,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_fld_dry_t-k,code,Number,Long Integer,,,,No,count_fld_dry_t-k.Code,
+Hidden Query,count_fld_dry_t-k,CountOftheta,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_fld_wet_h-k,code,Number,Long Integer,,,,No,count_fld_wet_h-k.Code,
+Hidden Query,count_fld_wet_h-k,CountOfpreshead,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_fld_wet_h-t,code,Number,Long Integer,,,,No,count_fld_wet_h-t.Code,
+Hidden Query,count_fld_wet_h-t,CountOfpreshead,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_fld_wet_t-d,code,Number,Long Integer,,,,No,count_fld_wet_t-d.Code,
+Hidden Query,count_fld_wet_t-d,CountOftheta,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_fld_wet_t-k,code,Number,Long Integer,,,,No,count_fld_wet_t-k.Code,
+Hidden Query,count_fld_wet_t-k,CountOftheta,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_lab_dry_h-k,code,Number,Long Integer,,,,No,count_lab_dry_h-k.Code,
+Hidden Query,count_lab_dry_h-k,CountOfpreshead,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_lab_dry_h-t,code,Number,Long Integer,,,,No,count_lab_dry_h-t.Code,
+Hidden Query,count_lab_dry_h-t,CountOfpreshead,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_lab_dry_t-d,code,Number,Long Integer,,,,No,count_lab_dry_t-d.Code,
+Hidden Query,count_lab_dry_t-d,CountOftheta,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_lab_dry_t-k,code,Number,Long Integer,,,,No,count_lab_dry_t-k.Code,
+Hidden Query,count_lab_dry_t-k,CountOftheta,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_lab_wet_h-k,code,Number,Long Integer,,,,No,count_lab_wet_h-k.Code,
+Hidden Query,count_lab_wet_h-k,CountOfpreshead,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_lab_wet_h-t,code,Number,Long Integer,,,,No,count_lab_wet_h-t.Code,
+Hidden Query,count_lab_wet_h-t,CountOfpreshead,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_lab_wet_t-d,code,Number,Long Integer,,,,No,count_lab_wet_t-d.Code,
+Hidden Query,count_lab_wet_t-d,CountOftheta,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_lab_wet_t-k,code,Number,Long Integer,,,,No,count_lab_wet_t-k.Code,
+Hidden Query,count_lab_wet_t-k,CountOftheta,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_mineralogy,code,Number,Long Integer,,,,No,count_mineralogy.Code,
+Hidden Query,count_mineralogy,CountOfmineral_type,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,count_particle_size,code,Number,Long Integer,,,,No,count_particle_size.Code,
+Hidden Query,count_particle_size,CountOfparticle_size,Number,Long Integer,,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,general_code,Number,Long Integer,Yes,No,,No,General.Code,
+Hidden Query,run1_summary_tabular_data_create_field,CountOfdry_aggregate_size,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,CountOfmineral_type,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,CountOfparticle_size,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,count_fld_dry_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,count_fld_dry_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,count_fld_dry_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,count_fld_dry_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,count_fld_wet_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,count_fld_wet_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,count_fld_wet_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run1_summary_tabular_data_create_field,count_fld_wet_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run2_summary_tabular_data_create_lab,general_code,Number,Long Integer,No,,,No,General.Code,
+Hidden Query,run2_summary_tabular_data_create_lab,count_lab_dry_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run2_summary_tabular_data_create_lab,count_lab_dry_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run2_summary_tabular_data_create_lab,count_lab_dry_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run2_summary_tabular_data_create_lab,count_lab_dry_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run2_summary_tabular_data_create_lab,count_lab_wet_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run2_summary_tabular_data_create_lab,count_lab_wet_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run2_summary_tabular_data_create_lab,count_lab_wet_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run2_summary_tabular_data_create_lab,count_lab_wet_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,general_code,Number,Long Integer,Yes,No,,No,General.Code,
+Hidden Query,run3_summary_tabular_data_create_final_table,summary_of_tabular_data_field_code,Number,Long Integer,No,,,No,General.Code,
+Hidden Query,run3_summary_tabular_data_create_final_table,CountOfdry_aggregate_size,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,CountOfmineral_type,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,CountOfparticle_size,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_fld_dry_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_fld_dry_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_fld_dry_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_fld_dry_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_fld_wet_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_fld_wet_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_fld_wet_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_fld_wet_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,summary_of_tabular_data_lab_code,Number,Long Integer,No,,,No,General.Code,
+Hidden Query,run3_summary_tabular_data_create_final_table,count_lab_dry_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_lab_dry_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_lab_dry_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_lab_dry_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_lab_wet_h-k_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_lab_wet_h-t_CountOfpreshead,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_lab_wet_t-d_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Query,run3_summary_tabular_data_create_final_table,count_lab_wet_t-k_CountOftheta,Number,Long Integer,No,,,No,,Count of the underlying field
+Hidden Table,notes,notes,Memo,,No,,64Kb,No,No default,
+Hidden Table,only_codes,codes,Number,Long Integer,No,,,No,General.Code,A complete list of codes as input to the Restricting query

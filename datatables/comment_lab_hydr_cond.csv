@@ -1,0 +1,26 @@
+comment_lhc_ID,comment_lhc
+999,NA
+2,Instantaneous profile
+3,Short column
+4,Soil water diffusivity
+5,Evaporation
+6,Hot air method
+7,Steady state
+8,Bruce & Klute
+9,Sorptivity
+10,Outflow-inflow/ Bruce & Klute
+11,Centrifugation
+12,"Short column, falling head"
+13,Double plate
+14,"Pressure outflow, D(Theta)"
+15,Pressure plate
+16,Doering (1965)
+17,Sprinkling infiltrometer
+18,Crust and hot air methods
+19,Crust and sorptivity methods
+20,Inverse method
+21,Vacuum on tensiometer
+22,Steady evaporation
+23,"Double plate, Bruce & Klute, steady evaporation"
+24,Long column
+25,Infiltration

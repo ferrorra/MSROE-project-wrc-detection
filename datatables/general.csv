@@ -1,0 +1,791 @@
+code,family,series,texture,structure,depth_upper,depth_lower,horizon,depth_gwater,location,site_ID,annual_rain,avetemp_jan,avetemp_jul,date,publication_ID,keyword,contact_person_ID,rating,rated_by
+1010,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,loamy sand,weak granular,0.0,24.0,Ap,500.0,"Union Springs, AL, USA",West plot,140.0,7.8,26.7,1979,1.0,undisturbed,1.0,,
+1011,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,loamy sand,massive single grain,24.0,58.0,A21,500.0,"Union Springs, AL, USA",West plot,140.0,7.8,26.7,1979,1.0,undisturbed,1.0,,
+1012,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,loamy sand,massive single grain,58.0,92.0,A22,500.0,"Union Springs, AL, USA",West plot,140.0,7.8,26.7,1979,1.0,undisturbed,1.0,,
+1013,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,loamy sand,massive single grain,92.0,123.0,A23,500.0,"Union Springs, AL, USA",West plot,140.0,7.8,26.7,1979,1.0,undisturbed,1.0,,
+1014,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,sand,weak subangular blocky,123.0,134.0,B1,500.0,"Union Springs, Al, USA",West plot,140.0,7.8,26.7,1979,1.0,undisturbed,1.0,,
+1015,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,loamy sand,weak subangular blocky,134.0,154.0,B21t,,"Union Springs, AL, USA",West plot,,,,1979,1.0,undisturbed,1.0,,
+1020,,Lakeland,sand,weak medium granular,0.0,23.0,Ap,,"Blackville, SC, USA","Plot 1, Edisto Station, Clemson Univ.",,,,,1.0,undisturbed,2.0,,
+1021,,Lakeland,sand,weak medium granular,23.0,41.0,C1,,"Blackville, SC, USA","Plot 1, Edisto Station, Clemson Univ.",,,,,1.0,undisturbed,2.0,,
+1022,,Lakeland,sand,weak medium granular,41.0,81.0,C2,,"Blackville, SC, USA","Plot 1, Edisto Station, Clemson Univ.",,,,,1.0,undisturbed,2.0,,
+1023,,Lakeland,sand,weak medium granular,81.0,106.0,C3,,"Blackville, SC, USA","Plot 1, Edisto Station, Clemson Univ.",,,,,1.0,undisturbed,2.0,,
+1024,,Lakeland,sand,weak medium granular,106.0,125.0,C4,,"Blackville, SC, USA","Plot 1, Edisto Station, Clemson Univ.",,,,,1.0,undisturbed,2.0,,
+1030,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,loamy sand,very friable,0.0,15.0,Ap,,"Jay, FL, USA","IFAS Ag Res Ctr, Plot 2, NW 1/4 of NE 1/4, S 16, R 29W, T 3N",,,,,1.0,undisturbed,3.0,,
+1031,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,loamy sand,single grain,15.0,41.0,A21,,"Jay, FL, USA","IFAS Ag Res Ctr, Plot 2, NW 1/4 of NE 1/4, S 16, R 29W, T 3N",,,,,1.0,undisturbed,3.0,,
+1032,"loamy, siliceous, thermic Grossarenic Paleudult",Troup,loamy sand,single grain,41.0,71.0,A22,,"Jay, FL, USA","IFAS Ag Res Ctr, Plot 2, NW 1/4 of NE 1/4, S 16, R 29W, T 3N",,,,,1.0,undisturbed,3.0,,
+1040,Typic Quartzipsamment,Lakeland,sand,friable,0.0,20.0,Ap,,"Live Oak, FL, USA","IFAS Ag Res Ctr, Plot 78-2, SE 1/4 of NE 1/4, S22, R14E, T25",,,,,1.0,undisturbed,3.0,,
+1041,Typic Quartzipsamment,Lakeland,sand,single grain,20.0,69.0,C1,,"Live Oak, FL, USA","IFAS Ag Res Ctr, Plot 78-2, SE 1/4 of NE 1/4, S22, R14W, T25",,,,,1.0,undisturbed,3.0,,
+1042,Typic Quartzipsamment,Lakeland,sand,single grain,69.0,129.0,C2,,"Live Oak, FL, USA","IFAS Ag Res Ctr, Plot 78-2, SE 1/4 of NE 1/4, S22, R14W, T25",,,,,1.0,undisturbed,3.0,,
+1043,Typic Quartzipsamment,Lakeland,sand,single grain,129.0,180.0,C3,,"Live Oak, FL, USA","IFAS Ag Res Ctr, Plot 78-2, SE 1/4 of NE 1/4, S22, R14W, T25",,,,,1.0,undisturbed,3.0,,
+1050,"thermic, coated typic Quartzipsamment",Lakeland,sand,,0.0,20.0,Ap,,"Lillington, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1051,"thermic, coated typic Quartzipsamment",Lakeland,loamy sand,,20.0,51.0,C1,,"Lillington, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1052,"thermic, coated typic Quartzipsamment",Lakeland,sand,,51.0,97.0,C2,,"Lillington, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1053,"thermic, coated typic Quartzipsamment",Lakeland,sand,,97.0,122.0,C3,,"Lillington, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1054,"thermic, coated typic Quartzipsamment",Lakeland,sand,,122.0,152.0,C4,,"Lillington, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1060,"thermic, coated typic Quartzipsamment",Lakeland,sand,,0.0,20.0,Ap,,"Hoffman, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1061,"thermic, coated typic Quartzipsamment",Lakeland,sand,,20.0,38.0,C1,,"Hoffman, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1062,"thermic, coated typic Quartzipsamment",Lakeland,loamy sand,,38.0,76.0,C2,,"Hoffman, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1063,"thermic, coated typic Quartzipsamment",Lakeland,sand,,76.0,152.0,C3,,"Hoffman, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1070,"thermic, coated typic Quartzipsamment",Lakeland,sand,,0.0,15.0,Ap,,"Laurinburg, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1071,"thermic, coated typic Quartzipsamment",Lakeland,sand,,15.0,30.0,C1,,"Laurinburg, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1072,"thermic, coated typic Quartzipsamment",Lakeland,sand,,30.0,71.0,C2,,"Laurinburg, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1073,"thermic, coated typic Quartzipsamment",Lakeland,sand,,71.0,91.0,C3,,"Laurinburg, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1074,"thermic, coated typic Quartzipsamment",Lakeland,sand,,91.0,112.0,C4,,"Laurinburg, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1075,"thermic, coated typic Quartzipsamment",Lakeland,sand,,112.0,150.0,C5,,"Laurinburg, NC, USA",Plot 2,,,,,1.0,undisturbed,4.0,,
+1080,Typic Paleudult,Norfolk,sandy loam,,0.0,18.0,Ap,,"Shorter, AL, USA","E.V. Smith Res. Ctr., Ala. Agric. Res. Sta., Tier 25",,,,1984,2.0,disturbed,5.0,8.0,Hopmans
+1081,Typic Paleudult,Norfolk,sandy loam,,0.0,18.0,Ap,,"Shorter, AL, USA","E.V. Smith Res. Ctr., Ala. Agric. Res. Sta., Tier 25",,,,1984,2.0,disturbed,5.0,8.0,Hopmans
+1082,Typic Paleudult,Norfolk,sandy loam,,0.0,18.0,Ap,,"Shorter, AL, USA","E.V. Smith Res. Ctr., Ala. Agric. Res. Sta., Tier 25",,,,1984,2.0,disturbed,5.0,8.0,Hopmans
+1083,Typic Paleudult,Norfolk,sandy loam,,0.0,18.0,Ap,,"Shorter, AL, USA","E.V. Smith Res. Ctr., Ala. Agric. Res. Sta., Tier 25",,,,1984,2.0,disturbed,5.0,8.0,Hopmans
+1084,Typic Paleudult,Norfolk,sandy loam,,0.0,18.0,Ap,,"Shorter, AL, USA","E.V. Smith Res. Ctr., Ala. Agric. Res. Sta., Tier 25",,,,1984,2.0,disturbed,5.0,8.0,Hopmans
+1085,Typic Paleudult,Norfolk,sandy loam,,0.0,18.0,Ap,,"Shorter, AL, USA","E.V. Smith Res. Ctr., Ala. Agric. Res. Sta., Tier 25",,,,1984,2.0,disturbed,5.0,8.0,Hopmans
+1086,Typic Paleudult,Norfolk,sandy loam,,0.0,18.0,Ap,,"Shorter, AL, USA","E.V. Smith Res. Ctr., Ala. Agric. Res. Sta., Tier 25",,,,1984,2.0,disturbed,5.0,8.0,Hopmans
+1087,Typic Paleudult,Norfolk,sandy loam,,0.0,18.0,Ap,,"Shorter, AL, USA","E.V. Smith Res. Ctr., Ala. Agric. Res. Sta., Tier 25",,,,1984,2.0,disturbed,5.0,8.0,Hopmans
+1090,"fine-loamy, siliceous, thermic Typic Paleudult",Norfolk,loamy sand,,0.0,25.0,Ap,,"Lillington, NC, USA",Site 3,,,,,3.0,undisturbed,4.0,,
+1091,"fine-loamy, siliceous, thermic Typic Paleudults",Norfolk,sandy loam,,25.0,51.0,B1,,"Lillington, NC, USA",Site 3,,,,,3.0,undisturbed,4.0,,
+1092,"fine-loamy, siliceous, thermic Typic Paleudults",Norfolk,sandy clay loam,,51.0,97.0,B2,,"Lillington, NC, USA",Site 3,,,,,3.0,undisturbed,4.0,,
+1100,"fine-loamy, siliceous, thermic Typic Paleudult",Norfolk,sand,weak fine granular,0.0,27.0,Ap,,"Blackville, SC, USA",Site 5,,,,,3.0,undisturbed,2.0,,
+1101,"fine-loamy, siliceous, thermic Typic Paleudult",Norfolk,sandy loam,weak fine granular,27.0,38.0,A2,,"Blackville, SC, USA",Site 5,,,,,3.0,undisturbed,2.0,,
+1102,"fine-loamy, siliceous, thermic Typic Paleudult",Norfolk,sandy clay loam,weak medium subangular blocky,38.0,53.0,B1,,"Blackville, SC, USA",Site 5,,,,,3.0,undisturbed,2.0,,
+1103,"fine-loamy, siliceous, thermic Typic Paleudult",Norfolk,sandy clay loam,weak medium subangular blocky,53.0,107.0,B21t,,"Blackville, SC, USA",Site 5,,,,,3.0,undisturbed,2.0,,
+1104,"fine-loamy, siliceous, thermic Typic Paleudult",Norfolk,sandy clay loam,weak coarse subangular blocky,107.0,152.0,B22t,,"Blackville, SC, USA",Site 5,,,,,3.0,undisturbed,2.0,,
+1110,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sand,weak medium granular,0.0,18.0,Ap,,"Blackville, SC, USA",Site 3,,,,,3.0,undisturbed,2.0,,
+1111,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,loamy sand,weak medium granular,18.0,33.0,A2,,"Blackville, SC, USA",Site 3,,,,,3.0,undisturbed,2.0,,
+1112,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy loam,weak fine subangular blocky,33.0,53.0,B1,,"Blackville, SC, USA",Site 3,,,,,3.0,undisturbed,2.0,,
+1113,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy clay loam,weak medium subangular blocky,53.0,69.0,B21t,,"Blackville, SC, USA",Site 3,,,,,3.0,undisturbed,2.0,,
+1114,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy clay loam,weak medium subangular blocky,69.0,84.0,B22t,,"Blackville, SC, USA",Site 3,,,,,3.0,undisturbed,2.0,,
+1115,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy clay loam,weak coarse subangular blocky,84.0,107.0,B23t,,"Blackville, SC, USA",Site 3,,,,,3.0,undisturbed,2.0,,
+1116,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy clay loam,weak coarse subangular blocky,107.0,137.0,B24t,,"Blackville, SC, USA",Site 3,,,,,3.0,undisturbed,2.0,,
+1117,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy clay loam,weak coarse subangular blocky,137.0,152.0,B25t,,"Blackville, SC, USA",Site 3,,,,,3.0,undisturbed,2.0,,
+1120,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy loam,,0.0,21.0,Ap,200.0,"Rome, AL, USA","Solon Dixon Forestry Ed. Res. Ctr., East Plot",140.0,8.9,27.8,1980,3.0,undisturbed,1.0,,
+1121,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy loam,,21.0,86.0,B21t,200.0,"Rome, AL, USA","Solon Dixon Forestry Ed. Res. Ctr., East plot",140.0,8.9,27.8,1980,3.0,undisturbed,1.0,,
+1122,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,sandy clay loam,,86.0,120.0,B22t,200.0,"Rome, AL, USA","Solon Dixon Forestry Res. Ctr., East Plot",140.0,8.9,27.8,1980,3.0,undisturbed,1.0,,
+1123,fine-loamy siliceous thermic Plinthic Paleudult,Dothan,clay loam,,120.0,150.0,B3t,200.0,"Rome, AL, USA","Solon Dixon Forestry Res. Ctr., East Plot",140.0,8.9,27.8,1980,3.0,undisturbed,1.0,,
+1130,,Dothan,sandy loam,,0.0,20.0,Ap,,"Blackstone, VA, USA",Site 1,,,,,3.0,undisturbed,6.0,,
+1131,,Dothan,sandy loam,,20.0,43.0,A2,,"Blackstone, VA, USA",Site 1,,,,,3.0,undisturbed,6.0,,
+1132,,Dothan,sandy clay loam,,43.0,74.0,B21t,,"Blackstone, VA, USA",Site 1,,,,,3.0,undisturbed,6.0,,
+1133,,Dothan,sandy clay loam,,74.0,114.0,B22t,,"Blackstone, VA, USA",Site 1,,,,,3.0,undisturbed,6.0,,
+1134,,Dothan,sandy clay,,114.0,137.0,B23t,,"Blackstone, VA, USA",Site 1,,,,,3.0,undisturbed,6.0,,
+1135,,Dothan,sandy clay,,137.0,183.0,B24t,,"Blackstone, VA, USA",Site 1,,,,,3.0,undisturbed,6.0,,
+1140,"loamy, siliceous, thermic Arenic Paleudult",Wagram,sand,weak medium granular,0.0,23.0,Ap,,"Clayton, NC, USA","Central Crops Res. Sta., Site 1",,,,,3.0,undisturbed,4.0,,
+1141,"loamy, siliceous, thermic Arenic Paleudult",Wagram,sand,weak medium granular,23.0,36.0,E1,,"Clayton, NC, USA","Central Crops Res. Sta., Site 1",,,,,3.0,undisturbed,4.0,,
+1142,"loamy, siliceous, thermic Arenic Paleudult",Wagram,sand,weak medium granular,36.0,56.0,E2,,"Clayton, NC, USA","Central Crops Res. Sta., Site 1",,,,,3.0,undisturbed,4.0,,
+1143,"loamy, siliceous, thermic Arenic Paleudult",Wagram,loamy sand,,56.0,69.0,BE,,"Clayton, NC, USA","Central Crops Res. Sta., Site 1",,,,,3.0,undisturbed,4.0,,
+1150,"fine-loamy, siliceous, thermic Aquic Paleudult",Goldsboro,loamy sand,weak fine granular,0.0,23.0,Ap,,"Florence, SC, USA",Site 1,,,,,3.0,,2.0,,
+1151,"fine-loamy, siliceous, thermic Aquic Paleudult",Goldsboro,loamy sand,weak fine granular,23.0,38.0,A2,,"Florence, SC, USA",Site 1,,,,,3.0,,2.0,,
+1152,"fine-loamy, siliceous, thermic Aquic Paleudult",Goldsboro,sandy clay loam,weak medium subangular blocky,38.0,69.0,B2kt,,"Florence, SC, USA",Site 1,,,,,3.0,,2.0,,
+1160,,Cecil,loamy sand,"weak, medium granular",0.0,21.0,Ap,900.0,"Watkinsville, GA, USA",Plot 6,125.2,5.2,25.900000000000002,7/13/1981,4.0,undisturbed,7.0,,
+1161,,Cecil,sandy loam,"weak, fine, subangular blocky",21.0,32.0,AB,900.0,"Watkinsville, GA, USA",Plot 6,125.2,5.2,25.900000000000002,7/13/1981,4.0,undisturbed,7.0,,
+1162,,Cecil,clay,"moderate, fine subangular blocky",32.0,49.0,Bt1,900.0,"Watkinsville, GA, USA",Plot 6,125.2,5.2,25.900000000000002,7/13/1981,4.0,undisturbed,7.0,,
+1163,,Cecil,clay,"moderate, medium subangular blocky",49.0,80.0,Bt2,900.0,"Watkinsville, GA, USA",Plot 6,125.2,5.2,25.900000000000002,7/13/1981,4.0,undisturbed,7.0,,
+1164,,Cecil,sandy clay loam,"weak, fine subangular blocky",80.0,110.0,BC1,900.0,"Watkinsville, GA, USA",Plot 6,125.2,5.2,25.900000000000002,7/13/1981,4.0,undisturbed,7.0,,
+1165,,Cecil,sandy clay loam,"weak, coarse subangular blocky",110.0,145.0,BC2,900.0,"Watkinsville, GA, USA",Plot 6,125.2,5.2,25.900000000000002,7/13/1981,4.0,undisturbed,7.0,,
+1166,,Cecil,sandy clay loam,massive,145.0,230.0,C,900.0,"Watkinsville, GA, USA",Plot 6,125.2,5.2,25.900000000000002,7/13/1981,4.0,undisturbed,7.0,,
+1170,,Cecil,sandy loam,"weak, fine granular",0.0,21.0,Ap,,"Clemson, SC, USA","Plot 1, Simpson Exp. Sta.",,,,,4.0,undisturbed,2.0,,
+1171,,Cecil,sandy clay loam,"weak, medium, subangular blocky",21.0,38.0,BA,,"Clemson, SC, USA","Plot 1, Simpson Exp. Sta.",,,,,4.0,undisturbed,2.0,,
+1172,,Cecil,clay loam,"moderate, medium subangular blocky",38.0,75.0,Bt1,,"Clemson, SC, USA","Plot 1, Simpson Exp. Sta.",,,,,4.0,undisturbed,2.0,,
+1173,,Cecil,clay loam,"moderate, medium subangular blocky",75.0,110.0,Bt2,,"Clemson, SC, USA","Plot 1, Simpson Exp. Sta.",,,,,4.0,undisturbed,2.0,,
+1174,,Cecil,sandy clay,"moderate, medium subangular blocky",,,BC,,"Clemson, SC, USA","Plot 1, Simpson Exp. Sta.",,,,,4.0,undisturbed,2.0,,
+1180,"clayey, kaolinitic, thermic Typic Hapludult",Cecil,clay loam,"weak, fine, and medium granular",0.0,25.0,Ap,500.0,"Auburn, AL, USA","North Auburn Dairy Res. Unit, South Plot",140.0,7.2,26.1,1977,4.0,undisturbed,1.0,,
+1181,"clayey, kaolinitic, thermic Typic Hapludult",Cecil,clay,moderate medium angular blocky,25.0,50.0,Bt1,500.0,"Auburn, AL, USA","North Auburn Dairy Res. Unit, South Plot",140.0,7.2,26.1,1977,4.0,undisturbed,1.0,,
+1182,"clayey, kaolinitic, thermic Typic Hapludult",Cecil,clay,moderate medium angular blocky,50.0,75.0,Bt2,500.0,"Auburn, AL, USA","North Auburn Dairy Res. Unit, South Plot",140.0,7.2,26.1,1977,4.0,undisturbed,1.0,,
+1183,"clayey, kaolinitic, thermic Typic Hapludult",Cecil,sandy clay loam,weak fine subangular blocky,75.0,105.0,BC,500.0,"Auburn, AL, USA","North Auburn Dairy Res. Unit, South Plot",140.0,7.2,26.1,1977,4.0,undisturbed,1.0,,
+1184,"clayey, kaolinitic, thermic Typic Hapludult",Cecil,sandy clay loam,weak subangular blocky and massive,105.0,140.0,B/C,500.0,"Auburn, AL, USA","North Auburn Dairy Res. Unit, South Plot",140.0,7.2,26.1,1977,4.0,undisturbed,1.0,,
+1190,fine mixed thermic Pachic Argiustoll,Bethany,loam,weak medium subangular blocky,0.0,25.0,A1,,"Payne County, OK, USA","Site 1, Exp. station",,,,1978,5.0,undisturbed,8.0,,
+1191,fine mixed thermic Pachic Argiustoll,Bethany,clay loam,strong coarse subangular blocky,25.0,33.0,B1t,,"Payne County, OK, USA","Site 1, Exp. station",,,,1978,5.0,undisturbed,8.0,,
+1192,fine mixed thermic Pachic Argiustoll,Bethany,clay loam,moderate coarse prismatic,33.0,71.0,B21t,,"Payne County, OK, USA","Site 1, Exp. station",,,,1978,5.0,undisturbed,8.0,,
+1193,fine mixed thermic Pachic Argiustoll,Bethany,clay loam,weak coarse prismatic,71.0,104.0,B22t,,"Payne County, OK, USA","Site 1, Exp. station",,,,1978,5.0,undisturbed,8.0,,
+1194,fine mixed thermic Pachic Argiustoll,Bethany,clay loam,weak coarse prismatic,104.0,157.0,B31t,,"Payne County, OK, USA","Site 1, Exp. station",,,,1978,5.0,undisturbed,8.0,,
+1200,"fine loamy, mixed, thermic, Ultic Haplustalf",Konawa,sandy loam,weak fine granular,0.0,30.0,Ap,,"Perkins, Payne County, OK, USA",Site 1,,,,1980,5.0,undisturbed,8.0,,
+1201,"fine loamy, mixed, thermic, Ultic Haplustalf",Konawa,sandy clay loam,moderate medium prismatic,30.0,76.0,B21t,,"Perkins, Payne County, OK, USA",Site 1,,,,1980,5.0,undisturbed,8.0,,
+1202,"fine loamy, mixed, thermic, Ultic Haplustalf",Konawa,sandy loam,moderate coarse prismatic,76.0,99.0,B22t,,"Perkins, Payne County, OK, USA",Site 1,,,,1980,5.0,undisturbed,8.0,,
+1203,"fine loamy, mixed, thermic, Ultic Haplustalf",Konawa,loamy sand,weak coarse prismatic,99.0,123.0,B31,,"Perkins, Payne County, OK, USA",Site 1,,,,1980,5.0,undisturbed,8.0,,
+1204,"fine loamy, mixed, thermic, Ultic Haplustalf",Konawa,sandy loam,weak coarse prismatic,123.0,152.0,B32,,"Perkins, Payne County, OK, USA",Site 1,,,,1980,5.0,undisturbed,8.0,,
+1210,"fine loamy, mixed, thermic, Pachic Argiustoll",Tipton,sandy loam,weak fine granular,0.0,25.0,Ap,,"Tillman County, OK, USA",Site 2,,,,1979,5.0,undisturbed,8.0,,
+1211,"fine loamy, mixed, thermic, Ultic Haplustalf",Tipton,loam,weak medium subangular blocky,25.0,60.0,A12,,"Tillman County, OK, USA",Site 2,,,,1979,5.0,undisturbed,8.0,,
+1212,"fine loamy, mixed, thermic, Pachic Argiustoll",Tipton,loam,weak coarse prismatic,60.0,103.0,B21t,,"Tillman County, OK, USA",Site 2,,,,1979,5.0,undisturbed,8.0,,
+1213,"fine loamy, mixed, thermic, Pachic Argiustoll",Tipton,clay loam,moderate medium prismatic,103.0,143.0,IIB22t,,"Tillman County, OK, USA",Site 2,,,,1979,5.0,undisturbed,8.0,,
+1220,Typic Hapludult,Sequoia,silt loam,moderate medium granular,0.0,10.0,Ap,,"Oak Ridge, TN, USA","Oak Ridge Nat. Lab., 15m east of Trench 7",,,,1980,6.0,undisturbed,9.0,,
+1221,Typic Hapludult,Sequoia,silt loam,strong medium angular blocky,10.0,20.0,B21t,,"Oak Ridge, TN, USA","Oak Ridge Nat. Lab., 15m east of Trench 7",,,,1980,6.0,undisturbed,9.0,,
+1222,Typic Hapludult,Sequoia,silt loam,moderate medium subangular blocky,20.0,30.0,B22t,,"Oak Ridge, TN, USA","Oak Ridge Nat. Lab., 15m east of Trench 7",,,,1980,6.0,undisturbed,9.0,,
+1223,Typic Hapludult,Sequoia,silt loam,weak angular blocky,30.0,55.0,B3,,"Oak Ridge, TN, USA","Oak Ridge Nat. Lab., 15m east of Trench 7",,,,1980,6.0,undisturbed,9.0,,
+1224,Typic Hapludult,Sequoia,silt loam,weak medium subangular blocky,55.0,105.0,Cr1,,"Oak Ridge, TN, USA","Oak Ridge Nat. Lab., 15m east of Trench 7",,,,1980,6.0,undisturbed,9.0,,
+1225,Typic Hapludult,Sequoia,silt loam,,105.0,200.0,Cr2,,"Oak Ridge, TN, USA","Oak Ridge Nat. Lab., 15m east of Trench 7",,,,1980,6.0,undisturbed,9.0,,
+1230,clayey kaolinitic and thermic Typic Paleudult,Fullerton,silt loam,moderate fine granular,0.0,10.0,A1,,"Oak Ridge, TN, USA","Lat. 35 57N, Long. 84 17, Walker Branch Watershed Roane Co.",,,,1978,6.0,undisturbed,9.0,,
+1231,"clayey, kaolinitic, and thermic Typic Paleudult",Fullerton,silt loam,moderate medium granular,10.0,32.0,A2,,"Oak Ridge, TN, USA","Lat. 35 57N, Long. 84 17W, Walker Branch Watershed Roane Co.",,,,1978,6.0,undisturbed,9.0,,
+1232,"clayey, kaolinitic, and thermic Typic Paleudult",Fullerton,silt loam,moderate medium granular,32.0,37.0,A3,,"Oak Ridge, TN, USA","Lat. 35 57N, Long. 84 17W, Walker Branch Watershed Roane Co.",,,,1978,6.0,undisturbed,9.0,,
+1233,"clayey, kaolinitic, and thermic Typic Paleudult",Fullerton,silt loam,moderate very fine subangular,37.0,45.0,B1,,"Oak Ridge, TN, USA","Lat. 35 57N, Long. 84 17W, Walker Branch Watershed Roane Co.",,,,1978,6.0,undisturbed,9.0,,
+1234,"clayey, kaolinitic, and thermic Typic Paleudult",Fullerton,silt loam,moderate med. fine subangular block,45.0,92.0,B21t,,"Oak Ridge, TN, USA","Lat. 35 57N, Long. 84 17W, Walker Branch Watershed Roane Co.",,,,1978,6.0,undisturbed,9.0,,
+1235,"clayey, kaolinitic, and thermic Typic Paleudult",Fullerton,silt loam,strong medium subangular blocky,92.0,110.0,B22t,,"Oak Ridge, TN, USA","Lat. 35 57N, Long. 84 17W, Walker Branch Watershed Roane Co.",,,,1978,6.0,undisturbed,9.0,,
+1236,"clayey, kaolinitic, and thermic Typic Paleudult",Fullerton,silt loam,strong medium subangular blocky,110.0,140.0,B23t,,"Oak Ridge, TN, USA","Lat. 35 57N, Long. 84 17W, Walker Branch Watershed Roane Co.",,,,1978,6.0,undisturbed,9.0,,
+1237,"clayey, kaolinitic, and thermic Typic Paleudult",Fullerton,silt loam,strong medium subangular blocky,140.0,215.0,B31,,"Oak Ridge, TN, USA","35ø57'N, 84ø17'W, Walker Branch Watershed Roane Co.",,,,7/8/1978,6.0,undisturbed,9.0,,
+1240,"mixed, mesic, Xeric Torripsamment",Quincy sand,sand,,0.0,60.0,,1500.0,"Hanford, Richland, WA, USA","Buried Waste Test Facility, North Caisson",16.0,-1.5,24.7,1987,7.0,disturbed,10.0,,
+1241,"mixed, mesic, Xeric Torripsamment",Quincy sand,sand,,60.0,350.0,,1500.0,"Hanford, Richland, WA, USA","Buried Waste Test Facility, North Caisson",16.0,-1.5,24.7,1987,7.0,disturbed,10.0,,
+1260,"mixed, mesic, Xerollic Camborthid",Warden silt loam,loam,,0.0,40.0,,1500.0,"Hanford, Richland, WA, USA",McGee ranch,16.0,-1.5,24.7,1987,7.0,disturbed,10.0,,
+1261,"mixed, mesic, Xerollic Camborthid",Warden silt loam,loam,,40.0,120.0,,1500.0,"Hanford, Richland, WA, USA",McGee ranch,16.0,-1.5,24.7,1978,7.0,disturbed,10.0,,
+1270,Apache Leap Tuff,White Unit,Tuffaceous Rock,Slightly Welded,0.0,3000.0,rock,,"Superior, AZ, USA","Borehole Test Site, SE1/4 of SE1/4 of NW1/4, S32, T1S, R13E",50.0,10.0,28.0,1990,8.0,undisturbed,11.0,6.0,Rasmussen
+1280,"fine-silty Mixed, mesic Typic Hapludalf",Ohlendorf Parabraunerde,silt loam,subangular blocky,0.0,35.0,Ap,,"Ohlendorf, Hannover, Germany",,63.0,,,11/14/1988,9.0,undisturbed,12.0,9.0,Wendroth
+1281,"fine-silty Mixed, mesic Typic Hapludalf",Ohlendorf Parabraunerde,silt loam,blocky,35.0,55.0,A1,,"Ohlendorf, Hannover, Germany",,63.0,0.0,,11/14/1988,9.0,undisturbed,12.0,9.0,Wendroth
+1282,"fine-silty Mixed, mesic Typic Hapludalf",Ohlendorf Parabraunerde,silt loam,prismatic blocky,70.0,130.0,Bt,,"Ohlendorf, Hannover, Germany",,63.0,,,11/14/1988,9.0,undisturbed,12.0,9.0,Wendroth
+1290,Eutric Arenosol,Darmstadt Braunerde,sand,single,0.0,25.0,Ap,1000.0,"Darmstadt, Germany",,62.6,-2.0,19.0,1989,10.0,undisturbed,13.0,7.0,Plagge
+1300,,Glendale I,sandy clay loam,,,,,,"Las Cruces, NM, USA",Greenhouse column I,,,,1971,11.0,"hysteresis, disturbed",1.0,,
+1301,,Glendale II,clay loam,,,,,,"Las Cruces, NM, USA",Column II,,,,1971,11.0,"hysteresis, disturbed",1.0,,
+1310,,River sand,sand,,,,,,"Las Cruces, NM, USA",Greenhouse column II,,,,1971,11.0,"hysteresis, disturbed",1.0,,
+1320,Eutric Vertisol,Ziegelei Hoelle Pelosol,silty clay,,15.0,60.0,Bw,,"Ziegelei Hoelle, Gottingen, Germany",,65.0,-1.0,16.0,1987,10.0,undisturbed,13.0,6.0,Plagge
+1330,Albic Luvisol,Ohlendorf Parabraunerde,silt,,0.0,35.0,Ap,260.0,"Ohlendorf, Hannover, West Germany",,65.0,0.0,0.0,1989,10.0,undisturbed,13.0,7.0,Plagge
+1331,Albic Luvisol,Ohlendorf Parabraunerde,silt loam,,55.0,80.0,Bt,260.0,"Ohlendorf, Hannover, Germany",,65.0,0.0,0.0,1989,10.0,undisturbed,13.0,7.0,Plagge
+1340,,Hohes Feld Parabraunerde,silt loam,crumb and subangular,0.0,30.0,Ap,,"Angerstein (Goettingen), Germany",Hohes Feld,63.0,0.5,17.3,1984,12.0,"tillage, undisturbed",14.0,8.0,Teiwes
+1341,,Hohes Feld Parabraunerde,silt loam,crumb and subangular,32.0,42.0,M1,,"Angerstein (Goettingen), Germany",Hohes Feld,63.0,0.5,17.3,1984,12.0,"tillage, undisturbed",14.0,8.0,Teiwes
+1342,,Hohes Feld Parabraunerde,silt loam,crumb and subangular,42.0,52.0,M2,,"Angerstein (Goettingen), Germany",Hohes Feld,63.0,0.5,17.3,1984,12.0,"Tillage, undisturbed",14.0,8.0,Teiwes
+1350,,Hohes Feld Parabraunerde,silt loam,"subangular, angular, and crumb",0.0,30.0,Ap,,"Angerstein (Goettingen), Germany",Hohes Feld,63.0,0.5,17.3,1984,12.0,"tillage, undisturbed",14.0,8.0,Teiwes
+1351,,Hohes Feld Parabraunerde,silt loam,"subangular, angular, and crumb",32.0,42.0,M1,,"Angerstein (Goettingen), Germany",Hohes Feld,63.0,0.5,17.3,1984,12.0,"tillage, undisturbed",14.0,8.0,Teiwes
+1352,,Hohes Feld Parabraunerde,silt loam,subangular,42.0,52.0,M2,,"Angerstein (Goettingen), Germany",Hohes Feld,63.0,0.5,17.3,1984,12.0,"Tillage, undisturbed",14.0,8.0,Teiwes
+1360,Eutrochrept,Reinhausen Pelosol,silty clay,angular blocky,0.0,20.0,Ap,,"Reinhausen (Goettingen), Germany",,,,,8/20/1987,13.0,"tillage, undisturbed",12.0,9.0,Wendroth
+1361,Eutrochrept,Reinhausen Pelosol,silty clay,crumb angular,0.0,20.0,Ah,,"Reinhausen (Goettingen), Germany",,,,,8/18/1987,13.0,"tillage, undisturbed",12.0,9.0,Wendroth
+1362,Eutrochrept,Reinhausen Pelosol,silty clay loam,crumb angular,10.0,25.0,Ah,,"Reinhausen (Goettingen), Germany",,,,,8/18/1987,13.0,"tillage, undisturbed",12.0,9.0,Wendroth
+1370,Gley-Pseudogley,Muenchehagen I,loam,crumb,0.0,14.0,Ah,,"Muenchehagen (Loccum), Germany",,,,,6/23/1987,13.0,"undisturbed, horizontal",12.0,9.0,Wendroth
+1371,Gley-Pseudogley,Muenchehagen I,silty clay loam,angular,14.0,35.0,Sw,,"Muenchehagen (Loccum), Germany",,,,,6/23/1987,13.0,"undisturbed, horizontal",12.0,9.0,Wendroth
+1372,Gley-Pseudogley,Muenchehagen I,silty clay loam,angular,35.0,70.0,GoSd,,"Muenchehagen (Loccum), Germany",,,,,6/23/1987,13.0,"undisturbed, horizontal",12.0,9.0,Wendroth
+1380,Pseudogley,Muenchehagen II,sandy loam,crumb,0.0,25.0,Ap,,"Muenchehagen (Loccum), Germany",,,,,6/23/1987,13.0,"undisturbed, horizontal",12.0,9.0,Wendroth
+1381,Pseudogley,Muenchehagen II,sandy loam,platy,25.0,35.0,Sw1,,"Muenchehagen (Loccum), Germany",,,,,6/23/1987,13.0,"undisturbed, horizontal",12.0,9.0,Wendroth
+1382,Pseudogley,Muenchehagen II,sandy clay loam,angular,35.0,60.0,Swd,,"Muenchehagen (Loccum), Germany",,,,,6/23/1987,13.0,"undisturbed, horizontal",12.0,9.0,Wendroth
+1383,Pseudogley,Muenchehagen II,silty clay,angular,60.0,100.0,Sd,,"Muenchehagen (Loccum), Germany",,,,,6/23/1987,13.0,"undisturbed, horizontal",12.0,9.0,Wendroth
+1390,,Hanau Braunerde,sandy loam,granular,0.0,35.0,Ap,,"Hanau (Giessen), Germany",,,,,6/8/1989,13.0,"tillage, undisturbed",12.0,9.0,Wendroth
+1391,,Hanau Braunerde,sandy loam,granular,0.0,35.0,Ah,,"Hanau (Giessen), Germany",,,,,6/8/1989,13.0,"tillage, undisturbed",12.0,9.0,Wendroth
+1392,,Hanau Braunerde,sandy loam,granular,0.0,35.0,Ah,,"Hanau (Giessen), Germany",,,,,6/8/1989,13.0,"tillage, undisturbed",12.0,9.0,Wendroth
+1400,Eutrochrept,Ziegelei Hoelle Pelosol,clay,angular,35.0,60.0,P,,"Ziegelei Hoelle (Goettingen), Germany",,,,,7/14/1987,13.0,undisturbed,12.0,9.0,Wendroth
+1410,,Medium sand,sand,single grain,,,P,,,,,,,1986,14.0,disturbed,15.0,8.0,Jaynes
+1420,"Fine-loamy, mixed, mesic Typic Haplaquoll",Webster,silty clay loam,,0.0,30.0,Ap,,"Iowa State Univ., IA, USA",Agronomy farm between Ames & Boone,,,,1967,15.0,disturbed,16.0,8.0,Fritton
+1430,Inceptisol,Rostock 1,sandy loam,aggregated,60.0,70.0,C,250.0,"Rostock, Germany","Exp. Sta., Rostock Univ.",62.0,-0.7000000000000001,16.4,1983,16.0,undisturbed,17.0,6.0,Bohne
+1440,Inceptisol,Rostock 2,sandy loam,aggregated,60.0,70.0,Bv,250.0,"Rostock, Germany","Exp. Sta., Rostock Univ.",62.0,0.0,16.4,1983,16.0,undisturbed,17.0,5.0,Bohne
+1450,Aquept,Rostock 3,sandy loam,aggregated,60.0,70.0,Bg,70.0,"Rostock, Germany","Exp. Sta., Rostock Univ.",62.0,0.0,16.4,1983,16.0,undisturbed,17.0,4.0,Bohne
+1460,,Berlin coarse sand 1,sand,single grain,,,,200.0,"Berlin, Germany",50 km North of Berlin,62.0,0.0,16.4,1984,17.0,disturbed,18.0,8.0,Bohne
+1461,,Berlin coarse sand 2,sand,single grain,,,C/G,200.0,"Berlin, Germany",50 km North of Berlin,62.0,0.0,16.4,1984,17.0,disturbed,18.0,8.0,Bohne
+1462,,Berlin medium sand 3,sand,single grain,,,C/G,200.0,"Berlin, Germany",50 km North of Berlin,62.0,0.0,16.4,1984,17.0,disturbed,18.0,8.0,Bohne
+1463,,Berlin medium sand 4,sand,single grain,,,C/G,200.0,"Berlin, Germany",50 km North of Berlin,62.0,0.0,16.4,1984,17.0,disturbed,18.0,8.0,Bohne
+1464,,Berlin medium sand 5,sand,single grain,60.0,120.0,C/G,200.0,"Berlin, Germany",50 km North of Berlin,62.0,0.0,16.4,1984,17.0,disturbed,18.0,8.0,Bohne
+1465,,Berlin fine sand 6,sand,single grain,,,C/G,200.0,"Berlin, Germany",50 km North of Berlin,62.0,0.0,16.4,1984,17.0,disturbed,18.0,8.0,Bohne
+1466,,Berlin fine sand 7,sand,single grain,,,C/G,200.0,"Berlin, Germany",50 km North of Berlin,62.0,0.0,16.4,1984,17.0,disturbed,18.0,8.0,Bohne
+1467,,Berlin loamy sand 8,sand,single grain,,,C/G,200.0,"Berlin, Germany",50 km North of Berlin,62.0,0.0,16.4,1984,17.0,disturbed,18.0,8.0,Bohne
+1480,,Solec Peat,,friable peat,0.0,10.0,Um,80.0,"Solec, Warsaw District, Poland",,60.0,-3.0,19.0,1980,999.0,undisturbed,19.0,8.0,Brandyk
+1481,,Solec Peat,,Peat,10.0,20.0,,80.0,"Solec, Warsaw District, Poland",,60.0,-3.0,19.0,1980,999.0,undisturbed,19.0,8.0,Brandyk
+1482,,Solec Peat,,Peat,20.0,50.0,,80.0,"Solec, Warsaw District, Poland",,60.0,-3.0,19.0,1980,999.0,undisturbed,19.0,8.0,Brandyk
+1490,"fine-silty Mixed, mesic Typic Hapludalf",Hottenrode Parabraunerde,silt loam,blocky,80.0,86.0,A1,,"Hottenrode (Goettingen), Germany",,,,,7/13/1987,13.0,undisturbed,12.0,9.0,Wendroth
+2000,,Lausebrink Colluvium 1,silt loam,angular and platy,0.0,30.0,Ap,,"Angerstein (Goettingen), Germany",Lausebrink,63.0,0.5,17.3,1984,19.0,"tillage, undisturbed",14.0,8.0,Teiwes
+2001,,Lausebrink Colluvium 1,silt loam,angular,32.0,42.0,M1,,"Angerstein (Goettingen), Germany",Lausebrink,63.0,0.5,17.3,1984,19.0,"tillage, undisturbed",14.0,8.0,Teiwes
+2002,,Lausebrink Colluvium 1,silt loam,angular,42.0,52.0,M2,,"Angerstein (Goettingen), Germany",Lausebrink,63.0,0.5,17.3,1984,19.0,"tillage, undisturbed",14.0,8.0,Teiwes
+2010,,Lausebrink Colluvium 2,silt loam,subangular and angular,0.0,30.0,Ap,,"Angerstein (Goettingen), Germany",Lausebrink,63.0,0.5,17.3,1984,19.0,"tillage, undisturbed",14.0,8.0,Teiwes
+2011,,Lausebrink Colluvium 2,silt loam,subangular and angular,32.0,42.0,M1,,"Angerstein (Goettingen), Germany",Lausebrink,63.0,0.5,17.3,1984,19.0,"tillage, undisturbed",14.0,8.0,Teiwes
+2012,,Lausebrink Colluvium 2,silt loam,subangular and angular,42.0,52.0,M2,,"Angerstein (Goettingen), Germany",Lausebrink,63.0,0.5,17.3,1984,19.0,"tillage, undisturbed",14.0,8.0,Teiwes
+2020,medial over cindery isothermic Typic Dystrandepts,Tantalus,silty clay loam,subangular blocky,19.0,27.0,A,1524.0,"Manoa Valley, Island of Oahu, HI, USA","Lyon Arboretum, Lower plot",406.40000000000003,12.8,32.2,1973-74,20.0,undisturbed,20.0,8.0,Ahuja
+2021,medial over cindery isothermic Typic Dystrandepts,Tantalus,silty clay loam,subangular blocky,42.0,80.0,B,1524.0,"Manoa Valley, Island of Oahu, HI, USA","Lyon Arboretum, Lower plot",406.40000000000003,12.8,32.2,1973-74,20.0,undisturbed,20.0,8.0,Ahuja
+2022,medial over cindery isothermic Typic Dystrandepts,Tantalus,silty clay loam,subangular blocky,103.0,111.0,C,1524.0,"Manoa Valley, Island of Oahu, HI, USA","Lyon Arboretum, Lower plot",406.40000000000003,12.8,32.2,1973-74,20.0,undisturbed,20.0,8.0,Ahuja
+2030,clayey kaol. isohyperthermic Tropeptic Haplustox,Lahaina,silty clay,cloddy,0.0,30.0,Ap,,"Oahu, HI, USA","L1-1, OP246, Mililani West",71.10000000000001,,,1977,21.0,undisturbed,20.0,,
+2031,clayey kaol. isohyperthermic Tropeptic Haplustox,Lahaina,silty clay,subangular blocky,30.0,45.0,B21,,"Oahu, HI, USA","L1-1, OP246, Mililani West",71.10000000000001,,,1977,21.0,undisturbed,20.0,,
+2032,clayey kaol. isohyperthermic Tropeptic Haplustox,Lahaina,silty clay,subangular blocky,45.0,107.0,B22,,"Oahu, HI, USA","L1-1, OP246, Mililani West",71.10000000000001,,,1977,21.0,undisturbed,20.0,,
+2040,clayey kaol. isohyperthermic Tropeptic Haplustox,Lahaina,silty clay,fine granular,0.0,41.0,Ap,,"Oahu, HI, USA","L2-1, Oahu Sugar Field 221, Kunia East",71.10000000000001,,,1977,21.0,undisturbed,20.0,,
+2041,clayey kaol. isohyperthermic Tropeptic Haplustox,Lahaina,silty clay,fine subangular blocky,41.0,92.0,B2,,"Oahu, HI, USA","L2-1, Oahu Sugar Field 221, Kunia East",71.10000000000001,,,1977,21.0,undisturbed,20.0,,
+2050,clayey kaolinitic isohyperthermic Typic Torrox,Molokai,silty clay loam,subangular blocky,0.0,48.0,Ap,,"Oahu, HI, USA","L3-1, Oahu Sugar Field 146 (north)",68.60000000000001,,,1977,21.0,undisturbed,20.0,,
+2051,clayey kaolinitic isohyperthermic Typic Torrox,Molokai,silty clay loam,weak subangular blocky,48.0,89.0,B2,,"Oahu, HI, USA","L3-1, Oahu Sugar Field 146 (north)",68.60000000000001,,,1977,21.0,undisturbed,20.0,,
+2060,clayey kaolinitic isohyperthermic Typic Torrox,Molokai,silty clay loam,fine granular,0.0,38.0,Ap,,"Oahu, HI, USA","M1-1, Oahu Sugar Field 146 (north)",63.5,,,1977,21.0,undisturbed,20.0,,
+2061,clayey kaolinitic isohyperthermic Typic Torrox,Molokai,silty clay loam,subangular blocky,38.0,81.0,B2,,"Oahu, HI, USA","M1-1, Oahu Sugar Field 146 (north)",63.5,,,1977,21.0,undisturbed,20.0,,
+2070,clayey kaolinitic isohyperthermic Typic Torrox,Molokai,silty clay loam,fine granular,0.0,36.0,Ap,,"Oahu, HI, USA","M3-1, Oahu Sugar Field 410 (183m SW reservoir)",63.5,,,1977,21.0,undisturbed,20.0,,
+2071,clayey kaolinitic isohyperthermic Typic Torrox,Molokai,silty clay loam,fine granular,36.0,56.0,B21,,"Oahu, HI, USA","M3-1, Oahu Sugar Field 410 (183m SW reservoir)",63.5,,,1977,21.0,undisturbed,20.0,,
+2080,clayey kaol. isohyperthermic Tropeptic Eutrustox,Wahiawa,silty clay,very fine granular,0.0,30.0,Ap,,"Oahu, HI, USA","W1-1, UH Poamoho Exp. Farm II",101.60000000000001,12.8,32.2,1977,21.0,undisturbed,20.0,,
+2081,clayey kaol. isohyperthermic Tropeptic Eutrustox,Wahiawa,silty clay,fine subangular blocky,30.0,96.0,B21,,"Oahu, HI, USA","W1-1, UH Poamoho Exp. Farm II",101.60000000000001,12.8,32.2,1977,21.0,undisturbed,20.0,,
+2090,clayey kaol. isohyperthermic Tropeptic Eutrustox,Wahiawa,silty clay,very fine granular,0.0,43.0,A1,,"Kunia, Oahu, HI, USA","W3-1, Oahu Sugar Field 157, Plot 1",76.2,,,1976,21.0,undisturbed,20.0,,
+2091,clayey kaol. isohyperthermic Tropeptic Eutrustox,Wahiawa,silty clay,medium subangular blocky,43.0,69.0,B21,,"Kunia, Oahu, HI, USA","W3-1, Oahu Sugar Field 157, Plot 1",76.2,,,1976,21.0,undisturbed,20.0,,
+2092,clayey kaol. isohyperthermic Tropeptic Eutrustox,Wahiawa,silty clay,fine subangular blocky,69.0,140.0,B23,,"Kunia, Oahu, HI, USA","W3-1, Oahu Sugar Field 157, Plot 1",76.2,,,1976,21.0,undisturbed,20.0,,
+2100,siliceous isohyperthermic Psammentic Paleustalf,Laboucheri,sand,coarse,0.0,30.0,A,,"ICRISAT, Sadore, Niger","ICRISAT Sahelian Center, pearl millet field",58.0,,,1987-88,22.0,undisturbed,21.0,,
+2101,siliceous isohyperthermic Psammentic Paleustalf,Laboucheri,loamy sand,coarse,30.0,51.0,Bt1,,"ICRISAT, Sadore, Niger","ICRISAT Sahelian Center, pearl millet field",58.0,,,1987-88,22.0,undisturbed,21.0,,
+2102,siliceous isohyperthermic Psammentic Paleustalf,Laboucheri,loamy sand,coarse,51.0,71.0,Bt2,,"ICRISAT, Sadore, Niger","ICRISAT Sahelian Center, pearl millet field",58.0,,,1987-88,22.0,undisturbed,21.0,,
+2103,siliceous isohyperthermic Psammentic Paleustalf,Laboucheri,loamy sand,coarse,71.0,99.0,Bt3,,"ICRISAT, Sadore, Niger","ICRISAT Sahelian Center, pearl millet field",58.0,,,1987-88,22.0,undisturbed,21.0,,
+2104,siliceous isohyperthermic Psammentic Paleustalf,Laboucheri,loamy sand,coarse,99.0,155.0,Bt4,,"ICRISAT, Sadore, Niger","ICRISAT Sahelian Center, pearl millet field",58.0,,,1987-88,22.0,undisturbed,21.0,,
+2105,siliceous isohyperthermic Psammentic Paleustalf,Laboucheri,loamy sand,coarse,155.0,280.0,Bt5,,"ICRISAT, Sadore, Niger","ICRISAT Sahelian Center, pearl millet field",58.0,,,1987-88,22.0,undisturbed,21.0,,
+2110,clayey kaolinitic thermic Typic Fragiudult,Gilead,loamy sand,very weak granular,0.0,23.0,Ap,,"Lillington, NC, USA",LIL-79-4,,,,Aug-79,999.0,undisturbed,4.0,5.0,Cassel
+2111,clayey kaolinitic thermic Typic Fragiudult,Gilead,sandy loam,very weak granular,23.0,36.0,E,,"Lillington, NC, USA",LIL-79-4,,,,Aug-79,999.0,undisturbed,4.0,7.0,Cassel
+2120,"loamy, siliceous, thermic Grossarenic Paleudult",Blanton,sand,single grain,0.0,15.0,Ap,,"Jackson Springs, NC, USA",JS-77-B1,,,,Oct-77,999.0,undisturbed,4.0,6.0,Cassel
+2121,"loamy, siliceous, thermic Grossarenic Paleudult",Blanton,sand,single grain,15.0,28.0,E1,,"Jackson Springs, NC, USA",JS-77-B1,,,,Oct-77,999.0,undisturbed,4.0,6.0,Cassel
+2122,"loamy, siliceous, thermic Grossarenic Paleudult",Blanton,sand,single grain,28.0,45.0,E2,,"Jackson Springs, NC, USA",JS-77-B1,,,,Oct-77,999.0,undisturbed,4.0,6.0,Cassel
+2123,"loamy, siliceous, thermic Grossarenic Paleudult",Blanton,sand,single grain,45.0,61.0,E3,,"Jackson Springs, NC, USA",JS-77-B1,,,,Oct-77,999.0,undisturbed,4.0,6.0,Cassel
+2124,"loamy, siliceous, thermic Grossarenic Paleudult",Blanton,sand,single grain,61.0,97.0,E4,,"Jackson Springs, NC, USA",JS-77-B1,,,,Oct-77,999.0,undisturbed,4.0,6.0,Cassel
+2125,"loamy, siliceous, thermic Grossarenic Paleudult",Blanton,sand,single grain,97.0,132.0,E5,,"Jackson Springs, NC, USA",JS-77-B1,,,,Oct-77,999.0,undisturbed,4.0,6.0,Cassel
+2126,"loamy, siliceous, thermic Grossarenic Paleudult",Blanton,sand,single grain,132.0,152.0,E6,,"Jackson Springs, NC, USA",JS-77-B1,,,,Oct-77,999.0,undisturbed,4.0,6.0,Cassel
+2130,"fine-loamy, siliceous, thermic Typic Paleaquult",Rains,sandy loam,weak fine granular,0.0,23.0,Ap,,"Kinston, NC, USA","Lower Coastal Plain Tobacco Res. Sta., K-76-R",129.03,6.7,26.1,7/8/1976,999.0,undisturbed,4.0,5.0,Cassel
+2131,"fine-loamy, siliceous, thermic Typic Paleaquult",Rains,sandy loam,weak fine granular,23.0,36.0,BA,,"Kinston, NC, USA","Lower Coastal Plain Tobacco Res. Sta., K-76-R",129.03,6.7,26.1,7/8/1976,999.0,undisturbed,4.0,5.0,Cassel
+2132,"fine-loamy, siliceous, thermic Typic Paleaquult",Rains,sandy loam,weak fine granular,36.0,56.0,Btg1,,"Kinston, NC, USA","Lower Coastal Plain Tobacco Res. Sta., K-76-R",129.03,6.7,26.1,7/8/1976,999.0,undisturbed,4.0,5.0,Cassel
+2140,sandy mixed mesic Dystric Fluventic Eutrochrept,Manawatu,silt loam,medium nutty structure,0.0,50.0,A,,"Massey Univ., Palmerston North, New Zealand","Dairy Farm #1, Microclimate (175 35""E, 41 35""S)",91.7,16.9,8.3,1981&88,23.0,"disturbed, undisturbed",22.0,7.0,Clothier
+2141,Sandy mixed mesic Dystric Fluventic Eutrochrept,Manawatu,sand,weak blocky structure,50.0,100.0,C,,"Massey Univ., Palmerston North, New Zealand","Dairy Farm #1, Microclimate (175 35""E, 41 35""S)",91.7,16.9,8.3,1981,24.0,disturbed,22.0,7.0,Clothier
+2150,coarse-loamy mixed mesic Fluventic Udic Ustochrept,Twyford,sandy loam,weak blocky structure,0.0,20.0,A,,"Havelock North, New Zealand","Red apple orchard, ""Gala"" apple block (176 50""E, 39 40""S)",80.9,17.8,7.2,Mar-88,23.0,undisturbed,22.0,7.0,Clothier
+2151,coarse-loamy mixed mesic Fluventic Udic Ustochrept,Twyford,sandy loam,weak blocky structure,30.0,60.0,C,,"Havelock North, New Zealand","Red apple orchard, ""Gala"" apple block (176 50""E, 39 40""S)",80.9,17.8,7.2,Mar-88,23.0,undisturbed,22.0,7.0,Clothier
+2160,,Ami,silt loam,subangular blocky,23.0,27.0,Ap,,"Ami, Inasiki, Ibaraki, Japan",Ibaraki University Field,146.0,4.7,21.5,Dec-89,999.0,undisturbed,23.0,4.0,Iwata
+2161,,Ami,silt loam,subangular blocky,33.0,37.0,BW,,"Ami, Inasiki, Ibaraki, Japan",Ibaraki University Field,146.0,4.7,21.5,Dec-89,999.0,undisturbed,23.0,4.0,Iwata
+2170,Hapludult,Iwatagahara,silt loam,weak granular,20.0,30.0,A,500.0,"Iwatagahara, Shizuoka, Japan",,236.1,6.0,25.2,,25.0,undisturbed,24.0,4.0,Iwata
+2171,Hapludult,Iwatagahara,clay loam,massive,50.0,70.0,B,500.0,"Iwatagahara, Shizuoka, Japan",,236.1,6.0,25.2,,25.0,undisturbed,24.0,4.0,Iwata
+2180,Dystrandepts,Hokota,silty clay,granular,20.0,30.0,A,500.0,"Hokota, Ibaraki, Japan",,134.1,2.5,23.3,,25.0,undisturbed,24.0,4.0,Iwata
+2181,Dystrandepts,Hokota,clay,weak massive,50.0,70.0,B,500.0,"Hokota, Ibaraki, Japan",,134.1,2.5,23.3,,25.0,undisturbed,24.0,4.0,Iwata
+2190,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2191,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2192,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2193,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2194,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2195,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2196,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2197,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2198,,Virginia Sand,sand,structureless,,,,,"SW Virginia, USA",,,,,,26.0,"multiphase retention, disturbed",25.0,6.0,
+2200,,Virginia Mixed Sand,sand,structureless,,,,,,,,,,,27.0,"multiphase retention, disturbed",25.0,9.0,Lenhard
+2201,,Virginia Mixed Sand,sand,structureless,,,,,,,,,,,27.0,"multiphase retention, disturbed",25.0,9.0,Lenhard
+2202,,Virginia Mixed Sand,sand,structureless,,,,,,,,,,,27.0,"multiphase retention, disturbed",25.0,9.0,Lenhard
+2203,,Virginia Mixed Sand,sand,structureless,,,,,,,,,,,27.0,"multiphase retention, disturbed",25.0,9.0,Lenhard
+2210,"Mixed, thermic, Typic Xeropsamment",Delhi,sand,granular,0.0,100.0,A,,"Contra Costa County, CA, USA",D2F2aC2,,,,1979,28.0,disturbed,26.0,8.0,Nimmo
+2211,"Mixed, thermic, Typic Xeropsamment",Delhi,sand,granular,0.0,100.0,A,,"Contra Costa County, CA, USA",D1F2aC2,,,,1979,29.0,disturbed,26.0,8.0,Nimmo
+2212,"Mixed, thermic, Typic Xeropsamment",Delhi,sand,granular,0.0,100.0,A,,"Contra Costa County, CA, USA",D1F2bC2,,,,1979,29.0,disturbed,26.0,8.0,Nimmo
+2213,"Mixed, thermic, Typic Xeropsamment",Delhi,sand,granular,0.0,100.0,A,,"Contra Costa County, CA, USA",D2F1aC2,,,,1979,29.0,disturbed,26.0,8.0,Nimmo
+2214,"Mixed, thermic, Typic Xeropsamment",Delhi,sand,granular,0.0,100.0,A,,"Contra Costa County, CA, USA",D2F2aC1,,,,1979,29.0,disturbed,26.0,8.0,Nimmo
+2215,"Mixed, thermic, Typic Xeropsamment",Delhi,sand,granular,0.0,100.0,A,,"Contra Costa County, CA, USA",D2F2bC1,,,,1979,29.0,disturbed,26.0,8.0,Nimmo
+2216,"Mixed, thermic, Typic Xeropsamment",Delhi,sand,granular,0.0,100.0,A,,"Contra Costa County, CA, USA",D2F1aC1,,,,1979,29.0,disturbed,26.0,8.0,Nimmo
+2217,"Mixed, thermic, Typic Xeropsamment",Delhi,sand,granular,0.0,100.0,A,,"Contra Costa County, CA, USA",D2F1aC1,,,,1979,29.0,disturbed,26.0,8.0,Nimmo
+2220,"Fluvaquents, Entisols","Poudre, Riverwash",sand,structureless,,,,,"Fort Collins, Co, USA",Sample D335,36.6,0.0,16.7,Feb-90,999.0,disturbed,27.0,6.0,Lorentz
+2221,"Fluvaquents, Entisols","Poudre, Riverwash",sand,structureless,,,,,"Fort Collins, CO, USA",Sample D305,36.6,0.0,16.7,Feb-90,999.0,disturbed,27.0,6.0,Lorentz
+2230,,Touchet,silt loam,granular,,,,,"Hanford, WA, USA","Columbia River basin, Hanford Lab (PNL)",,,,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2231,,Touchet,silt loam,granular,,,,,"Hanford, WA, USA","Columbia River basin, Hanford Lab (PNL)",,,,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2232,,Touchet,silt loam,granular,,,,,"Hanford, WA, USA","Columbia River basin, Hanford Lab (PNL)",,,,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2240,,Columbia,sandy loam,granular,,,,,"Hanford, WA, USA","Columbia River basin, Hanford Lab (PNL)",,,,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2241,,Columbia,sandy loam,granular,,,,,"Hanford, WA, USA","Columbia River basin, Hanford Lab (PNL)",,,,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2242,,Columbia,sandy loam,granular,,,,,"Hanford, WA, USA","Columbia River basin, Hanford Lab (PNL)",,,,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2243,,Columbia,sandy loam,granular,,,,,"Hanford, WA, USA","Columbia River basin, Hanford Lab (PNL)",,,,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2250,,FC Unconsolidated sand,sand,structureless,,,,,,,,,,1965-66,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2251,,FC Unconsolidated sand,sand,structureless,,,,,,,,,,1965-66,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2252,,FC Unconsolidated sand,sand,structureless,,,,,,,,,,1965-66,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2253,,FC Unconsolidated sand,sand,structureless,,,,,,,,,,1965-66,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2260,,FC semi-consolid. sandy loam,sandy loam,structureless,,,,,,,,,,1964-65,31.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2261,,FC semi-consolid. sandy loam,sandy loam,structureless,,,,,,,,,,1964-65,31.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2262,,FC semi-consolid. sandy loam,sandy loam,structureless,,,,,,,,,,1964-65,31.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2270,"fine-loamy, mixed, mesic, Ustollic Haplargids",FC clay loam,clay loam,blocky,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", vertical, undisturbed",27.0,7.0,Lorentz
+2271,"fine-loamy, mixed, mesic, Ustollic Haplargids",FC clay loam,clay loam,blocky,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", horizontal, undisturbed",27.0,7.0,Lorentz
+2272,"fine-loamy, mixed, mesic, Ustollic Haplargids",FC clay loam,clay loam,blocky,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2273,"fine-loamy, mixed, mesic, Ustollic Haplargids",FC clay loam,clay loam,blocky,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2280,"fine, montmorillonitic, mesic, Aridic Paleustoll",Weld,sandy loam,blocky,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", vertical, undisturbed",27.0,7.0,Lorentz
+2281,"fine, montmorillonitic, mesic, Aridic Paleustoll",Weld,sandy loam,blocky,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", horizontal, undisturbed",27.0,7.0,Lorentz
+2282,"fine, montmorillonitic, mesic, Aridic Paleustoll",Weld,sandy loam,blocky,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2283,"fine, montmorillonitic, mesic, Aridic Paleustoll",Weld,sandy loam,blocky,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2290,,Valentine,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,31.0,"Soltrol ""C"", vertical, undisturbed",27.0,7.0,Lorentz
+2291,,Valentine,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,31.0,"Soltrol ""C"", horizontal, undisturbed",27.0,7.0,Lorentz
+2292,,Valentine,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,31.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2293,,Valentine,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,31.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2300,,Cass,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", vertical, undisturbed",27.0,7.0,Lorentz
+2301,,Cass,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", horizontal, undisturbed",27.0,7.0,Lorentz
+2302,,Cass,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", vertical, undisturbed",27.0,7.0,Lorentz
+2303,,Cass,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", horizontal, undisturbed",27.0,7.0,Lorentz
+2304,,Cass,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", vertical, undisturbed",27.0,7.0,Lorentz
+2305,,Cass,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", horizontal, undisturbed",27.0,7.0,Lorentz
+2306,,Cass,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2307,,Cass,sandy loam,,,,,,"Fort Collins, CO, USA",,36.6,2.3000000000000003,16.4,1964-65,30.0,"Soltrol ""C"", disturbed",27.0,7.0,Lorentz
+2310,,ETH Sand,sand,,,,,,,,,,,,32.0,"hysteresis, disturbed",28.0,8.0,Stauffer
+2320,Gleyic Cambisol (FAO),Hasenholz,loam,crumbly,0.0,30.0,Ap,125.0,"Hasenholz, Germany","Diluvium, Kreis Strausberg (Brandenburg)",60.0,-0.6,17.8,May-87,33.0,undisturbed,29.0,,
+2321,Gleyic Cambisol (FAO),Hasenholz,loam,polyhedron,30.0,60.0,Sg,125.0,"Hasenholz, Germany","Diluvium, Kreis Strausberg (Brandenburg)",60.0,-0.6,17.8,May-87,33.0,undisturbed,29.0,,
+2330,Eutric Histosol (FAO),Ziethenhorst,,humified peat,0.0,10.0,Hn,80.0,"Ziethenhorst, Germany",Rhinluch (Brandenburg),50.0,-0.6,17.8,Sep-88,33.0,"peat, undisturbed",29.0,,
+2331,Eutric Histosol (FAO),Ziethenhorst,,crumbly peat,10.0,30.0,Hn,80.0,"Ziethenhorst, Germany",Rhinluch (Brandenburg),50.0,-0.6,17.8,Sep-88,33.0,"peat, undisturbed",29.0,,
+2332,Eutric Histosol (FAO),Ziethenhorst,,muddy peat,30.0,50.0,Hnc(F),80.0,"Ziethenhorst, Germany",Rhinluch (Brandenburg),50.0,-0.6,17.8,Sep-88,33.0,"peat, undisturbed",29.0,,
+2333,Eutric Histosol (FAO),Ziethenhorst,,peat,50.0,70.0,Hnc,80.0,"Ziethenhorst, Germany",Rhinluch (Brandenburg),50.0,-0.6,17.8,Sep-88,33.0,"peat, undisturbed",29.0,,
+2334,Eutric Histosol (FAO),Ziethenhorst,sand,granular,90.0,110.0,Gr,80.0,"Ziethenhorst, Germany",Rhinluch (Brandenburg),50.0,-0.6,17.8,Sep-88,33.0,"peat, undisturbed",29.0,,
+2340,Eutric Fluvisol (FAO),Schoenhausen,clay,small polyhedron (Feinpolyeder),20.0,40.0,Ah,100.0,"Schoenhausen, Germany",Elbaue Alluvium (Sachsen Anhalt),50.0,-0.6,17.8,Dec-79,33.0,undisturbed,29.0,,
+2341,Eutric Fluvisol (FAO),Schoenhausen,sandy clay loam,polyhedron (Polyeder),40.0,65.0,Go,100.0,"Schoenhausen, Germany",Elbaue Alluvium (Sachsen Anhalt),50.0,-0.6,17.8,Dec-79,33.0,undisturbed,29.0,,
+2342,Eutric Fluvisol (FAO),Schoenhausen,sand,granular,65.0,85.0,Gor,100.0,"Schoenhausen, Germany",Elbaue Alluvium (Sachsen Anhalt),50.0,-0.6,17.8,Dec-79,33.0,undisturbed,29.0,,
+2350,Eutric Fluvisol (FAO),Memleben,silty clay,large polyeder,35.0,45.0,Go,80.0,"Memleben, Germany",Unstrutaue Alluvium (Thueringen),55.0,-0.6,17.8,May-83,33.0,undisturbed,29.0,,
+2351,Eutric Fluvisol (FAO),Memleben,silt loam,coherent,45.0,80.0,Go,80.0,"Memleben, Germany",Unstrutaue Alluvium (Thueringen),55.0,-0.6,17.8,May-83,33.0,undisturbed,29.0,,
+2360,Eutric Fluvisol (FAO),Seelow,clay,crumbly,0.0,30.0,Ap,120.0,"Seelow, Germany",Oderbruch Alluvium (Brandenburg),51.0,-0.6,17.8,Jul-77,33.0,undisturbed,29.0,,
+2361,Eutric Fluvisol (FAO),Seelow,clay,polyeder,30.0,60.0,Go,120.0,"Seelow, Germany",Oderbruch Alluvium (Brandenburg),51.0,-0.6,17.8,May-77,33.0,undisturbed,29.0,,
+2362,Eutric Fluvisol (FAO),Seelow,clay,polyeder,60.0,90.0,Gor,120.0,"Seelow, Germany",Oderbruch Alluvium (Brandenburg),51.0,-0.6,17.8,Jul-77,33.0,undisturbed,29.0,,
+2370,"fine-loamy, mixed, frigid Pachic Haplaboroll",Dickey I,sandy clay loam,,0.0,15.0,A,,"Dickey County, ND, USA","Site #1, SE 1/4, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2371,"fine-loamy, mixed, frigid Pachic Haplaboroll",Dickey I,sandy clay loam,,15.0,30.0,A,,"Dickey County, ND, USA","Site #1, SE 1/4, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2372,"fine-loamy, mixed, frigid Pachic Haplaboroll",Dickey I,sandy clay loam,,30.0,61.0,B,,"Dickey County, ND, USA","Site #1, SE 1/4, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2373,"fine-loamy, mixed, frigid Pachic Haplaboroll",Dickey I,sandy loam,,61.0,91.0,C,,"Dickey County, ND, USA","Site #1, SE 1/4, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2374,"fine-loamy, mixed, frigid Pachic Haplaboroll",Dickey I,sandy loam,,91.0,152.0,C,,"Dickey County, ND, USA","Site #1, SE 1/4, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2380,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Embden,sandy loam,,0.0,15.0,A,,"Cass County, ND, USA","Site #2, center of S 14, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2381,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Embden,sandy loam,,15.0,30.0,A,,"Cass County, ND, USA","Site #2, center of S 14, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2382,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Embden,sandy loam,,30.0,61.0,B,,"Cass County, ND, USA","Site #2, center of S 14, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2383,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Embden,sandy loam,,61.0,91.0,B,,"Cass County, ND, USA","Site #2, center of S 14, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2384,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Embden,sand,,91.0,122.0,C,,"Cass County, ND, USA","Site #2, center of S 14, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2385,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Embden,sand,,122.0,152.0,C,,"Cass County, ND, USA","Site #2, center of S 14, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2390,"coarse-loamy, mix, frigid Pachic Udic Haplaboroll",Emrick,clay loam,,0.0,15.0,A,,"Foster County, ND, USA","Site #3, NE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2391,"coarse-loamy, mix, frigid Pachic Udic Haplaboroll",Emrick,clay loam,,15.0,30.0,A,,"Foster County, ND, USA","Site #3, NE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2392,"coarse-loamy, mix, frigid Pachic Udic Haplaboroll",Emrick,clay loam,,30.0,61.0,B,,"Foster County, ND, USA","Site #3, NE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2393,"coarse-loamy, mix, frigid Pachic Udic Haplaboroll",Emrick,clay loam,,61.0,91.0,Cca,,"Foster County, ND, USA","Site #3, NE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2394,"coarse-loamy, mix, frigid Pachic Udic Haplaboroll",Emrick,sandy clay loam,,91.0,122.0,C,,"Foster County, ND, USA","Site #3, NE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2395,"coarse-loamy, mix, frigid Pachic Udic Haplaboroll",Emrick,sandy clay loam,,122.0,152.0,C,,"Foster County, ND, USA","Site #3, NE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2400,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Gardena loam,loam,,0.0,15.0,A,,"Cass County, ND, USA","Site #5, NE 1/4, S 23, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2401,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Gardena loam,loam,,15.0,30.0,A,,"Cass County, ND, USA","Site #5, NE 1/4, S 23, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2402,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Gardena loam,loam,,30.0,61.0,B,,"Cass County, ND, USA","Site #5, NE 1/4, S 23, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2403,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Gardena loam,sandy loam,,61.0,91.0,Cca,,"Cass County, ND, USA","Site #5, NE 1/4, S 23, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2404,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Gardena loam,silt loam,,91.0,122.0,C,,"Cass County, ND, USA","Site #5, NE 1/4, S 23, T 137N, R54W",,,,,34.0,undisturbed,4.0,,
+2405,"coarse-loamy, mixed, frigid Pachic Haplaboroll",Gardena loam,silt loam,,122.0,152.0,C,,"Cass County, ND, USA","Site #5, NE 1/4, S 23, T 137N, R 54W",,,,,34.0,undisturbed,4.0,,
+2410,"coarse-silty, mixed, frigid Aeric Calciaquoll",Glyndon very fine sandy loam,sandy loam,,0.0,15.0,A,,"Cass County, ND, USA","Site #6, NE 1/4, S 16, T 142N, R 52W",,,,,34.0,undisturbed,4.0,,
+2411,"coarse-silty, mixed, frigid Aeric Calciaquoll",Glyndon very fine sandy loam,sandy clay loam,,15.0,30.0,A,,"Cass County, ND, USA","Site #6, NE 1/4, S 16, T 142N, R 52W",,,,,34.0,undisturbed,4.0,,
+2412,"coarse-silty, mixed, frigid Aeric Calciaquoll",Glyndon very fine sandy loam,sandy clay loam,,30.0,61.0,Cca,,"Cass County, ND, USA","Site #6, NE 1/4, S 16, T 142N, R 52W",,,,,34.0,undisturbed,4.0,,
+2413,"coarse-silty, mixed, frigid Aeric Calciaquoll",Glyndon very fine sandy loam,sandy loam,,61.0,91.0,C,,"Cass County, ND, USA","Site #6, NE 1/4, S 16, T 142N, R 52W",,,,,34.0,undisturbed,4.0,,
+2414,"coarse-silty, mixed, frigid Aeric Calciaquoll",Glyndon very fine sandy loam,sandy loam,,91.0,122.0,C,,"Cass County, ND, USA","Site #6, NE 1/4, S 16, T 142N, R 52W",,,,,34.0,undisturbed,4.0,,
+2415,"coarse-silty, mixed, frigid Aeric Calciaquoll",Glyndon very fine sandy loam,sandy loam,,122.0,152.0,C,,"Cass County, ND, USA","Site #6, NE 1/4, S 16, T 142N, R 52W",,,,,34.0,undisturbed,4.0,,
+2420,"sandy, mixed frigid Pachic Haplaboroll",Hecla,loamy sand,,0.0,15.0,A,,"Cass County, ND, USA","Site #7, SW 1/4, S 16, T 143N, R 53W",,,,,34.0,undisturbed,4.0,,
+2421,"sandy, mixed frigid Pachic Haplaboroll",Hecla,loamy sand,,15.0,30.0,A,,"Cass County, ND, USA","Site #7, SW 1/4, S 16, T 143N, R 53W",,,,,34.0,undisturbed,4.0,,
+2422,"sandy, mixed frigid Pachic Haplaboroll",Hecla,loamy sand,,30.0,61.0,B,,"Cass County, ND, USA","Site #7, SW 1/4, S 16, T 143N, R 53W",,,,,34.0,undisturbed,4.0,,
+2423,"sandy, mixed frigid Pachic Haplaboroll",Hecla,sand,,61.0,91.0,C,,"Cass County, ND, USA","Site #7, SW 1/4, S 16, T 143N, R 53W",,,,,34.0,undisturbed,4.0,,
+2424,"sandy, mixed frigid Pachic Haplaboroll",Hecla,sand,,91.0,122.0,C,,"Cass County, ND, USA","Site #7, SW 1/4, S 16, T 143N, R 53W",,,,,34.0,undisturbed,4.0,,
+2425,"sandy, mixed frigid Pachic Haplaboroll",Hecla,sand,,122.0,152.0,C,,"Cass County, ND, USA","Site #7, SW 1/4, S 16, T 143N, R 53W",,,,,34.0,undisturbed,4.0,,
+2430,"coarse-loamy, mixed, frigid Udic Haplaboroll",Heimdal,clay loam,,0.0,15.0,A,,"Foster County, ND, USA","Site #8, SE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2431,"coarse-loamy, mixed, frigid Udic Haplaboroll",Heimdal,clay loam,,15.0,30.0,B,,"Foster County, ND, USA","Site #8, SE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2432,"coarse-loamy, mixed, frigid Udic Haplaboroll",Heimdal,clay,,30.0,61.0,Cca,,"Foster County, ND, USA","Site #8, SE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2433,"coarse-loamy, mixed, frigid Udic Haplaboroll",Heimdal,clay loam,,61.0,92.0,C,,"Foster County, ND, USA","Site #8, SE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2434,"coarse-loamy, mixed, frigid Udic Haplaboroll",Heimdal,sandy clay loam,,92.0,122.0,C,,"Foster County, ND, USA","Site #8, SE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2435,"coarse-loamy, mixed, frigid Udic Haplaboroll",Heimdal,sandy clay loam,,122.0,152.0,C,,"Foster County, ND, USA","Site #8, SE 1/4, S 31, T 147N, R 66W",,,,,34.0,undisturbed,4.0,,
+2440,"sandy, mixed, frigid Udorthentic Haplaboroll",Dickey II,sandy loam,,0.0,15.0,A,,"Dickey County, ND, USA","Site #10, SE corner, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2441,"sandy, mixed, frigid Udorthentic Haplaboroll",Dickey II,sandy loam,,15.0,30.0,A,,"Dickey County, ND, USA","Site #10, SE corner, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2442,"sandy, mixed, frigid Udorthentic Haplaboroll",Dickey II,sandy loam,,30.0,61.0,B,,"Dickey County, ND, USA","Site #10, SE corner, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2443,"sandy, mixed, frigid Udorthentic Haplaboroll",Dickey II,loamy sand,,61.0,91.0,C,,"Dickey County, ND, USA","Site #10, SE corner, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2444,"sandy, mixed, frigid Udorthentic Haplaboroll",Dickey II,loamy sand,,91.0,122.0,C,,"Dickey County, ND, USA","Site #10, SE corner, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2445,"sandy, mixed, frigid Udorthentic Haplaboroll",Dickey II,loamy sand,,122.0,152.0,C,,"Dickey County, ND, USA","Site #10, SE corner, S 17, T 130N, R 57W",,,,,34.0,undisturbed,4.0,,
+2450,"fine-loamy, mixed frigid Cumulic Haplaboroll",Svea,loam,,0.0,15.0,A,,"Cavalier County, ND, USA","Site #11, NW 1/4, S 19, T 161N, R 59W",,,,,34.0,undisturbed,4.0,,
+2451,"fine-loamy, mixed frigid Cumulic Haplaboroll",Svea,sandy loam,,15.0,30.0,A,,"Cavalier County, ND, USA","Site #11, NW 1/4, S 19, T 161N, R 59W",,,,,34.0,undisturbed,4.0,,
+2452,"fine-loamy, mixed frigid Cumulic Haplaboroll",Svea,sandy clay loam,,30.0,61.0,B,,"Cavalier County, ND, USA","Site #11, NW 1/4, S 19, T 161N, R 59W",,,,,34.0,undisturbed,4.0,,
+2453,"fine-loamy, mixed frigid Cumulic Haplaboroll",Svea,sandy clay loam,,61.0,91.0,Cca,,"Cavalier County, ND, USA","Site #11, NW 1/4, S 19, T 161N, R 59W",,,,,34.0,undisturbed,4.0,,
+2454,"fine-loamy, mixed frigid Cumulic Haplaboroll",Svea,sandy loam,,91.0,122.0,C,,"Cavalier County, ND, USA","Site #11, NW 1/4, S 19, T 161N, R 59W",,,,,34.0,undisturbed,4.0,,
+2455,"fine-loamy, mixed frigid Cumulic Haplaboroll",Svea,sandy loam,,122.0,152.0,C,,"Cavalier County, ND, USA","Site #11, NW 1/4, S 19, T 161N, R 59W",,,,,34.0,undisturbed,4.0,,
+2460,,Terra-fusca Rendzina,silty clay,crumb,1.0,6.0,Ah,,"Goettingen, Germany","Mackenroeder Spitze 1, Goettinger Wald",81.3,0.0,16.5,1983-85,35.0,undisturbed,30.0,8.0,Gerke
+2461,,Terra-fusca Rendzina,silty clay,crumb polyeder,8.0,13.0,AhBv,,"Goettingen, Germany","Mackenroeder Spitze 1, Goettinger Wald",81.3,0.0,16.5,1983-85,35.0,undisturbed,30.0,8.0,Gerke
+2462,,Terra-fusca Rendzina,silty clay,polyeder,15.0,20.0,Bv,,"Goettingen, Germany","Mackenroede Spitze 1, Goettinger Wald",81.3,0.0,16.5,1983-85,35.0,undisturbed,30.0,8.0,Gerke
+2463,,Terra-fusca Rendzina,silty clay loam,polyeder plates,30.0,60.0,BvCv,,"Goettingen, Germany","Mackenroeder Spitze 1, Goettinger Wald",81.3,0.0,16.5,1983-85,35.0,undisturbed,30.0,8.0,Gerke
+2464,,Terra-fusca Rendzina,silty loam,platey,60.0,90.0,Cv,,"Goettingen, Germany","Mackenroeder Spitze 1, Goettinger Wald",81.3,0.0,16.5,1983-85,35.0,undisturbed,30.0,8.0,Gerke
+2470,,Terra-fusca Rendzina,silty clay,crumb,1.0,6.0,Ah,,"Goettingen, Germany","Mackenroeder Spitze 2, Goettinger Wald",81.3,0.0,16.5,1981-82,35.0,undisturbed,30.0,7.0,Gerke
+2471,,Terra-fusca Rendzina,silty clay,crumb polyeder,6.0,11.0,AhBv,,"Goettingen, Germany","Mackenroeder Spitze 2, Goettinger Wald",81.3,0.0,16.5,1981-82,35.0,undisturbed,30.0,7.0,Gerke
+2472,,Terra-fusca Rendzina,silty clay,polyeder,12.0,17.0,Bv,,"Goettingen, Germany","Mackenroeder Spitze 2, Goettinger Wald",81.3,0.0,16.5,1981-82,35.0,undisturbed,30.0,7.0,Gerke
+2480,Volcanoclastic Psamments,Ponticelli,loamy sand,,0.0,30.0,,400.0,"Ponticelli (Naples), Italy",Experimental farm,95.0,10.200000000000001,26.400000000000002,Jun-88,36.0,undisturbed,31.0,5.0,Ciollara & Comegna
+2481,Volcanoclastic Psamments,Ponticelli,loamy sand,,30.0,60.0,,400.0,"Ponticelli (Naples), Italy",Experimental farm,95.0,10.200000000000001,26.400000000000002,Jun-88,36.0,undisturbed,31.0,5.0,Ciollara & Comegna
+2482,,Ponticelli,loamy sand,,60.0,105.0,,400.0,"Ponticelli (Naples), Italy",Experimental farm,95.0,10.200000000000001,26.400000000000002,Jun-88,36.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2483,,Ponticelli,sand,,105.0,135.0,,400.0,"Ponticelli (Naples), Italy",Experimental farm,95.0,10.200000000000001,26.400000000000002,Jun-88,36.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2491,"silty-loam, calcareous, Vertic Xerofluvent",Policoro,silt loam,subangular coarse angular polyeders,20.0,35.0,Ap2,200.0,"Policoro (Matera), Italy","Pantanelli experimental farm, POL 34-85",55.5,8.0,26.0,Jul-86,37.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2492,"silty-loam, calcareous, Vertic Xerofluvent",Policoro,silt loam,subangular coarse angular polyeders,20.0,35.0,Apz,200.0,"Policoro (Matera), Italy","Pantanelli experimental farm, POL 39-86",55.5,8.0,26.0,Jul-86,37.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2493,"silty-loam, calcareous, Vertic Xerofluvent",Policoro,silt loam,subangular coarse angular polyeders,45.0,60.0,A1,200.0,"Policoro (Matera), Italy","Pantanelli experimental farm, POL 17-86",55.5,8.0,26.0,Jul-86,37.0,undisturbed,31.0,5.0,Ciollara & Comegna
+2530,"loamy, calcareous, Mollic Xerofluvent",S. Ferdinando,loam,,5.0,20.0,Ap,,"S. Ferdinando (Foggia), Italy","Pit x 4, SF20",50.0,6.4,26.1,Sep-78,38.0,undisturbed,31.0,,
+2531,"loamy, calcareous, Mollic Xerofluvent",S. Ferdinando,loam,,80.0,95.0,C1,,"S. Ferdinando (Foggia), Italy","Pit x 4, SF21",50.0,6.4,26.1,Sep-78,38.0,undisturbed,31.0,,
+2532,"loamy, calcareous, Mollic Xerofluvent",S. Ferdinando,sandy loam,,145.0,160.0,C2,,"S. Ferdinando (Foggia), Italy","Pit x 4, SF22",50.0,6.4,26.1,Sep-78,38.0,undisturbed,31.0,,
+2540,Psammentic Palexeralfs,Masseria Bozza,sand,fine moderate crumb,5.0,20.0,Ap,,"Ginosa (Taranto), Italy","Pit #10, GN23",57.4,7.7,25.1,Sep-82,39.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2541,Psammentic Palexeralfs,Masseria Bozza,sandy loam,fine moderate angular blocky,50.0,75.0,B1,,"Ginosa (Taranto), Italy","Pit #10, GN17",57.4,7.7,25.1,Sep-82,39.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2542,Psammentic Palexeralfs,Masseria Bozza,sandy clay loam,fine angular blocky,80.0,95.0,Bzt,,"Ginosa (Taranto), Italy","Pit #10, GN21",57.4,7.7,25.1,Sep-82,39.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2550,Psammentic Palexeralfs,Masseria Bozza,sandy,fine moderate crumb,5.0,20.0,Ap,,"Ginosa (Taranto), Italy","Pit #18, GN45",57.4,7.7,25.1,Sep-82,39.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2551,Psammentic Palexeralfs,Masseria Bozza,sandy loam,fine moderate angular blocky,35.0,50.0,B1,,"Ginosa (Taranto), Italy","Pit #18, GN65",57.4,7.7,25.1,Sep-82,39.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2552,Psammentic Palexeralfs,Masseria Bozza,sandy clay loam,fine angular blocky,90.0,105.0,Bzt,,"Ginosa (Taranto), Italy","Pit #18, GN25",57.4,7.7,25.1,Sep-82,39.0,undisturbed,31.0,5.0,Ciollaro & Comegna
+2560,,Hard,sandy loam,,20.0,50.0,(E)B,,"Hard, Switzerland",,,,,,40.0,undisturbed,32.0,,
+2561,,Hard,loamy sand,,118.0,130.0,(IIC)B,,"Hard, Switzerland",,,,,,40.0,undisturbed,32.0,,
+2562,,Hard,sand,,130.0,160.0,IIIC,,"Hard, Switzerland",,,,,,40.0,undisturbed,32.0,,
+2570,Typic Dystrochrept - Arenic Hapludalf,Winzlerboden,loamy sand,,0.0,20.0,Ah,,"Rheinau, Switzerland",Winzlerboden,77.7,,,5/7/1975,41.0,undisturbed,32.0,,
+2571,Typic Dystrochrept - Arenic Hapludalf,Winzlerboden,loamy sand,,20.0,50.0,(E)B,,"Rheinau, Switzerland",Winzlerboden,77.7,,,5/7/1975,41.0,undisturbed,32.0,,
+2572,Typic Dystrochrept - Arenic Hapludalf,Winzlerboden,sand,,50.0,70.0,Bv,,"Rheinau, Switzerland",Winzlerboden,77.7,,,5/7/1975,41.0,undisturbed,32.0,,
+2573,Typic Dystrochrept - Arenic Hapludalf,Winzlerboden,sand,,70.0,90.0,"Bv,(t)",,"Rheinau, Switzerland",Winzlerboden,77.7,,,5/7/1975,41.0,undisturbed,32.0,,
+2574,Typic Dystrochrept - Arenic Hapludalf,Winzlerboden,sand,,100.0,130.0,IIC,,"Rheinau, Switzerland",Winzlerboden,77.7,,,5/7/1975,41.0,undisturbed,32.0,,
+2580,Typic Udifluvent,Schachen,loam,,0.0,20.0,Ah,,"Burgdorf, Switzerland",Schachen,100.8,,,2/19/1975,42.0,undisturbed,32.0,,
+2581,Typic Udifluvent,Schachen,silt loam,,40.0,60.0,(B)C,,"Burgdorf, Switzerland",Schachen,100.8,,,2/19/1975,42.0,undisturbed,32.0,,
+2582,Typic Udifluvent,Schachen,silt loam,,80.0,100.0,(Go)C,,"Burgdorf, Switzerland",Schachen,0.8,,,2/19/1975,42.0,undisturbed,32.0,,
+2583,Typic Udifluvent,Schachen,sandy loam,,130.0,170.0,"Go,rII",,"Burgdorf, Switzerland",Schachen,100.8,,,2/19/1975,42.0,undisturbed,32.0,,
+2584,Typic Udifluvent,Schachen,sand,,170.0,190.0,GrIIC,,"Burgdorf, Switzerland",Schachen,100.8,,,2/19/1975,42.0,undisturbed,32.0,,
+2590,Aquic Eutrochrept,Abist,loam,,0.0,10.0,Ah,,"Marthalen, Switzerland",Abist,93.5,,,4/24/1976,43.0,undisturbed,32.0,,
+2591,Aquic Eutrochrept,Abist,loam,,40.0,60.0,Bv,,"Marthalen, Switzerland",Abist,93.5,,,4/24/1976,43.0,undisturbed,32.0,,
+2592,Aquic Eutrochrept,Abist,silt loam,,80.0,120.0,"Go,(r)",,"Marthalen, Switzerland",Abist,93.5,,,4/24/1976,43.0,undisturbed,32.0,,
+2593,Aquic Eutrochrept,Abist,silty clay loam,,120.0,160.0,"Go,(r)",,"Marthalen, Switzerland",Abist,,,,4/24/1976,43.0,undisturbed,32.0,,
+2600,,Megger-Wald,loam,,20.0,30.0,"Bv,(h)",,"Meggen, Switzerland",Megger-Wald,112.5,,,7/13/1979,44.0,undisturbed,32.0,,
+2601,,Megger-Wald,loam,,30.0,50.0,Bv,,"Megger, Switzerland",Megger-Wald,112.5,,,7/13/1979,44.0,undisturbed,32.0,,
+2602,,Megger-Wald,loam,,50.0,75.0,(Sw)B,,"Meggen, Switzerland",Megger-Wald,112.5,,,7/13/1979,44.0,undisturbed,32.0,,
+2603,,Megger-Wald,loam,,75.0,110.0,(Sd)BC,,"Meggen, Switzerland",Megger-Wald,112.5,,,7/13/1979,44.0,undisturbed,32.0,,
+2604,,Megger-Wald,loam,,110.0,150.0,(Sd)C,,"Meggen, Switzerland",Megger-Wald,112.5,,,7/13/1979,44.0,undisturbed,32.0,,
+2605,,Megger-Wald,loam,,150.0,170.0,C,,"Meggen, Switzerland",Megger-Wald,112.5,,,7/13/1979,44.0,undisturbed,32.0,,
+2610,Aquic Dystrochrept,Schmidwald,loam,,5.0,15.0,Ah,,"Melchnau, Switzerland",Schmidwald,110.0,,,6/11/1975,45.0,undisturbed,32.0,,
+2611,Aquic Dystrochrept,Schmidwald,loam,,15.0,55.0,(E)BSw,,"Melchnau, Switzerland",Schmidwald,110.0,,,6/11/1975,45.0,undisturbed,32.0,,
+2612,Aquic Dystrochrept,Schmidwald,silt loam,,55.0,105.0,"Sw,cn",,"Melchnau, Switzerland",Schmidwald,110.0,,,6/11/1975,45.0,undisturbed,32.0,,
+2613,Aquic Dystrochrept,Schmidwald,silt loam,,105.0,175.0,"Sd,cn",,"Melchnau, Switzerland",Schmidwald,110.0,,,6/11/1975,45.0,undisturbed,32.0,,
+2614,Aquic Dystrochrept,Schmidwald,loam,,175.0,250.0,"Sd,cn",,"Melchnau, Switzerland",Schmidwald,110.0,,,6/11/1975,45.0,undisturbed,32.0,,
+2620,,Rotenbach 3,clay,,0.0,10.0,(Go)Ah,,"Rotenbach, Schwarzsee, Switzerland",Rotenbach 3,164.8,,,8/19/1981,46.0,undisturbed,32.0,,
+2621,,Rotenbach 3,clay,,30.0,50.0,Go(r),,"Rotenbach, Schwarzsee, Switzerland",Rotenbach 3,164.8,,,8/19/1981,46.0,undisturbed,32.0,,
+2622,,Rotenbach 3,clay,,50.0,80.0,"Go,r",,"Rotenbach, Schwarzsee, Switzerland",Rotenbach 3,164.8,,,8/19/1981,46.0,undisturbed,32.0,,
+2630,,Tais Giuven,sandy clay loam,,40.0,60.0,Bfe,,,Tais Giuven (Par. 28),,,,,47.0,undisturbed,32.0,,
+2631,,Tais Giuven,sandy loam,,60.0,85.0,BC,,,Tais Giuven,,,,,47.0,undisturbed,32.0,,
+2640,Haplic Cryohumod,Guberwald,loamy sand,,40.0,60.0,E,,,Guberwald,180.0,,,6/4/1975,48.0,undisturbed,32.0,,
+2641,Haplic Cryohumod,Guberwald,loamy sand,,80.0,120.0,(S)Bfe,,,Guberwald,180.0,,,6/4/1975,48.0,undisturbed,32.0,,
+2642,Haplic Cryohumod,Guberwald,sandy loam,,140.0,160.0,(S)Bfe,,,Guberwald,180.0,,,6/4/1975,48.0,undisturbed,32.0,,
+2650,Aquic Arenic Hapludalf,Buchberg,loam,,0.0,20.0,Ah,,"Marthalen, Switzerland",Buchberg,93.5,,,4/30/1975,49.0,undisturbed,32.0,,
+2651,Aquic Arenic Hapludalf,Buchberg,loam,,20.0,60.0,(E)B,,"Marthalen, Switzerland",Buchberg,93.5,,,4/30/1975,49.0,undisturbed,32.0,,
+2652,Aquic Arenic Hapludalf,Buchberg,loam,,60.0,90.0,"Bv,t",,"Marthalen, Switzerland",Buchberg,93.5,,,4/30/1975,49.0,undisturbed,32.0,,
+2653,Aquic Arenic Hapludalf,Buchberg,loamy sand,,180.0,230.0,BC,,"Marthalen, Switzerland",Buchberg,93.5,,,4/30/1975,49.0,undisturbed,32.0,,
+2660,Typic Haplaquoll,Wuesttobel,clay,,30.0,60.0,GoE,,"Sihlwald, Switzerland",Wuesttobel,129.5,,,5/28/1975,50.0,undisturbed,32.0,,
+2661,Typic Haplaquoll,Wuesttobel,clay loam,,105.0,145.0,Go(r),,"Sihlwald, Switzerland",Wuesttobel,129.5,,,5/28/1975,50.0,undisturbed,32.0,,
+2670,Typic Hapludalf,Oberforst,silt loam,,75.0,125.0,(S)Bt,,"Moehlin, Switzerland",Oberforst,96.8,,,9/25/1975,51.0,undisturbed,32.0,,
+2671,Typic Hapludalf,Oberforst,silt loam,,125.0,175.0,Bcn,,"Moehlin, Switzerland",Oberforst,96.8,,,9/25/1975,51.0,undisturbed,32.0,,
+2672,Typic Hapludalf,Oberforst,silt loam,,325.0,375.0,C,,"Moehlin, Switzerland",Oberforst,96.8,,,9/25/1975,51.0,undisturbed,32.0,,
+2680,Typic Dystrochrept,Steig,loam,,0.0,20.0,Ah,,"Irchel, Switzerland",Steig,95.4,,,5/14/1975,52.0,undisturbed,32.0,,
+2681,Typic Dystrochrept,Steig,clay,,20.0,100.0,(S)Btc,,"Irchel, Switzerland",Steig,95.4,,,5/14/1975,52.0,undisturbed,32.0,,
+2682,Typic Dystrochrept,Steig,clay loam,,100.0,130.0,S-Btcn,,"Irchel, Switzerland",Steig,95.4,,,5/14/1975,52.0,undisturbed,32.0,,
+2683,Typic Dystrochrept,Steig,clay loam,,130.0,180.0,BcnC,,"Irchel, Switzerland",Steig,95.4,,,5/14/1975,52.0,undisturbed,32.0,,
+2690,Typic Rendoll,Oesterliwald,clay,,0.0,20.0,Ah,,"Baden, Switzerland",Oesterliwald,110.7,,,4/23/1979,53.0,undisturbed,32.0,,
+2691,Typic Rendoll,Oesterliwald,clay,,20.0,60.0,AhC,,"Baden, Switzerland",Oesterliwald,110.7,,,4/23/1979,53.0,undisturbed,32.0,,
+2700,Eutrochreptic Rendoll,Schitterwald,clay loam,,0.0,20.0,Ah,,"Weissenstein, Switzerland",Schitterwald,145.0,,,10/27/1976,54.0,undisturbed,32.0,,
+2701,Eutrochreptic Rendoll,Schitterwald,clay loam,,20.0,50.0,AhC,,"Weissenstein, Switzerland",Schitterwald,145.0,,,10/27/1976,54.0,undisturbed,32.0,,
+2710,Aquic Dystric Eutrochrept,Riedhof,silt loam,,0.0,20.0,Ah,,"Langenthal, Switzerland",Riedhof,115.4,,,6/19/1975,55.0,undisturbed,32.0,,
+2711,Aquic Dystric Eutrochrept,Riedhof,silt loam,,20.0,35.0,(E)B,,"Langenthal, Switzerland",Riedhof,115.4,,,6/19/1975,55.0,undisturbed,32.0,,
+2712,Aquic Dystric Eutrochrept,Riedhof,silt loam,,35.0,50.0,(Sw)Bt,,"Langenthal, Switzerland",Riedhof,115.4,,,6/19/1975,55.0,undisturbed,32.0,,
+2713,Aquic Dystric Eutrochrept,Riedhof,silt loam,,70.0,120.0,(Sd)BC,,"Langenthal, Switzerland",Riedhof,115.4,,,6/19/1975,55.0,undisturbed,32.0,,
+2720,Aquic Dystrochrept,Ober-Rickenzopfen,silt loam,,0.0,20.0,Ah,,"Langenthal, Switzerland",Ober-Rickenzopfen,115.4,,,6/19/1975,56.0,undisturbed,32.0,,
+2721,Aquic Dystrochrept,Ober-Rickenzopfen,silt loam,,20.0,50.0,(E)Sw,,"Langenthal, Switzerland",Ober-Rickenzopfen,115.4,,,6/19/1975,56.0,undisturbed,32.0,,
+2722,Aquic Dystrochrept,Ober-Rickenzopfen,silt loam,,50.0,100.0,(BC)Sd,,"Langenthal, Switzerland",Ober-Rickenzopfen,115.4,,,6/19/1975,56.0,undisturbed,32.0,,
+2723,Aquic Dystrochrept,Ober-Rickenzopfen,silt loam,,100.0,150.0,(Sd)C,,"Langenthal, Switzerland",Ober-Rickenzopfen,115.4,,,6/19/1975,56.0,undisturbed,32.0,,
+2730,Humic Haplaquept,Unter-Rickenzopfen,silt loam,,0.0,35.0,H,,"Langenthal, Switzerland",Unter-Rickenzopfen,115.4,,,6/19/1975,57.0,undisturbed,32.0,,
+2731,Humic Haplaquept,Unter-Rickenzopfen,silt loam,,35.0,65.0,SwE,,"Langenthal, Switzerland",Unter-Rickenzopfen,115.4,,,6/19/1975,57.0,undisturbed,32.0,,
+2732,Humic Haplaquept,Unter-Rickenzopfen,silt loam,,65.0,95.0,"Sd,cn",,"Langenthal, Switzerland",Unter-Rickenzopfen,115.4,,,6/19/1975,57.0,undisturbed,32.0,,
+2740,,Cima Pianca,clay loam,,0.0,35.0,Ah,,"Novaggio, Switzerland",Cima Pianca,227.70000000000002,,,9/9/1975,58.0,undisturbed,32.0,,
+2741,,Cima Pianca,loam,,35.0,65.0,(E)A,,"Novaggio, Switzerland",Cima Pianca,227.70000000000002,,,9/9/1975,58.0,undisturbed,32.0,,
+2742,,Cima Pianca,loam,,65.0,95.0,EA,,"Novaggio, Switzerland",Cima Pianca,227.70000000000002,,,9/9/1975,58.0,undisturbed,32.0,,
+2743,,Cima Pianca,clay loam,,95.0,125.0,Bh(fe),,"Novaggio, Switzerland",Cima Pianca,227.70000000000002,,,9/9/1975,58.0,undisturbed,32.0,,
+2750,,Bruennli,loam,,0.0,30.0,(E)B,,"Zugerberg, Switzerland",Bruennli,156.5,,,11/8/1979,59.0,undisturbed,32.0,,
+2751,,Bruennli,sandy loam,,30.0,60.0,Bv,,"Zugerberg, Switzerland",Bruennli,156.5,,,11/8/1979,59.0,undisturbed,32.0,,
+2752,,Bruennli,loam,,60.0,100.0,(Sd)BC,,"Zugerberg, Switzerland",Bruennli,156.5,,,11/8/1979,59.0,undisturbed,32.0,,
+2753,,Bruennli,sandy loam,,100.0,120.0,(Sd)BC,,"Zugerberg, Switzerland",Bruennli,156.5,,,11/8/1979,59.0,undisturbed,32.0,,
+2760,,Stockeren,silt loam,,0.0,20.0,Ah,,"Lyss, Switzerland",Stockeren,108.2,,,10/10/1979,60.0,undisturbed,32.0,,
+2761,,Stockeren,silt loam,,20.0,40.0,(B)Ah,,"Lyss, Switzerland",Stockeren,108.2,,,10/10/1979,60.0,undisturbed,32.0,,
+2762,,Stockeren,sandy loam,,40.0,65.0,(B)C,,"Lyss, Switzerland",Stockeren,108.2,,,10/10/1979,60.0,undisturbed,32.0,,
+2763,,Stockeren,loamy sand,,65.0,85.0,(Go)C,,"Lyss, Switzerland",Stockeren,,,,10/10/1979,60.0,undisturbed,32.0,,
+2764,,Stockeren,sandy loam,,85.0,115.0,"Go,(r)",,"Lyss, Switzerland",Stockeren,108.2,,,10/10/1979,60.0,undisturbed,32.0,,
+2765,,Stockeren,sandy loam,,115.0,140.0,"Gr,(o)",,"Lyss, Switzerland",Stockeren,108.2,,,10/10/1979,60.0,undisturbed,32.0,,
+3000,Podzols,Dmitrov clay,sandy loam,,0.0,10.0,A,150.0,"Dmitrov region, Moscow, Russia",Lysimeter station,50.0,,18.400000000000002,9/4/1989,61.0,undisturbed,33.0,,
+3010,Soddy gley,Dmitrov gley,sandy loam,,0.0,12.0,A,150.0,"Dmitrov region, Moscow, Russia",Lysimeter station,50.0,,18.400000000000002,9/4/1989,61.0,undisturbed,33.0,,
+3020,Podzols,Dmitrov sand,sand,,0.0,10.0,A,150.0,"Dmitrov region, Moscow, Russia",Lysimeter station,50.0,,18.400000000000002,9/4/1989,61.0,undisturbed,33.0,,
+3030,Chernozem,Orenburg Chernozem,silty clay,,0.0,22.0,A,,"Orenburg region, Russia",Northwestern plot,,-16.0,18.0,9/15/1989,62.0,"undisturbed, disturbed",33.0,,
+3031,Chernozem,Orenburg Chernozem,clay loam,,22.0,38.0,B,,"Orenburg region, Russia",Northwestern plot,,-16.0,18.0,9/15/1989,62.0,"undisturbed, disturbed",33.0,,
+3032,Chernozem,Orenburg Chernozem,clay loam,,38.0,90.0,BC,,"Orenburg region, Russia",Northwestern plot,,-16.0,18.0,9/15/1989,62.0,"undisturbed, disturbed",33.0,,
+3033,Chernozem,Orenburg Chernozem,clay loam,,90.0,200.0,C,,"Orenburg region, Russia",Northwestern plot,,-16.0,18.0,9/15/1989,62.0,"undisturbed, disturbed",33.0,,
+3050,,Shirasu,sandy loam,,,,,,"Kyusyu District, Japan",,237.5,7.0,27.2,Jan-88,999.0,,34.0,,
+3060,,Hokkaido,sand,,,,,,"Hokkaido, Japan",,130.7,-5.2,19.0,Jan-82,999.0,,34.0,,
+3070,,Toyoura Sand I,sand,,,,,,"Toyoura, Yamaguchi Prefecture, Japan",,171.8,5.5,25.3,Jan-79,999.0,,34.0,,
+3080,,Toyoura Sand II,sand,,,,,,"Toyoura, Yamaguchi Prefecture, Japan",,171.8,5.5,25.3,Jan-88,999.0,,34.0,,
+3090,Chernozem (on Loess),Odessa Chernozem,silt loam,,0.0,20.0,Ap,1300.0,"Ukraine, Odessa region, Russia",,49.0,-4.2,21.5,Jul-88,63.0,undisturbed,35.0,6.0,Shein
+3091,Chernozem (on Loess),Odessa Chernozem,silt loam,,20.0,44.0,A1,1300.0,"Ukraine, Odessa region, Russia",,49.0,-4.2,21.5,Jul-88,63.0,undisturbed,35.0,6.0,Shein
+3093,Chernozem (on Loess),Odessa Chernozem,silt loam,,130.0,185.0,BC,1300.0,"Ukraine, Odessa region, Russia",,49.0,-4.2,21.5,Jul-88,63.0,undisturbed,35.0,6.0,Shein
+3100,Chernozem,Moldova Chernozem I,silty clay loam,,0.0,11.0,Ap,2400.0,"Moldova, Dnestr region, Russia",bare fallow,64.0,-7.4,23.400000000000002,Sep-85,64.0,undisturbed,35.0,6.0,Shein
+3101,Chernozem,Moldova Chernozem I,silty clay loam,,16.0,32.0,A1,2400.0,"Moldova, Dnestr region, Russia",bare fallow,64.0,-7.4,23.400000000000002,Sep-85,64.0,undisturbed,35.0,6.0,Shein
+3102,Chernozem,Moldova Chernozem I,silty clay loam,,40.0,70.0,A12,2400.0,"Moldova, Dnestr region, Russia",bare fallow,64.0,-7.4,23.400000000000002,Sep-85,64.0,undisturbed,35.0,6.0,Shein
+3103,Chernozem,Moldova Chernozem I,silty clay loam,,80.0,100.0,AB,2400.0,"Moldova, Dnestr region, Russia",bare fallow,64.0,-7.4,23.400000000000002,Sep-85,64.0,undisturbed,35.0,6.0,Shein
+3110,Chernozem,Moldova Chernozem II,silty clay loam,,5.0,15.0,A,2400.0,"Moldova, Dnestr region, Russia",apple orchard,64.0,-7.4,23.400000000000002,6/9/1985,64.0,undisturbed,35.0,6.0,Shein
+3111,Chernozem,Moldova Chernozem II,silty clay loam,,15.0,30.0,A1,2400.0,"Moldova, Dnestr region, Russia",apple orchard,64.0,-7.4,23.400000000000002,6/9/1985,64.0,undisturbed,35.0,6.0,Shein
+3112,Chernozem,Moldova Chernozem II,silty clay loam,,40.0,50.0,A12,2400.0,"Moldova, Dnestr region, Russia",apple orchard,64.0,-7.4,23.400000000000002,6/9/1985,64.0,undisturbed,35.0,4.0,Shein
+3113,Chernozem,Moldova Chernozem II,silty clay loam,,85.0,90.0,AB,2400.0,"Moldova, Dnestr region, Russia",apple orchard,64.0,-7.4,23.400000000000002,6/9/1985,64.0,undisturbed,35.0,4.0,Shein
+3120,"Fine, mixed, hyperthermic, lypic, hapagnept",Canning,silty clay,subangular blocky,0.0,15.0,A,100.0,"Canning Town, W. Bengal India","C.S.S.R.I., Regional Res. Sta., East plot Canning Res. farm",175.0,19.0,28.0,1990,65.0,disturbed,36.0,,
+3130,"sandy, mixed, frigid Typic Haplaquoll",Hamar,loamy sand,weak medium fine subangular blocky,0.0,15.0,A1p,,"Dickey Co., ND, USA","A1 (north) Heimbuch, S 26, T 130N, R59W",,,,9/10/1984,66.0,undisturbed,37.0,,
+3131,"sandy, mixed, frigid Typic Haplaquoll",Hamar,loamy sand,moderate coarse medium prismatic,15.0,30.0,A12,,"Dickey Co., ND, USA","A1 (north) Heimbuch, S 26, T 130N, R 59W",,,,9/10/1984,66.0,undisturbed,37.0,,
+3132,"sandy, mixed, frigid Typic Haplaquoll",Hamar,sand,very weak coarse prismatic,46.0,61.0,Bg,,"Dickey Co., ND, USA","A1 (north) Heimbuch, S 26, T 130N, R 59W",,,,9/10/1984,66.0,undisturbed,37.0,,
+3133,"sandy, mixed, frigid Typic Haplaquoll",Hamar,sand,very weak coarse prismatic,91.0,106.0,Cg1,,"Dickey Co., ND, USA","A1 (north) Heimbuch, S 26, T 130N, R 59W",,,,9/10/1984,66.0,undisturbed,37.0,,
+3134,"sandy, mixed, frigid Typic Haplaquoll",Hamar,sand,very weak coarse prismatic,106.0,122.0,Cg2,,"Dickey Co., ND, USA","A1 (north) Heimbuch, S 26, T 130N, R 59W",,,,9/10/1984,66.0,undisturbed,37.0,,
+3140,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,sand,weak medium and fine subang. blocky,0.0,15.0,A1p,,"Dickey Co., ND, USA","B1 (East) Heimbuch, S 26, T 130N, R 59W",,,,Oct-84,66.0,undisturbed,37.0,,
+3141,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,sand,mod. coarse and med. subang. blocky,15.0,30.0,A12,,"Dickey Co., ND, USA","B1 (East) Heimbuch, S 26, T 130N, R 59W",,,,Sep-84,66.0,undisturbed,37.0,,
+3142,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,sand,weak coarse and med. subang. blocky,30.0,46.0,Bw,,"Dickey Co., ND, USA","B1 (East) Heimbuch, S 26, T 130 N, R 59W",,,,Oct-84,66.0,,37.0,,
+3143,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,sand,coarse and med. prismatic,61.0,76.0,C,,"Dickey Co., ND, USA","B1 (East) Heimbuch, S 26, T 130N, R 59W",,,,Oct-84,66.0,,37.0,,
+3144,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,sand,weak coarse and med. prismatic,91.0,106.0,Cg,,"Dickey Co., ND, USA","B1 (East) Heimbuch, S 26, T 130N, R 59W",,,,Sep-84,66.0,undisturbed,37.0,,
+3150,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,loamy sand,mod. coarse and med. subang. blocky,0.0,15.0,A1p,,"Dickey Co., ND, USA","C-1 (north) Heimbuch, S 26, T 130N, R 59W",,,,Sep-84,66.0,,37.0,,
+3151,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,loamy sand,mod. coarse and med. prismatic,15.0,30.0,A12,,"Dickey Co., ND, USA","C-1 (north) Heimbuch, S 26, T 130N, R 59W",,,,Oct-84,66.0,,37.0,,
+3152,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,loamy sand,mod. coarse and med. prismatic,30.0,46.0,A13,,"Dickey Co., ND, USA","C-1 (north) Heimbuch, S 26, T 130N, R 59W",,,,Sep-84,66.0,,37.0,,
+3153,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,sand,weak coarse and med. prismatic,61.0,76.0,Bw,,"Dickey Co., ND, USA","C-1 (north) Heimbuch, S 26, T 130N, R 59W",,,,Oct-84,66.0,,37.0,,
+3154,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,sand,weak coarse and med. prismatic,76.0,91.0,C,,"Dickey Co., ND, USA","C-1 (north) Heimbuch, S 26, T 130N, R 59W",,,,Sep-84,66.0,,37.0,,
+3155,"sandy, mixed, Aquic Haploboroll",Hecla loamy sand,sand,weak coarse and med. prismatic,106.0,122.0,Cg,,"Dickey Co., ND, USA","C-1 (north) Heimbuch, S 26, T 130N, R 59W",,,,Oct-84,66.0,,37.0,,
+3160,"sandy, mixed, Aquic Haploboroll",Hecla loamy-fine sand,loamy sand,weak coarse and med. granular,0.0,15.0,A1p,,"Dickey Co., ND, USA","D-1 (west), S 9, T 130N, R 59W",,,,Jun-85,66.0,,37.0,,
+3161,"sandy, mixed, Aquic Haploboroll",Hecla loamy-fine sand,loamy sand,weak medium prismatic,15.0,30.0,A12,,"Dickey Co., ND, USA","D-1 (west), S 9, T 130N, R 59W",,,,Jul-84,66.0,,37.0,,
+3162,"sandy, mixed, Aquic Haploboroll",Hecla loamy-fine sand,sand,weak medium prismatic,46.0,61.0,Bw,,"Dickey Co., ND, USA","D-1 (west), S 9, T 130N, R 59W",,,,Jun-85,66.0,,37.0,,
+3163,"sandy, mixed, Aquic Haploboroll",Hecla loamy-fine sand,sand,single grain,61.0,91.0,C1g,,"Dickey Co., ND, USA","D-1 (west), S 9, T 130N, R 59W",,,,Jun-85,66.0,,37.0,,
+3164,"sandy, mixed, Aquic Haploboroll",Hecla loamy-fine sand,sand,single grain,91.0,122.0,C2g,,"Dickey Co., ND, USA","D-1 (west), S 9, T 130N, R 59W",,,,Jul-85,66.0,,37.0,,
+3165,"sandy, mixed, Aquic Haploboroll",Hecla loamy-fine sand,sand,single grain,122.0,151.0,C3g,,"Dickey Co., ND, USA","D-1 (west), S 9, T 130N, R 59W",,,,Jun-85,66.0,,37.0,,
+3170,"sandy, frigid Aeric Calciaquoll",Ulen,loamy sand,weak coarse and med. granular,0.0,15.0,A1p,,"Dickey Co., ND, USA","E-1 (north), S 9, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3171,"sandy, frigid Aeric Calciaquoll",Ulen,loamy sand,weak coarse prismatic,30.0,46.0,A12,,"Dickey Co., ND, USA","E-1 (north), S 9, T 130N, R 59W",,,,Jun-85,66.0,,37.0,,
+3172,"sandy, frigid Aeric Calciaquoll",Ulen,sand,weak very coarse prismatic,46.0,61.0,Bk,,"Dickey Co., ND, USA","E-1 (north), S 9, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3173,"sandy, frigid Aeric Calciaquoll",Ulen,sand,weak very coarse prismatic,61.0,91.0,BCk,,"Dickey Co., ND, USA","E-1 (north), S 9, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3174,"sandy, frigid Aeric Calciaquoll",Ulen,sand,very weak very coarse prismatic,91.0,122.0,C1g,,"Dickey Co., ND, USA","E-1 (north), S 9, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3175,"sandy, frigid Aeric Calciaquoll",Ulen,sand,single grain,122.0,152.0,C2g,,"Dickey Co., ND, USA","E-1 (north), S 9, T 130N, R 59W",,,,Jun-85,66.0,,37.0,,
+3180,"coarse-loamy, frigid Typic Calciaquoll",Arveson,sandy loam,moderate coarse prismatic,30.0,46.0,Bk,,"Dickey, Co., ND, USA","F-1(north),S9,T130N,R59W",,,,Aug-85,66.0,,37.0,,
+3181,"coarse-loamy, frigid Typic Calciaquoll",Arveson,sand,very weak very coarse prismatic,61.0,91.0,C1,,"Dickey Co., ND, USA","F-1 (north),S9,T130N,R59W",,,,Jun-85,66.0,,37.0,,
+3182,"coarse-loamy, frigid Typic Calciaquoll",Arveson,sand,very weak very coarse prismatic,91.0,122.0,C2g,,"Dickey Co., ND, USA","F-1 (north), S 9, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3183,"coarse-loamy, frigid Typic Calciaquoll",Arveson,sand,massive,152.0,182.0,C3,,"Dickey Co., ND, USA","F-1 (north), S 9, T 130N, R 59W",,,,Jun-85,66.0,,37.0,,
+3190,coarse-loamy mixed Udic Haploboroll,Heimdal loam,loam,moderate coarse medium granular,0.0,15.0,A1p,,"Dickey Co., ND, USA","G-1 (north), S 25, T 131N, R 59W",,,,Aug-85,66.0,,37.0,,
+3191,coarse-loamy mixed Udic Haploboroll,Heimdal loam,loam,moderate medium prismatic,15.0,30.0,A12,,"Dickey Co., ND, USA","G-1 (north), S 25, T 131N, R 59W",,,,Aug-85,66.0,,37.0,,
+3192,coarse-loamy mixed Udic Haploboroll,Heimdal loam,loam,moderate coarse prismatic,30.0,45.0,Bw,,"Dickey Co., ND, USA","G-1 (north), S 25, T 131N, R 59W",,,,Jun-85,66.0,,37.0,,
+3193,coarse-loamy mixed Udic Haploboroll,Heimdal loam,loam,moderate coarse prismatic,46.0,61.0,BCk,,"Dickey Co., ND, USA","G-1 (north), S 25, T 131N, R 59W",,,,Aug-85,66.0,,37.0,,
+3194,coarse-loamy mixed Udic Haploboroll,Heimdal loam,loam,weak coarse prismatic,91.0,122.0,C1,,"Dickey Co., ND, USA","G-1 (north), S 25, T 131N, R 59W",,,,Aug-85,66.0,,37.0,,
+3195,coarse-loamy mixed Udic Haploboroll,Heimdal loam,loam,weak coarse prismatic,122.0,152.0,C2,,"Dickey Co., ND, USA","G-1 (north), S 25, T 131N, R 59W",,,,Aug-85,66.0,,37.0,,
+3200,"coarse-loamy, mixed, frigid Typic Natraquoll",Stirum,sandy loam,moderate medium granular,0.0,15.0,Ap,,"Dickey Co., ND, USA","H-1 (north), S 29, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3201,"coarse-loamy, mixed, frigid Typic Natraquoll",Stirum,sandy loam,strong coarse and med. ang. blocky,15.0,30.0,Bt,,"Dickey Co., ND, USA","H-1 (north), S 29, T 130N, R 59W",,,,Oct-85,66.0,,37.0,,
+3202,"coarse-loamy, mixed, frigid Typic Natraquoll",Stirum,sandy clay loam,moderate coarse prismatic,30.0,46.0,Btk1,,"Dickey Co., ND, USA","H-1 (north), S 29, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3203,"coarse-loamy, mixed, frigid Typic Natraquoll",Stirum,sandy loam,moderate coarse,46.0,61.0,Btk2,,"Dickey Co., ND, USA","H-1 (north), S 29, T 130N, R 59W",,,,Oct-85,66.0,,37.0,,
+3204,"coarse-loamy mixed, frigid Typic Natraquoll",Stirum,loamy sand,weak coarse prismatic,61.0,76.0,BC,,"Dickey Co., ND, USA","H-1 (north), S 29, T 130N, R 59W",,,,Oct-85,66.0,,37.0,,
+3205,"coarse-loamy mixed, frigid Typic Natraquoll",Stirum,sandy loam,weak coarse prismatic,76.0,91.0,2Ab,,"Dickey Co., ND, USA","H-1 (north), S 29, T 130N, R 59W",,,,Oct-85,66.0,,37.0,,
+3206,"coarse-loamy mixed, frigid Typic Natraquoll",Stirum,sand,single grain,91.0,107.0,C2,,"Dickey Co., ND, USA","H-1 (north), S 29, T 130N, R 59W",,,,Oct-85,66.0,,37.0,,
+3210,coarse-silty mixed Udic Haploboroll,Eckman silt loam,silt loam,moderate medium granular,0.0,15.0,Ap,,"Dickey Co., ND, USA","I-1. S 25, T 129N, R 60W",,,,Aug-85,66.0,,37.0,,
+3211,coarse-silty mixed Udic Haploboroll,Eckman silt loam,silt loam,mod. coarse and med. prismatic,15.0,30.0,Bw,,"Dickey Co., ND, USA","I-1. S 25, T 129N, R 60W",,,,Aug-85,66.0,,37.0,,
+3212,coarse-silty mixed Udic Haploboroll,Eckman silt loam,silty clay loam,weak coarse prismatic,30.0,46.0,BCk,,"Dickey Co., ND, USA","I-1. S 25, T 129N, R 60W",,,,Aug-85,66.0,,37.0,,
+3213,coarse-silty mixed Udic Haploboroll,Eckman silt loam,silt loam,weak coarse prismatic,61.0,76.0,BCsa,,"Dickey Co., ND, USA","I-1. S 25, T 129N, R 60W",,,,Oct-85,66.0,,37.0,,
+3214,coarse-silty mixed Udic Haploboroll,Eckman silt loam,silt,moderate medium and fine platy,76.0,107.0,C,,"Dickey Co., ND, USA","I-1. S 25, T 129N, R 60W",,,,Oct-85,66.0,,37.0,,
+3220,coarse-silty mixed Pachic Udic Haploboroll,Gardena loam,silt loam,moderate medium granular,0.0,15.0,Ap,,"Dickey Co., ND, USA","J-1. S 18, T 130N, R 59W",,,,Oct-85,66.0,,37.0,,
+3221,coarse-silty mixed Pachic Udic Haploboroll,Gardena loam,loam,moderate medium prismatic,46.0,61.0,Bw,,"Dickey Co., ND, USA","J-1. S 18, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3222,coarse-silty mixed Pachic Udic Haploboroll,Gardena loam,loam,weak medium prismatic,76.0,91.0,BCk1,,"Dickey Co., ND, USA","J-1. S 18, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3223,coarse-silty mixed Pachic Udic Haploboroll,Gardena loam,silt loam,weak medium prismatic,91.0,106.0,BCk2,,"Dickey Co., ND, USA","J-1. S 18, T 130N, R 59W",,,,Aug-85,66.0,,37.0,,
+3224,coarse-silty mixed Pachic Udic Haploboroll,Gardena loam,silt loam,weak coarse prismatic,122.0,137.0,C1,,"Dickey Co., ND, USA","J-1. S 18, T 130N, R 59W",,,,Oct-85,66.0,,37.0,,
+3225,coarse-silty mixed Pachic Udic Haploboroll,Gardena loam,silt loam,weak medium prismatic,137.0,152.0,C2,,"Dickey Co., ND, USA","J-1. S 18, T 130N, R 59W",,,,Oct-85,66.0,,37.0,,
+3230,Leptic Podzol,Kootwijk,sand,,4.0,40.0,Ap,500.0,"Kootwijk, Netherlands","52ø 13' N, 5ø 39' E",91.9,1.0,19.0,1988-89,67.0,undisturbed,38.0,6.0,Schaap
+3231,Leptic Podzol,Kootwijk,sand,,40.0,80.0,Bs,500.0,"Kootwijk, Netherlands","52ø 13' N, 5ø 39' E",91.9,1.0,19.0,1988-89,67.0,undisturbed,38.0,6.0,Schaap
+3232,Leptic Podzol,Kootwijk,sand,,80.0,120.0,C,500.0,"Kootwijk, Netherlands","52ø 13' N, 5ø 39' E",91.9,1.0,19.0,1988-89,67.0,undisturbed,38.0,6.0,Schaap
+3240,"fine-silty, mixed, thermic typic Fragiudalps",Loring,silt loam,weak fine granular,0.0,8.0,Ap,,"Panola Co., MS, USA","Hotophia Creek watershed 1, 2, and 3",,,,,68.0,undisturbed,39.0,,
+3241,"fine-silty, mixed, thermic typic Fragiudalps",Loring,silty clay loam,moderate medium subangular blocky,8.0,59.0,B21t,,"Panola Co., MS, USA","Hotophia Creek watershed 1, 2, and 3",,,,,68.0,undisturbed,39.0,,
+3242,"fine-silty, mixed, thermic typic Fragiudalps",Loring,silt loam,moderate medium subangular blocky,59.0,91.0,B22t,,"Panola Co., MS, USA","Hotophia Creek watershed 1, 2, and 3",,,,,68.0,undisturbed,39.0,,
+3243,"fine-silty, mixed, thermic typic Fragiudalps",Loring,silt loam,weak coarse prismat. subang. blocky,91.0,122.0,Bx,,"Panola Co., MS, USA","Hotophia Creek watershed 1, 2, and 3",,,,,68.0,undisturbed,39.0,,
+3250,"fine-silty, mixed, thermic Typic Hapludalfs",Memphis,silt loam,weak fine granular,0.0,13.0,Ap,,"Panola Co., MS, USA",Plots 1 and 2,,,,,69.0,undisturbed,39.0,,
+3251,"fine-silty, mixed, thermic typic Hapludalfs",Memphis,silty clay loam,moderate medium subangular blocky,13.0,69.0,B21t,,"Panola Co., MS, USA",Plot 1 and 2,,,,,69.0,undisturbed,39.0,,
+3252,"fine-silty, mixed, thermic typic Hapludalfs",Memphis,silt loam,moderate medium subangular blocky,69.0,104.0,B22t,,"Panola Co., MS, USA",Plots 1 and 2,,,,,69.0,undisturbed,39.0,,
+3253,"fine-silty, mixed, thermic typic Hapludalfs",Memphis,silt loam,weak medium subangular blocky,104.0,127.0,B3t,,"Panola Co., MS, USA",Plots 1 and 2,,,,,69.0,undisturbed,39.0,,
+3260,coarse-silty mixed acid thermic typic Udifluvent,Vicksburg,silt loam,weak fine granular,0.0,18.0,Ap,,"Panola Co., MS, USA","Plots 1, 2 and 3, Goodwin Creek",,,,1979,69.0,undisturbed,39.0,,
+3261,"coarse-silty,mixed,acid,thermic typic Udifluvent",Vicksburg,silt loam,structureless,18.0,33.0,C1,,"Panola Co., MS, USA","Plots 1, 2 and 3, Goodwin Creek",,,,1979,69.0,undisturbed,39.0,,
+3262,"coarse-silty,mixed,acid,thermic typic Udifluvent",Vicksburg,silt loam,structureless,33.0,63.0,C2,,"Panola Co., MS, USA","Plots 1, 2 and 3, Goodwin Creek",,,,1979,69.0,undisturbed,39.0,,
+3263,"coarse-silty,mixed,acid,thermic typic Udifluvent",Vicksburg,silt loam,structureless,63.0,81.0,C3,,"Panola Co., MS, USA","Plots 1, 2 and 3, Goodwin Creek",,,,1979,69.0,unidsturbed,39.0,,
+3264,"coarse-silty,mixed,acid,thermic typic Udifluvent",Vicksburg,silt loam,structureless,81.0,124.0,C4,,"Panola Co., MS, USA","Plots 1, 2 and 3, Goodwin Creek",,,,1979,69.0,undisturbed,39.0,,
+3270,"Hallam Loam, Solodic planasol (FAO)",Bundoora,sandy clay loam,,0.0,15.0,A,,"Bundoora, Vic. Australia",La Trobe University,,,,Oct-83,70.0,undisturbed,40.0,6.0,Rab
+3271,"Hallam loam, Solodic planasol (FAO)",Bundoora,clay loam,,15.0,25.0,A,,"Bundoora, Vic. Australia",La Trobe University,,,,Nov-83,70.0,undisturbed,40.0,6.0,Rab
+3272,"Hallam loam, Solodic planasol (FAO)",Bundoora,clay loam,,25.0,40.0,A,,"Bundoora, Vic. Australia",La Trobe University,,,,Oct-83,70.0,undisturbed,40.0,6.0,Rab
+3273,"Hallam loam, Solodic planasol (FAO)",Bundoora,clay loam,,40.0,60.0,B,,"Bundoora, Vic. Australia",La Trobe University,,,,Nov-83,70.0,undisturbed,40.0,6.0,Rab
+3274,"Hallam loam, Solodic planasol (FAO)",Bundoora,clay loam,,60.0,80.0,B,,"Bundoora, Vic. Australia",La Trobe University,,,,Nov-83,70.0,undisturbed,40.0,6.0,Rab
+3281,Typic Natrustalf,Goulburn,clay,,17.0,30.0,B,300.0,"Goulburn Valley, Victoria, Australia","36 26'S 145 6'E Res. Inst., Tatura, Vic. 1316",43.7,21.7,8.0,3/8/1972,71.0,"undisturbed, overburden",41.0,7.0,
+3282,Typic Natrustalf,Goulburn,clay,,30.0,45.0,B,300.0,"Goulburn Valley, Victoria, Australia","36 26'S 145 6'E Res. Inst., Tatura, Vic. 1316.",43.7,21.7,8.0,3/8/1972,71.0,"undisturbed, overburden",41.0,7.0,
+3283,Typic Natrustalf,Goulburn,silty clay loam,,60.0,120.0,C,300.0,"Goulburn Valley, Victoria, Australia","36 26'S 145 6'E Res. Inst., Tatura, Vic. 1316",43.7,21.7,8.0,3/8/1972,71.0,"undisturbed, overburden",41.0,7.0,
+3290,"sand-loam, mixed, mesic, calcareous Typic Agrudalf",Roskilde,sandy loam,,6.0,14.0,Ap,,"Roskilde, Denmark","A1, Roskilde Exp. Sta.",65.0,,,Sep-87,72.0,undisturbed,42.0,,
+3291,"sand-loam, mixed, mesic, calcareous Typic Agrudalf",Roskilde,sandy loam,,26.0,34.0,EA,,"Roskilde, Denmark","A1, Roskilde Exp. Sta.",65.0,,,Sep-87,72.0,undisturbed,42.0,,
+3292,"sand-loam, mixed, mesic, calcareous Typic Agrudalf",Roskilde,sandy clay loam,,46.0,54.0,Bt1,,"Roskilde, Denmark","A1, Roskilde Exp. Sta.",65.0,,,Sep-87,72.0,undisturbed,42.0,,
+3293,"sand-loam, mixed, mesic, calcareous Typic Agrudalf",Roskilde,loam,,86.0,94.0,Bt2,,"Roskilde, Denmark","A1, Roskilde Exp. Sta.",65.0,,,Sep-87,72.0,undisturbed,42.0,,
+3300,"coarse fine loamy, mixed, mesic Typic Agrudalf",Aarslev,sandy loam,,6.0,14.0,Ap,,"Aarslev, Denmark","02, Aarslev Res. Sta.",61.0,,,May-87,72.0,undisturbed,42.0,,
+3301,"coarse fine loamy, mixed, mesic Typic Agrudalf",Aarslev,sandy loam,,26.0,34.0,BA,,"Aarslev, Denmark","02, Aarslev Res. Sta.",61.0,,,May-87,72.0,undisturbed,42.0,,
+3302,"coarse fine loamy, mixed, mesic Typic Agrudalf",Aarslev,loam,,46.0,54.0,Btl1,,"Aarslev, Denmark","02, Aarslev Res. Sta.",61.0,,,May-87,72.0,undisturbed,42.0,,
+3303,"coarse fine loamy, mixed, mesic Typic Agrudalf",Aarslev,loam,,86.0,94.0,Btl2,,"Aarslev, Denmark","02, Aarslev Res. Sta.",61.0,,,May-87,72.0,undisturbed,42.0,,
+3310,"coarse fine loamy, mixed, mesic Typic Hapludalf",Askov,sandy loam,,6.0,14.0,Ap,,"Vejen, Denmark","G8, Askov Res. Sta.",79.10000000000001,,,May-87,72.0,undisturbed,42.0,,
+3311,"coarse fine loamy, mixed, mesic Typic Hapludalf",Askov,sandy loam,,26.0,36.0,E,,"Vejen, Denmark","G8, Askov Res. Sta.",79.10000000000001,,,May-87,72.0,undisturbed,42.0,,
+3312,"coarse fine loamy, mixed, mesic Typic Hapludalf",Askov,sandy clay loam,,46.0,54.0,Bt1,,"Vejen, Denmark","G8, Askov Res. Sta.",79.10000000000001,,,May-87,72.0,undisturbed,42.0,,
+3313,"coarse fine loamy, mixed, mesic Typic Hapludalf",Askov,sandy clay loam,,66.0,74.0,Bt2,,"Vejen, Denmark","G8, Askov Res. Sta.",79.10000000000001,,,May-87,72.0,undisturbed,42.0,,
+3320,"coarse sandy loam, mixed, mesic Typic Hapludalt",Foulum,sandy loam,,6.0,14.0,Ap,,"Tjele, Denmark","S, Foulum Res. Sta.",76.5,,,Sep-87,72.0,undisturbed,42.0,,
+3321,"coarse sandy loam, mixed, mesic Typic Hapludalt",Foulum,sandy loam,,26.0,34.0,ABm,,"Tjele, Denmark","S, Foulum Res. Sta.",76.5,,,Sep-87,72.0,undisturbed,42.0,,
+3322,"coarse sandy loam, mixed, mesic Typic Hapludalt",Foulum,sandy laom,,46.0,54.0,B,,"Tjele, Denmark","S, Foulum Res. Sta.",76.5,,,Sep-87,72.0,undisturbed,42.0,,
+3323,"coarse sandy loam, mixed, mesic Typic Hapludalt",Foulum,sandy loam,,66.0,74.0,Bt1,,"Tjele, Denmark","S, Foulum Res. Sta.",76.5,,,Sep-87,72.0,undisturbed,42.0,,
+3330,"coarse sand, siliceous, mesic Orthic Haplohumod",Jyndevad,sand,,1.0,9.0,Apl,,"Tinglev, Denmark","S, Jyndevad Res. Sta.",87.5,,,Aug-87,72.0,undisturbed,42.0,,
+3331,"coarse sand, siliceous, mesic Orthic Haplohumod",Jyndevad,sand,,46.0,54.0,Bs,,"Tinglev, Denmark","S, Jyndevad Res. Sta.",87.5,,,Aug-87,72.0,undisturbed,42.0,,
+3332,"coarse sand, siliceous, mesic Orthic Haplohumod",Jyndevad,sand,,86.0,94.0,Bs,,"Tinglev, Denmark","S, Jyndevad Res. Sta.",87.5,,,Aug-87,72.0,undisturbed,42.0,,
+3340,Femic Anthrosol,Wolfheze,sand,,6.0,40.0,1Ba,,"Wolfheze, Netherlands","NW of Wolfheze, 57N, 6E",80.0,1.0,19.0,,999.0,"undisturbed, hysteresis",38.0,7.0,Schaap
+3341,Femic Anthrosol,Wolfheze,sand,,40.0,90.0,2Aah,,"Wolfheze, Netherlands","NW of Wolfheze, 57N, 6E",80.0,1.0,19.0,,999.0,"undisturbed, hysteresis",38.0,7.0,Schaap
+3350,Aeric Ubric Albaqualf,Winterwijk,sand,,10.0,30.0,Eh,,"Winterwijk, Netherlands",Tenkink forest,66.0,1.0,19.0,1986,73.0,undisturbed,38.0,6.0,Schaap
+3351,Aeric Ubric Albaqualf,Winterwijk,sandy clay loam,,,,B2t,,"Winterwijk, Netherlands",Tenkink forest,66.0,1.0,19.0,1986,73.0,undisturbed,38.0,6.0,Schaap
+3360,"fine silty, mixed, mesic Typic Hapludalf",Hoffmeister Schlag,silt loam,mod. fine subang. blocky,10.0,20.0,Ap,,"Goettingen-Weende, Germany",Hoffmeister Schlag,62.0,0.2,16.9,Sep-75,74.0,"undisturbed, tillage",12.0,,
+3361,"fine silty, mixed, mesic Typic Hapludalf",Hoffmeister Schlag,silt loam,mod. fine subang. blocky,20.0,30.0,Ap,,"Goettingen-Weende, Germany",Hoffmeister Schlag,62.0,0.2,16.9,Sep-75,74.0,"undisturbed, tillage",12.0,,
+3370,"fine silty, mixed, mesic Typic Hapludalf",Hoffmeister Schlag,silt loam,mod. weak medium granular,10.0,20.0,Ap,,"Goettingen-Weende, Germany",Hoffmeister Schlag,62.0,0.2,16.9,Sep-75,74.0,"undisturbed, tillage",12.0,,
+3371,"fine silty, mixed, mesic Typic Hapludalf",Hoffmeister Schlag,silt loam,mod. weak medium granular,20.0,30.0,Ap,,"Goettingen-Weende, Germany",Hoffmeister Schlag,62.0,0.2,,Sep-75,74.0,"undisturbed, tillage",12.0,,
+3380,"fine silty, mixed, mesic Typic Hapludalf",Rosdorf loess,silt loam,mod. medium granules >>>200.00,0.0,30.0,Ap,,"Rosdorf, Germany",6 km south of Goettingen,62.0,0.2,16.9,Jun-76,75.0,"undisturbed, tillage",12.0,,
+3381,"fine silty, mixed, mesic Typic Hapludalf",Rosdorf loess,silt loam,moderate medium subangular,30.0,40.0,A2,,"Rosdorf, Germany",6 km south of Goettingen,62.0,0.2,16.9,Jun-76,75.0,"undisturbed, tillage",12.0,,
+3390,"fine silty, mixed, mesic Typic Hapludalf",Rosdorf loess,silt loam,moderate fine subangular blocky,0.0,30.0,Ap,200.0,"Rosdorf, Germany",6 km south of Goettingen,62.0,0.2,16.9,Jun-76,75.0,"undisturbed, tillage",12.0,,
+3391,"fine silty, mixed, mesic Typic Hapludalf",Rosdorf loess,silt loam,moderate medium subangular,30.0,40.0,A2,200.0,"Rosdorf, Germany",6 km south of Goettingen,62.0,0.2,16.9,Jun-76,75.0,"undisturbed, tillage",12.0,,
+3392,"fine silty, mixed, mesic Typic Hapludalf",Rosdorf loess,silt loam,moderate strong v.coarse prismatic,60.0,80.0,B21t,,"Rosdorf, Germany",6 km south of Goettingen,62.0,0.2,16.9,Jun-76,75.0,"undisturbed, tillage",12.0,,
+3393,"fine silty, mixed, mesic Typic Hapludalf",Rosdorf loess,silt loam,moderate strong v.coarse prismatic,80.0,120.0,B22t,200.0,"Rosdorf, Germany",6 km south of Goettingen,62.0,0.2,16.9,Jun-76,75.0,"undisturbed, tillage",12.0,,
+3395,"fine silty, mixed, mesic Typic Hapludalf",Rosdorf loess,silt loam,massive,130.0,220.0,C,,"Rosdorf, Germany",6 km south of Goettingen,62.0,0.2,16.9,Jun-76,75.0,"undisturbed, tillage",12.0,,
+4000,Arenic Haplohumod,Lille,sand,,30.0,50.0,A2,,"Lille (Antwerp), Belgium",profile 14,86.7,3.0,17.5,5/22/1985,999.0,undisturbed,43.0,7.0,Vereecken
+4001,Arenic Haplohumod,Lille,sand,,50.0,74.0,B,,"Lille (Antwerp), Belgium",profile 14,86.7,3.0,17.5,5/22/1985,999.0,undisturbed,43.0,7.0,Vereecken
+4010,Plaggept,Booischot,loamy sand,,0.0,20.0,Ap,125.0,"Booischot (Mechelen), Belgium",profile 12,83.5,3.0,18.0,5/15/1985,999.0,undisturbed,43.0,7.0,Vereecken
+4011,Plaggept,Booischot,loamy sand,,25.0,45.0,A2,125.0,"Booischot (Mechelen), Belgium",profile 12,83.5,3.0,18.0,5/15/1985,999.0,undisturbed,43.0,7.0,Vereecken
+4020,Spodic Udipsamment,Poederlee,loamy sand,,0.0,15.0,Ap,150.0,"Poederlee (Antwerp), Belgium",profile 15,86.7,3.0,17.5,5/24/1985,999.0,undisturbed,43.0,7.0,Vereecken
+4021,Spodic Udipsamment,Poederlee,sand,,40.0,60.0,A2,150.0,"Poederlee (Antwerp), Belgium",profile 15,86.7,3.0,17.5,5/24/1985,999.0,undisturbed,43.0,7.0,Vereecken
+4030,Typic Hapludalf,Helecine,silt loam,,0.0,25.0,Ap,,"Helecine (Leuven), Belgium",profile 17,83.5,2.7,16.8,11/14/1985,999.0,undisturbed,43.0,8.0,Vereecken
+4031,Typic Hapludalf,Helecine,silt loam,,25.0,50.0,AB,,"Helecine (Leuven), Belgium",profile 17,83.5,2.7,16.8,11/14/1985,999.0,undisturbed,43.0,8.0,Vereecken
+4032,Typic Hapludalf,Helecine,silt loam,,50.0,93.0,B2t,,"Helecine (Leuven), Belgium",profile 17,83.5,2.7,16.8,11/14/1985,999.0,undisturbed,43.0,8.0,Vereecken
+4033,Typic Hapludalf,Helecine,silt loam,,0.0,93.0,B3,,"Helecine (Leuven), Belgium",profile 17,83.5,2.7,16.8,11/14/1985,999.0,undisturbed,43.0,8.0,Vereecken
+4040,Typic Hapludalf,Lubbeek,silt loam,,0.0,30.0,Ap,,"Lubbeek (Leuven), Belgium",profile 18,79.0,2.7,16.8,Nov-85,999.0,undisturbed,43.0,8.0,Vereecken
+4041,Typic Hapludalf,Lubbeek,silt loam,,30.0,50.0,B2t,,"Lubbeek (Leuven), Belgium",profile 18,79.0,2.7,16.8,Nov-85,999.0,undisturbed,43.0,8.0,Vereecken
+4042,Typic Hapludalf,Lubbeek,silt loam,,50.0,70.0,B3,,"Lubbeek (Leuven), Belgium",profile 18,79.0,2.7,16.8,Nov-85,999.0,undisturbed,43.0,8.0,Vereecken
+4043,Typic Hapludalf,Lubbeek,silt loam,,,,C,,"Lubbeek (Leuven), Belgium",profile 18,79.0,2.7,16.8,Nov-85,999.0,undisturbed,43.0,8.0,Vereecken
+4050,Typic Haplorthod,Beerse podzol I,loamy sand,,0.0,12.0,A2,,"Beerse, Belgium",profile 19,86.7,3.0,17.5,Nov-85,999.0,undisturbed,43.0,7.0,Vereecken
+4051,Typic Haplorthod,Beerse podzol I,sand,,12.0,26.0,Bh,,"Beerse, Belgium",profile 19,86.7,3.0,17.5,Nov-85,999.0,undisturbed,43.0,7.0,Vereecken
+4052,Typic Haplorthod,Beerse podzol I,sand,,26.0,70.0,C,,"Beerse, Belgium",profile 19,86.7,3.0,17.5,Nov-85,999.0,undisturbed,43.0,7.0,Vereecken
+4060,Arenic Haplohumod,Beerse podzol II,sand,,0.0,20.0,Ap,,"Beerse (Antwerp), Belgium",profile 20,86.7,3.0,17.5,Nov-85,999.0,undisturbed,43.0,7.0,Vereecken
+4061,Arenic Haplohumod,Beerse podzol II,sand,,20.0,40.0,A2,,"Beerse (Antwerp), Belgium",profile 20,86.7,3.0,17.5,Nov-85,999.0,undisturbed,43.0,7.0,Vereecken
+4062,Arenic Haplohumod,Beerse podzol II,loamy sand,,65.0,85.0,Bh,,"Beerse (Antwerp), Belgium",profile 20,86.7,3.0,17.5,Nov-85,999.0,undisturbed,43.0,7.0,Vereecken
+4070,Glossic Hapludalf,Humbeek,silt loam,,0.0,30.0,Ap,,"Humbeek (Brussels), Belgium",profile 22,83.5,3.0,19.0,3/19/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4071,Glossic Hapludalf,Humbeek,silt loam,,40.0,60.0,B2t,,"Humbeek (Brussels), Belgium",profile 22,83.5,3.0,19.0,3/19/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4080,Typic Hapludalf,Edingen I,silt loam,,0.0,25.0,Ap,,"Edingen, Belgium",profile 23,78.8,3.5,17.0,3/21/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4081,Typic Hapludalf,Edingen I,silt loam,,40.0,60.0,B2g,,"Edingen, Belgium",profile 23,78.8,3.5,17.0,3/21/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4082,Typic Hapludalf,Edingen I,silt loam,,60.0,90.0,B3,,"Edingen, Belgium",profile 23,78.8,3.5,17.0,3/21/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4090,Typic Hapludalf,Edingen II,silt loam,,0.0,40.0,Ap,,"Edingen, Belgium",profile 24,78.8,3.5,17.0,3/21/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4091,Typic Hapludalf,Edingen II,silt loam,,45.0,65.0,A/B,,"Edingen, Belgium",profile 24,78.8,3.5,17.0,3/21/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4092,Typic Hapludalf,Edingen II,silt loam,,65.0,85.0,B2g,,"Edingen, Belgium",profile 24,78.8,3.5,17.0,3/21/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4100,Typic Udifluvent,BoZ polder I,sandy loam,,0.0,25.0,Ap,,"Bergen op Zoom, Netherlands",profile 25,86.7,3.0,17.5,3/26/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4101,Typic Udifluvent,BoZ polder I,loam,,25.0,80.0,C1,,"Bergen op Zoom, Netherlands",profile 25,86.7,3.0,17.5,3/26/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4102,Typic Udifluvent,BoZ polder I,loam,,,,C2,,"Bergen op Zoom, Netherlands",profile 25,86.7,3.0,17.5,3/26/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4110,Typic Udifluvent,BoZ polder II,sandy loam,,0.0,25.0,Ap,,"Bergen op Zoom, Netherlands",profile 26,86.7,3.0,17.5,3/26/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4111,Typic Udifluvent,BoZ polder II,sandy loam,,25.0,80.0,C1,,"Bergen op Zoom, Netherlands",profile 26,86.7,3.0,17.5,3/26/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4112,Typic Udifluvent,BoZ polder II,sandy loam,,80.0,100.0,C2,,"Bergen op Zoom, Netherlands",profile 26,86.7,3.0,17.5,3/26/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4120,Typic Udifluvent,Kalloo polder,clay,,0.0,23.0,Ap,,"Kalloo (Antwerp), Belgium",profile 33,86.7,3.0,17.5,4/17/1986,999.0,undisturbed,43.0,6.0,Vereecken
+4121,Typic Udifluvent,Kalloo polder,clay,,23.0,46.0,C1,,"Kalloo (Antwerp), Belgium",profile 33,86.7,3.0,17.5,4/17/1986,999.0,undisturbed,43.0,6.0,Vereecken
+4130,Arenic Haplohumod,Poppel,loamy sand,,0.0,30.0,Ap,,"Poppel (Antwerp), Belgium",profile 34,86.7,3.0,17.5,4/22/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4131,Arenic Haplohumod,Poppel,sand,,30.0,43.0,B2,,"Poppel (Antwerp), Belgium",profile 34,86.7,3.0,17.5,4/22/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4132,Arenic Haplohumod,Poppel,sand,,43.0,68.0,B3,,"Poppel (Antwerp), Belgium",profile 34,86.7,3.0,17.5,4/22/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4140,Typic Haplorthod,Retie,sand,,0.0,33.0,Ap,,"Retie, Belgium",profile 36,86.5,3.0,17.5,4/24/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4141,Typic Haplorthod,Retie,sand,,33.0,63.0,A/B,,"Retie, Belgium",profile 36,86.5,3.0,17.5,4/24/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4142,Typic Haplorthod,Retie,sand,,63.0,85.0,C1g,,"Retie, Belgium",profile 36,86.5,3.0,17.5,4/24/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4150,Arenic Haplohumod,Postel,sand,,0.0,35.0,Ap,,"Postel (Antw. Kempen), Belgium",profile 37,86.7,3.0,17.5,5/24/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4151,Arenic Haplohumod,Postel,sand,,35.0,60.0,B2,,"Postel (Antw. Kempen), Belgium",profile 37,86.7,3.0,17.5,5/24/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4152,Arenic Haplohumod,Postel,sand,,60.0,90.0,B3,,"Postel (Antw. Kempen), Belgium",profile 37,86.7,3.0,17.5,5/24/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4160,Arenic Hapludalf,Staden,sandy loam,,0.0,30.0,Ap,,"Staden, Belgium",profile 39,78.8,3.5,17.0,5/7/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4161,Arenic Hapludalf,Staden,sandy loam,,30.0,65.0,A/B,,"Staden, Belgium",profile 39,78.8,3.5,17.0,5/7/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4162,Arenic Hapludalf,Staden,sandy loam,,65.0,100.0,C,,"Staden, Belgium",profile 39,78.8,3.5,17.0,5/7/1986,999.0,undisturbed,43.0,7.0,Vereecken
+4170,Typic Hapludalf,Wijgmaal,sandy loam,,0.0,29.0,Ap,,"Wijgmaal (Leuven), Belgium",profile 40,83.5,3.0,17.0,6/5/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4171,Typic Hapludalf,Wijgmaal,sandy loam,,29.0,53.0,B2t,,"Wijgmaal (Leuven), Belgium",profile 40,83.5,3.0,17.0,6/5/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4172,Typic Hapludalf,Wijgmaal,sandy loam,,53.0,80.0,B3t,,"Wijgmaal (Leuven), Belgium",profile 40,83.5,3.0,17.0,6/5/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4180,Typic Hapludalf,Rotselaar,silt loam,,0.0,28.0,Ap,,"Rotselaar (Leuven), Belgium",profile 41,83.5,3.0,17.0,6/5/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4181,Typic Hapludalf,Rotselaar,silt loam,,28.0,40.0,B2t,,"Rotselaar (Leuven), Belgium",profile 41,83.5,3.0,17.0,6/5/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4182,Typic Hapludalf,Rotselaar,silt loam,,40.0,60.0,B3t,,"Rotselaar (Leuven), Belgium",profile 41,83.5,3.0,17.0,6/5/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4183,Typic Hapludalf,Rotselaar,silt loam,,60.0,100.0,C,,"Rotselaar (Leuven), Belgium",profile 41,83.5,3.0,17.0,6/5/1986,999.0,undisturbed,43.0,8.0,Vereecken
+4190,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4191,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4192,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4193,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4194,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4195,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4200,,Weld,clay,,,,,,"Greeley, CO, USA",5 miles SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4201,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4202,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4203,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4204,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4210,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4211,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4212,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4213,,Weld,clay,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4220,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4221,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4222,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4223,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4224,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4230,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4231,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4232,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4233,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4234,,Weld,sandy loam,,,,,,"Greeley, CO, USA",5 mi. SW of Greeley,,,,,76.0,"disturbed, salinity",1.0,,
+4241,Aquods,Hupsel,sand,,30.0,40.0,B2,,"Hupsel, The Netherlands",11,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4242,Aquods,Hupsel,sand,,105.0,115.0,C11,,"Hupsel, The Netherlands",11,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4243,Aquods,Hupsel,sand,,135.0,145.0,C12,,"Hupsel, The Netherlands",11,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4251,Aquods,Hupsel,loamy sand,,20.0,30.0,B2,,"Hupsel, The Netherlands",12,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4252,Aquods,Hupsel,sand,,55.0,65.0,C11,,"Hupsel, The Netherlands",12,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4253,Aquods,Hupsel,sand,,95.0,105.0,C12,,"Hupsel, The Netherlands",12,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4261,Aquepts,Hupsel,sand,,40.0,95.0,B2,,"Hupsel, The Netherlands",13,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4262,Aquepts,Hupsel,sand,,120.0,130.0,C11,,"Hupsel, The Netherlands",13,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4263,Aquepts,Hupsel,sand,,195.0,205.0,C12,,"Hupsel, The Netherlands",13,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4271,Aquods,Hupsel,sand,,45.0,55.0,B2,,"Hupsel, The Netherlands",14,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4272,Aquods,Hupsel,sand,,75.0,85.0,C11,,"Hupsel, The Netherlands",14,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4273,Aquods,Hupsel,sand,,115.0,125.0,C12,,"Hupsel, The Netherlands",14,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4281,Aquods,Hupsel,sand,,10.0,20.0,B2,,"Hupsel, The Netherlands",15,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4282,Aquods,Hupsel,sand,,60.0,70.0,C11g,,"Hupsel, The Netherlands",15,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4283,Aquods,Hupsel,sandy loam,,65.0,125.0,D1,,"Hupsel, The Netherlands",15,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4284,Aquods,Hupsel,silty clay loam,,125.0,160.0,D2,,"Hupsel, The Netherlands",15,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4291,Aquepts,Hupsel,sandy clay loam,,85.0,95.0,D1,,"Hupsel, The Netherlands",16,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4310,Aquods,Hupsel,sand,,5.0,15.0,A1,,"Hupsel, The Netherlands",21,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4311,Aquods,Hupsel,sand,,45.0,55.0,B2,,"Hupsel, The Netherlands",21,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4340,Aquods,Hupsel,sand,,5.0,15.0,A1,,"Hupsel, The Netherlands",24,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4341,Aquods,Hupsel,sand,,45.0,55.0,B2,,"Hupsel, The Netherlands",24,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4390,Aquods,Hupsel,,,60.0,70.0,,,"Hupsel, The Netherlands",32,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4391,Aquods,Hupsel,,,85.0,95.0,,,"Hupsel, The Netherlands",32,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4410,Aquods,Hupsel,,,30.0,40.0,,,"Hupsel, The Netherlands",34,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4411,Aquods,Hupsel,,,40.0,50.0,,,"Hupsel, The Netherlands",34,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4412,Aquods,Hupsel,,,85.0,95.0,,,"Hupsel, The Netherlands",34,75.0,1.5,17.5,1987,77.0,undisturbed,44.0,7.0,
+4440,,Grenoble 1,sand,,,,,,"Grenoble, France",Laboratory I.M.G.,,,,1970,78.0,disturbed,45.0,,
+4441,,Grenoble 2,sand,,,,,,"Grenoble, France",Laboratory I.M.G.,,,,1975,78.0,disturbed,46.0,,
+4442,,Grenoble 3,sand,,,,,,"Grenoble, France",Laboratory I.M.G.,,,,1980,78.0,disturbed,47.0,,
+4443,,Grenoble 4,sand,,,,,,"Grenoble, France",Laboratory I.M.G.,,,,1984,78.0,disturbed,46.0,,
+4444,,Grenoble 5,sand,,,,,,"Grenoble, France",Laboratory I.M.G.,,,,1984,78.0,disturbed,46.0,,
+4445,,Grenoble 6,sand,,,,,,"Grenoble, France",Laboratory I.M.G.,,,,1984,78.0,disturbed,46.0,,
+4450,,Avignon,silty clay loam,,1.0,30.0,,,"Mont-Favet, France",Exp. Sta. of INRA,50.0,10.0,25.0,Jun-84,79.0,undisturbed,45.0,,
+4460,,Mornag,sandy clay loam,weak granular,20.0,40.0,,,"Mornag, Tunisia",20 km SE of Tunis,45.0,7.5,35.0,Nov-81,80.0,undisturbed,48.0,,
+4470,,Bouake,sandy loam,,0.0,60.0,,,"Bouake, Ivory Coast",Exp. Sta. of IRAT,110.0,25.0,25.0,Jul-81,81.0,undisturbed,49.0,,
+4480,,Dior,sand,granular,30.0,150.0,,,"Bambey, Senegal",Exp. Sta. of ISRA,42.5,25.0,35.0,Jul-75,82.0,undisturbed,48.0,,
+4490,,Dieri,sand,granular,10.0,130.0,,,"N. Diol, Senegal",Exp. Sta. of ISRA,30.0,25.0,40.0,1976,82.0,undisturbed,48.0,,
+4500,,Dek,sandy loam,,30.0,320.0,,,"Bambey, Senegal",Exp. Sta. of C.N.R.A.,42.5,25.0,35.0,Dec-77,83.0,undisturbed,49.0,,
+4510,Aquepts,Groesbeek,silt loam,,30.0,50.0,C,,"Groesbeek, Netherlands",A,76.0,1.5,17.5,May-89,84.0,"undisturbed, conductivity",38.0,7.0,
+4511,Aquepts,Groesbeek,silt loam,,30.0,50.0,C,,"Groesbeek, Netherlands",A,76.0,1.5,17.5,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4512,Aquepts,Groesbeek,silt loam,,30.0,50.0,C,,"Groesbeek, Netherlands",A,76.0,1.5,17.5,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4514,Aquepts,Groesbeek,silt loam,,30.0,50.0,C,,"Groesbeek, Netherlands",A,76.0,1.5,17.5,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4520,Psamments,Kootwijk,sand,,70.0,90.0,C,,"Kootwijk, Netherlands",A,85.0,1.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4521,Psamments,Kootwijk,sand,,70.0,90.0,C,,"Kootwijk, Netherlands",A,85.0,1.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4522,Psamments,Kootwijk,sand,,70.0,90.0,C,,"Kootwijk, Netherlands",A,85.0,1.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4523,Psamments,Kootwijk,sand,,70.0,90.0,C,,"Kootwijk, Netherlands",A,85.0,1.5,17.0,May-89,84.0,"undisturbed, conductivity",38.0,7.0,
+4530,Aquents,Wageningen,silt loam,,35.0,55.0,C,,"Wageningen, Netherlands",A,78.0,1.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4531,Aquents,Wageningen,silt loam,,35.0,55.0,C,,"Wageningen, Netherlands",A,78.0,1.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4532,Aquents,Wageningen,silt loam,,35.0,55.0,C,,"Wageningen, Netherlands",A,78.0,1.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4533,Aquents,Wageningen,silt loam,,35.0,55.0,C,,"Wageningen, Netherlands",A,78.0,1.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4540,Aquents,Zeeland,loam,,60.0,80.0,C,,"Colijnsplaat, Netherlands",A,72.0,2.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4541,Aquents,Zeeland,loam,,60.0,80.0,C,,"Colijnsplaat, Netherlands",A,72.0,2.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4542,Aquents,Zeeland,loam,,60.0,80.0,C,,"Colijnsplaat, Netherlands",A,72.0,2.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4543,Aquents,Zeeland,loam,,60.0,80.0,C,,"Colijnsplaat, Netherlands",A,72.0,2.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4544,Aquents,Zeeland,loam,,60.0,80.0,C,,"Colijnsplaat, Netherlands",A,72.0,2.5,17.0,May-89,85.0,"undisturbed, conductivity",50.0,7.0,
+4550,Light chestnut soil,Volgograd I,sandy loam,,1.0,21.0,Ap,1500.0,"Steppe zone, near Volgograd, Russia",1st Exper. plot,33.8,-9.5,24.1,Aug-82,86.0,undisturbed,35.0,6.0,Shein
+4551,Light chestnut soil,Volgograd I,sandy loam,,21.0,33.0,B1,1500.0,"Steppe zone, near Volgograd, Russia",1st Exper. plot,33.8,-9.5,24.1,Aug-82,86.0,undisturbed,35.0,6.0,Shein
+4552,Light chestnut soil,Volgograd I,sandy loam,,33.0,84.0,B2,1500.0,"Steppe zone, near Volgograd, Russia",1st Exper. plot,33.8,-9.5,24.1,Aug-82,86.0,undisturbed,35.0,6.0,Shein
+4553,Light chestnut soil,Volgograd I,sandy loam,,84.0,126.0,BCa,1500.0,"Steppe zone, near Volgograd, Russia",1st Exper. plot,33.8,-9.5,24.1,Aug-82,86.0,undisturbed,35.0,6.0,Shein
+4560,Light chestnut soil,Volgograd II,silt loam,,0.0,18.0,Ap,1500.0,"Steppe zone, near Volgograd, Russia",1st Exper. plot,33.8,-9.5,24.1,Aug-82,86.0,undisturbed,35.0,6.0,Shein
+4561,Light chestnut soil,Volgograd II,silt loam,,18.0,38.0,B1,1500.0,"Steppe zone, near Volgograd, Russia",1st Exper. plot,33.8,-9.5,24.1,Aug-82,86.0,undisturbed,35.0,6.0,Shein
+4562,Light chestnut soil,Volgograd II,silt loam,,48.0,82.0,BCa,1500.0,"Steppe zone, near Volgograd, Russia",1st Exper. plot,33.8,-9.5,24.1,Aug-82,86.0,undisturbed,35.0,6.0,Shein
+4564,Light chestnut soil,Volgograd II,silt loam,,82.0,120.0,BC,1500.0,"Steppe zone, near Volgograd, Russia",1st Exper. plot,33.8,-9.5,24.1,Aug-82,86.0,undisturbed,35.0,6.0,Shein
+4570,sod-podzolic,Chashnikovo,silt loam,,0.0,15.0,Ap,570.0,"Moscow region, Russia","MSU ""Chashnikovo"" Biological Sta.",50.5,-10.5,17.5,Jun-87,87.0,undisturbed,35.0,8.0,Shein
+4571,sod-podzolic,Chashnikovo,sandy loam,,15.0,25.0,A1,570.0,"Moscow region, Russia","MSU ""Chashnikovo"" Biological Sta.",50.5,-10.5,17.5,Jun-87,87.0,undisturbed,35.0,8.0,Shein
+4572,sod-podzolic,Chashnikovo,loam,,25.0,30.0,A2,570.0,"Moscow region, Russia","MSU ""Chashnikovo"" Biological Sta.",50.5,-10.5,17.5,Jun-87,87.0,undisturbed,35.0,8.0,Shein
+4573,sod-podzolic,Chashnikovo,loam,,30.0,38.0,A2B,570.0,"Moscow region, Russia","MSU ""Chashnikovo"" Biological Sta.",50.5,-10.5,17.5,Jun-87,87.0,undisturbed,35.0,8.0,Shein
+4574,sod-podzolic,Chashnikovo,loam,,40.0,50.0,B1,570.0,"Moscow region, Russia","MSU ""Chashnikovo"" Biological Sta.",50.5,-10.5,17.5,Jun-87,87.0,undisturbed,35.0,8.0,Shein
+4575,sod-podzolic,Chashnikovo,loam,,65.0,75.0,B2,570.0,"Moscow region, Russia","MSU ""Chashnikovo"" Biological Sta.",50.5,-10.5,17.5,Jun-87,87.0,undisturbed,35.0,8.0,Shein
+4580,Chernozem,Volgograd III,loamy sand,,0.0,40.0,A,17.0,"Volgograd region, Russia",Pine-tree forest,32.3,-12.0,24.0,Jul-74,88.0,undisturbed,35.0,5.0,Shein
+4581,Chernozem,Volgograd III,loamy sand,,40.0,80.0,B1,17.0,"Volgograd region, Russia",Pine-tree forest,32.3,-12.0,24.0,Jul-74,88.0,undisturbed,35.0,5.0,Shein
+4582,Chernozem,Volgograd III,loamy sand,,80.0,120.0,B2,17.0,"Volgograd region, Russia",Pine-tree forest,32.3,-12.0,24.0,Jul-74,88.0,undisturbed,35.0,5.0,Shein
+4583,Chernozem,Volgograd III,loamy sand,,120.0,180.0,C,17.0,"Volgograd region, Russia",Pine-tree forest,32.3,-12.0,24.0,Jul-74,88.0,undisturbed,35.0,5.0,Shein
+4590,Gleysol,Winton,loam,,5.0,10.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Dec-83,89.0,"undisturbed, tillage",51.0,,
+4591,Gleysol,Winton,loam,,5.0,10.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Dec-83,89.0,"undisturbed, tillage",51.0,,
+4592,Gleysol,Winton,loam,,5.0,10.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Dec-83,89.0,"undisturbed, tillage",51.0,,
+4600,Gleysol,Winton,loam,,5.0,10.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4601,Gleysol,Winton,sandy clay loam,,15.0,20.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4602,Gleysol,Winton,sandy clay loam,,20.0,25.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4610,Gleysol (FAO),Winton,loam,,5.0,10.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4611,Gleysol,Winton,sandy clay loam,,15.0,20.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4612,Gleysol,Winton,sandy clay loam,,20.0,25.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4620,Gleysol,Winton,loam,,5.0,10.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4621,Gleysol,Winton,sandy clay loam,,15.0,20.0,,,"Cowpark, Scotland",10 km S of Edinburgh,,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4622,Gleysol,Winton,sandy clay loam,,20.0,25.0,,,"Cowpark, Scotland",10 km S of Edinburgh,86.0,,,Feb-84,89.0,"undisturbed, tillage",51.0,,
+4650,Podzol (Humod),Plumhof I,sand,Single Grain,20.0,30.0,Ae,200.0,"Plumhof, Hannover, Germany",TU 25000; Mellendorf No. 3424; R35 49075; H58 29525,67.5,,,1970,90.0,undisturbed,52.0,,
+4651,Podzol (Humod),Plumhof I,sand,Coherent,50.0,70.0,Bhs,200.0,"Plumhof, Hannover, Germany",TU 25000; Mellendorf No. 3424; R35 49075; H58 29525,67.5,,,1970,90.0,undisturbed,52.0,,
+4660,Typic Dystrochrepts (Braunerde),Bordenan,sand,single grain,15.0,25.0,Ah,200.0,"Bordenan, Hannover, Germany","TU 25000; Wunstarf wo. 3522; R35 33400, H58 16100",67.5,,,1970,90.0,undisturbed,52.0,,
+4661,Typic Dystrochrept,Bordenan,sand,single grain,30.0,40.0,Bv,200.0,"Bordenan, Hannover, Germany",TU 25000; Wunstarf wo. 3522; R35 33400; H58 16100,67.5,,,1970,90.0,undisturbed,52.0,,
+4670,Typic Hapludalf (Parabraunerde),Northen,silt,coherent,20.0,30.0,A1,,"Northen, Hannover, Germany",TU 25000; Gehrden NO. 3623; H58 01280; R35 42110,65.0,,,1970,90.0,undisturbed,52.0,,
+4671,Typic Hapludalf (Parabraunerde),Northen,silt loam,coherent to fine polyhedric,40.0,50.0,Ag1,,"Northen, Hannover, Germany","TU 25000; Gehrden Nol 3623; H58 01280, R35 42110",65.0,,,1970,90.0,undisturbed,52.0,,
+4672,Typic Hapludalf (Parabraunerde),Northen,silt loam,fine to moderate polyhedric,75.0,85.0,Bt,,"Plumhof, Hannover, Germany","TU 25000; Gehrden NO. 3623; H58 01280, R35 42110",65.0,,,1970,90.0,undisturbed,52.0,,
+4673,Typic Hapludalf (Parabraunerde),Northen,silt loam,coherent to fine platy,115.0,125.0,B1t,,"Plumhof, Hannover, Germany","TU 25000; Gehrden No. 3623; H58 01280, R35 42110",65.0,,,1970,90.0,undisturbed,52.0,,
+4680,Vertic Fluvaquent (Marsch),Hollern,clay,prismatic,20.0,25.0,,,"Hollern, Hamburg, Germany",,,,,1970,90.0,undisturbed,52.0,,
+4681,Vertic Fluvaquent (Marsch),Hollern,clay,prismatic,35.0,40.0,,,"Hollern, Hamburg, Germany",,,,,1970,90.0,undisturbed,52.0,,
+4690,,Yolo light clay,silt loam,,5.0,20.0,,,,Can 2,,,,,91.0,disturbed,999.0,,
+4700,,Yolo clay,silty clay loam,,5.0,20.0,,,,Can 15,,,,,91.0,disturbed,999.0,,
+4710,,Yolo fine sandy loam,loam,,5.0,20.0,,,,Can 1,,,,,91.0,disturbed,999.0,,
+4720,,Oakley sand,sand,,5.0,20.0,,,,Can 3,,,,,91.0,disturbed,999.0,,
+4750,Kuroboku (humic Andisol),Kagoshima,,,15.0,20.0,A,1000.0,"Jusantukabaru, Kagoshima, Japan",,238.0,7.0,27.2,1976,999.0,disturbed,54.0,9.0,Shiozawa
+4760,Kuroboku (Kanto loam),Tanashi,,,15.0,20.0,A,160.0,"Tanashi, Tokyo, Japan",,146.0,4.6000000000000005,25.2,Apr-77,999.0,disturbed,54.0,9.0,Shiozawa
+4770,Kuroniga,Tukabaru,loam,,35.0,40.0,B,1650.0,"Tukabaru, Miyazaki, Japan",,249.0,6.8,26.7,1978,999.0,disturbed,54.0,9.0,Shiozawa
+4801,Kuroboku (humic Andisol),Tukabaru,loam,,25.0,30.0,A,1650.0,"Tukabaru, Miyazaki, Japan",,249.0,6.8,26.7,1978,999.0,disturbed,54.0,,
+4780,Akahoya,Tukabaru,loam,,0.0,108.0,B,1650.0,"Tukabaru, Miyazaki, Japan",,249.0,6.8,26.7,1978,999.0,disturbed,54.0,9.0,Shiozawa
+4791,Shirasu,Tukabaru,sandy clay loam,,,,C,1650.0,"Tukabaru, Miyazaki, Japan",,249.0,6.8,26.7,1978,999.0,undisturbed,54.0,9.0,Shiozawa
+4800,Kuroboku (humic Andisol),Tukabaru,loam,,15.0,20.0,A,1650.0,"Tukabaru, Miyazaki, Japan",,249.0,6.8,26.7,1978,999.0,undisturbed,54.0,9.0,Shiozawa
+4790,Shirasu,Tukabaru,loam,,15.0,20.0,C,1650.0,"Tukabaru, Miyazaki-ken, Japan",,249.0,6.8,26.7,1978,999.0,undisturbed,54.0,9.0,Shiozawa
+4810,Sand-dune Regosol (Udipsamment),Shonai,sand,granular,120.0,125.0,C,450.0,"Shonai Sand-dune, Yamagata, Japan",,188.0,1.4000000000000001,23.0,Jul-83,999.0,undisturbed,54.0,8.0,Shiozawa
+4870,,Grenville,silt loam,,,,,,,,,,,1964,92.0,disturbed,999.0,,
+4880,,Plainfield,sand,,0.0,25.0,Ap,600.0,"Univ. of Wisconsin, WI, USA",Hancock Exp. Farm,,,,1969,93.0,"disturbed, lysimeter",999.0,,
+4881,,Plainfield,sand,,25.0,60.0,B,600.0,"Univ. of Wisconsin, WI, USA",Hancock Exp. Farm,,,,1969,93.0,"disturbed, lysimeter",999.0,,
+4890,,Del Monte,sand,,,,,,,,,,,,94.0,disturbed,55.0,,
+4910,,Guelph,loam,,,,,,,,,,,1964,95.0,disturbed,56.0,,
+4920,Regosol,Ida,silt loam,,0.0,7.0,,,,,,,,1964,96.0,undisturbed,57.0,,
+4921,Regosol,Ida,silt loam,,7.0,15.0,,,,,,,,1964,96.0,undisturbed,57.0,,
+4922,Regosol,Ida,silt loam,,15.0,22.0,,,,,,,,1964,96.0,undisturbed,57.0,,
+4923,Regosol,Ida,silt loam,,22.0,30.0,,,,,,,,1964,96.0,undisturbed,57.0,,
+4940,,Sand I,sand,,22.0,30.0,,,,,,,,1970,97.0,"disturbed, hysteresis",58.0,,
+4941,,Sand II,sand,,22.0,30.0,,,,,,,,1970,97.0,"disturbed, hysteresis",58.0,,
+4950,,Grenoble,silt loam,,22.0,30.0,,,,,,,,1966,98.0,disturbed,48.0,,
+4960,,Oso Flaco,sand,,,,,,"Oso Flaco, CA, USA",sand dunes,,,,1955,99.0,disturbed,999.0,,

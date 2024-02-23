@@ -1,0 +1,135 @@
+comment_soilprop_ID,comment_soilprop
+1,"PSD was determined with dry sieving, particle density by pycnometer method."
+2,Soil texture by pipette method.
+999,NA
+4,Saturated conductivity measured independently at 20 C
+5,"Particle-size distribution by hydrometer method, sand fraction by sieving."
+6,Particle-size distribution by pipette method (clay) and wet sieving (sand).
+7,PSD by pipette method (clay) and wet sieving (sand).
+8,PSD with the pipette method and wet and dry sieving.
+9,PSD with the pipette method and wet and dry sieving.
+10,"Particle-size distribution with hydrometer method, sand by sieving."
+11,"Particle density by volumetric displacement; clay fraction by hydrometer method, and sand fraction by wet sieving."
+12,Particle size by hydrometer method and wet sieving.
+13,Particle size by sieving & hydrometer method.
+14,"Bulk density & saturated water content, for largest sample only. Pore-surface area is 3470 m2/kg. Particle size from intrusion volume."
+15,"PSD with sieving & sedimentation. Organic matter expressed as org. C, 0.27% carbonate, 0.10% total N. Particle density with pycnometer."
+16,"PSD with sieving & sedimentation. Organic matter expressed as org. C, 0.06% carbonate, 0.06% total N. Particle density with pycnometer."
+17,"pH-CaCl2, CEC with NH4-Acetate"
+18,Particle-size distribution with pipette method.
+19,pH-CaCl2
+20,"CEC using BaCl2, pipette method for particle-size distribution, pH-CaCl2."
+21,Organic matter as Org. C; pH-CaCl2. PSD with wet sieving & pipette method. Particle density with pycnometer.
+22,"Organic matter as Org. C, 3.59% carbonate, 0.18% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+23,"Organic matter as Org. C, 1.19% carbonate, 0.38% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+24,"Organic matter as Org. C, 0.24% carbonate, 0.28% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+25,"Organic matter as Org. C, 0.12% carbonate, 0.57% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+26,"Organic matter as Org. C, 0.03% carbonate, 0.17% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+27,"Organic matter as Org. C, 0% carbonate, 0.24% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+28,"Organic matter as Org. C, 0% carbonate, 0.09% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+29,"Organic matter as Org. C, 0% carbonate, 0.05% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+30,"Organic matter as Org. C, 0% carbonate, 0.08% total N. Particle density with pycnometer, PSD with sieving and sedimentation."
+31,"Organic matter as Org. C., 0.15% carbonate, 0.13% total N. PSD from G. Dumbeck (Ph.D.  Thesis, Univ. of Giessen)."
+32,"Organic matter as Org. C., 0.18% carbonate, 0.12% total N. PSD from G. Dumbeck (Ph.D.  Thesis, Univ. of Giessen)."
+33,"Organic matter as Org. C., 0.27% carbonate, 0.12% total N. PSD from G. Dumbeck (Ph.D.  Thesis, Univ. of Giessen)."
+34,"Organic matter as Org. C., 5.13% carbonate, 0.05% total N. Particle density with pycnometer. PSD by sieving and sedimentation."
+35,Tap water
+36,"Particle density with pycnometer, organic matter with wet combustion and multiplication by 1.724 (Mebius, 1967), PSD by sonic vibration dispersion and pipette method."
+37,4.81% CaCO3
+38,"Organic matter as Org. C., 0.06% carbonate, 0.10% total N. Particle density with pycnometer. PSD by sieving and sedimentation."
+39,PSD with wet sieving and pipette method.  Particle density with pycnometer. Organic matter as Org. C. pH-CaCl2
+40,PSD with wet sieving and pipette method.  Particle density with pycnometer. Organic matter as Org. C. pH CaCl2
+41,"The texture by pipette method, using NaPO3 as dispersing agent. Organic matter obtained with Walkley-Black method. pH in 1:10 H2O suspension."
+42,"Texture determined by pipette method, using NaPO3 as dispersing agent. Organic matter obtained with Walkley-Black method. pH in 1:10 H2O suspension."
+43,Bulk density from 12 core samples after lab retention measurement. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction.
+44,"Bulk density from 24 core samples after lab retention measurement, averaged over 2 depths. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction."
+45,"Bulk density from 12 core samples after lab retention measurement, averaged over 2 depths. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction."
+46,Bulk density from 36 core samples averaged over 2 depths after lab. retention measurement. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction.
+47,Bulk density from 18 core samples after lab retention measurement. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction.
+48,"Bulk density from 36 core samples after lab retention measurement, averaged over 2 depths. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction."
+49,"Bulk density from 18 core samples after lab retention measurement, averaged over 2 depths. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction."
+50,"Bulk density from 41 core samples after lab retention measurement, averaged over 2 depths. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction."
+51,"Bulk density from 22 core samples after lab retention measurement, averaged over 2 depths. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction."
+52,Bulk density from core samples after laboratory retention mesurement. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction.
+53,Bulk density from 22 core samples after lab retention measurement. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction.
+54,Bulk density from 10 core samples after lab retention measurement. Particle density estimated from Molokai soil. Saturated conductivity from steady infiltration in the field. Saturated water content at 10 cm suction.
+55,"Organic matter as organic C, pH-H2O, CEC is an effective value (ECEC)."
+56,"These values are for undisturbed samples, for disturbed samples DBD=1.2, Ksat=37.2, & SWC=.5; Macropores contribute substantially to in situ Ksat."
+57,Virtually no organic matter. Ksat contributed to texture.
+58,PSD determined with pipette method; Particle density with pycnometer.
+59,PSD with dry sieving; Particle density with pycnometer. Major clay mineral is kaolinite.
+60,PSD with dry sieving; Particle density with pycnometer. Major clay mineral is allophane.
+61,Particle-size analysis with hydrometer.
+62,Particle-size analysis with mechanical sieving & pipette method.
+63,Quartz & plagioclase are the dominant minerals with some amphibole & miscellaneous clay minerals. The specific surface is 4.2m2/g.
+64,"For conductivity data; BD=1.50, POR=0.42"
+65,"For conductivity data; BD=1.29, POR=0.503"
+66,"For conductivity data; BD=1.42, POR=0.454"
+67,"Conductivity data; BD=1.41, POR=0.471"
+68,"Conductivity data; BD=1.37, POR=0.485"
+69,"Conductivity data; BD=1.18, POR=0.559"
+70,"Conductivity data; BD=1.26, POR=0.527"
+71,"Conductivity data; BD=1.58, POR=0.417"
+72,"Conductivity data; BD=1.53, POR=0.434"
+73,"Conductivity data; BD=1.51, POR=0.444"
+74,"Conductivity data; BD=1.48, POR=0.452"
+75,PSD determined before passing the #14 sieve.
+76,PSD determined before passing the #35 sieve.
+77,PSD determined before passing the #48 sieve.
+78,quartz sand
+79,"PSD obtained with the pipette method after dispersion with Na4PsO7, shake."
+80,"PSD obtained with the pipette method after dispersion with Na4P2O7, shake."
+81,PSD obtained with hydrometer method.
+82,"The soil is very high in organic matter, approx. 6.0% org. C, and 90 ton/ha for each sample layer, pH-CaCl2."
+83,"The soil is very high in organic matter, approx. 3.7% org. C, and 90 ton/ha for each sample layer, pH-CaCl2."
+84,"The soil is very high in organic matter, approx. 3.3% org. C, and 90 ton/ha for each sample layer, pH-CaCl2."
+85,"PSD and descriptions apply to fraction <2mm, (Bv)Cv Horizon has 49.1 volume % stones."
+86,"PSD and descriptions apply to fraction <2mm, Cv Horizon has 61.5 volume % stones."
+87,Bulk density from oven drying undisturbed samples at 105 C.
+88,Bulk density from oven drying undisturbed samples at 105 C. PSD using the densimetric method (ISSS).
+89,undisturbed samples for bulk density and disturbed samples for particle density with pycnometer method. Organic C by method of Prof. Turin.
+90,undisturbed samples for bulk density and disturbed samples for particle density and aggregate-size dist. by Kachinsky's method.  PSD defined by pycnometer and dry sieving.
+91,"PSD with dry sieving, particle density with pycnometer."
+92,"100 cm3 undist. samples for BD. PSD with Na2P2O7 & ultrasonic bath. ASD with dry sieving. PD with pycnometer, SAR & EC from solution samples."
+93,100 cm3 undist. samples for BD. PSD with Na2P2O7 & ultrasonic bath. ASD with dry sieving. PD with pycnometer. SAR & EC from solution samples.
+94,"100 cm3 undist. samples for BD. PSD with Na2P2O7 & ultrasonic bath. PD: pycnometer. ESP: soil solution obtained with vacuum, pressure lysimeter."
+95,"100 cm3 undist. samples for BD. PSD with Na2P2O7 & ultrasonic bath. PD: pycnometer. SAR & ESP: soil solution obtained with vacuum, pressure lysimeter."
+96,100 cm3 undist. samples for BD. PSD with Na2P2O7 & ultrasonic bath. PD: pycnometer.
+97,saturated conductivity was determined in the lab and the field (auger hole technique).
+98,"BD: on 7.6x7.6 core sample according to Blake & Hartge (1986). PSD: pipette method.  pH: McLean (1986). EC: Rhoades (1986). Org. C: combustion (Nelson & Sommers, 1986)."
+99,"BD: on 7.6x7.6 core sample according to Blake & Hartge (1986). PSD: pipette method.  pH: Mclean (1986). EC: Rhoades (1986). Org. C: combustion (Nelson & Sommers, 1986)."
+100,BD: on 7.6x7.6 core sample according to Blake & Hartge (1986). PSD: pipette method.  pH: McLean (1986).
+101,"Bulk density, Ksat, and particle size are avg. of 3 plots."
+102,"Bulk density, Ksat, and particle size are avg. of 3 plots"
+103,Arithmetic average of 2 plots
+104,Arithmetic average of 2 plots.
+105,Arithmetic average Ksat of three plots.  Undisturbed samples for bulk density.  Disturbed samples for soil texture analysis using the pipette method.
+106,Ksat is an arithmetic average of 3 plots.
+107,Undisturbed samples for bulk density.  Disturbed samples for soil textural analysis.
+108,Illite and kaolinite are dominant clay minerals.
+109,Particle size with hydrometer method and particle density with pycnometer. Data are average of 18 replicates.
+110,Particle size with hydrometer method and particle density with pycnometer. Data are average of 12 replicates.
+111,Particle size with hydrometer method and particle density with pycnometer. Data are average of 9 replicates.
+112,Particle size with hydrometer method and particle density with pycnometer. Data are average of 18 replicates
+113,"OM with method of Allison, pH-KCl, EC at 25 C."
+114,"pH-KCl, organic matter as org. C."
+115,"pH-0.01 m CaCl2,organic matter as org. C."
+116,organic matter as org. C.
+117,Organic C. with Walkley Black (1934). PSD with dry sieving and pipette method
+118,Organic C. with Walkley Black (1934). PSD with dry sieving and pipette method.
+119,"PD with pycnometer, clay mineralogy with x-ray diffraction, PSD with hydrometer. No carbonates."
+120,Bulk density measurements were carried out with a gamma probe at 9 different depths.  Disturbed samples for soil textural analysis at 5 depths. Vertical saturated conductivity.
+121,Undisturbed samples for bulk density.  Disturbed samples for soil textural analysis. Particle-size dist. determined with dry sieving. Vertical saturated conductivity.
+122,"PSD with dry sieving, vertical saturated conductivity"
+123,"pH-H2O, 0.09% CaCO3"
+124,"pH-H2O, 0.06% CaCO3"
+125,"pH-H2O, 2.10% CaCO3"
+126,"pH-H2O, 9.98% CaCO3"
+127,"100 cm3 undisturbed samples for BD, particle-size analysis, after dispersion with NaOH and boiling, using dry sieving. PD with pycnometer."
+128,"100 cm3 undisturbed samples for BD, particle size analysis, after dispersion with NaOH and boiling, using dry sieving. PD with pycnometer."
+129,Bulk density and organic matter by H2O2 at end of experiment.
+130,PSD by pipette (Na2Cr2O7 for dispersion).  Ksat from Mualem catalogue.
+131,Undisturbed sample for bulk density. The wet aggregate-size dist. was determined with sieving in water for one hour. The particle density with pycnometer.
+132,Undisturbed sample for bulk density. The psd was determined with hydrometer and dry sieving.  The particle density with pycnometer.
+133,Undisturbed sample for bulk density. The psd was determined with dry sieving.  The particle density was determined with pycnometer method.
+134,"Org. C. decreases from 1.6% to 0.22% between 0 and 60 cm.  Clay fraction is 0.22 between 0 and 22.5 cm, 0.16 between 22.5 and 30 cm depth interval, and remains between 0.13 and 0.18 from 30 to 150 cm."
