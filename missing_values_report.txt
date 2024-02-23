@@ -1,0 +1,196 @@
+--- Missing Values Ratio in aggregate_size_distribution ---
+code                         0.000000
+dry_aggregate_size          91.656874
+dry_aggregate_percentage    91.656874
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in field_drying_h-k ---
+code             0.000000
+preshead        18.600633
+conductivity    18.600633
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in field_drying_h-t ---
+code         0.000000
+preshead    19.945021
+theta       19.945021
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in field_drying_t-d ---
+code            0.00000
+theta          36.40873
+diffusivity    36.40873
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in field_drying_t-k ---
+code            0.000000
+theta           8.425344
+conductivity    8.425344
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in field_wetting_h-k ---
+code              0.0
+preshead        100.0
+conductivity    100.0
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in field_wetting_h-t ---
+code         0.000000
+preshead    98.994975
+theta       98.994975
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in field_wetting_t-d ---
+code             0.0
+theta          100.0
+diffusivity    100.0
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in field_wetting_t-k ---
+code              0.0
+theta           100.0
+conductivity    100.0
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in general ---
+code                  0.000000
+family               23.670886
+series                0.000000
+texture               1.772152
+structure            56.075949
+depth_upper          13.291139
+depth_lower          13.291139
+horizon              17.594937
+depth_gwater         83.291139
+location              4.050633
+site_ID              12.911392
+annual_rain          44.556962
+avetemp_jan          61.012658
+avetemp_jul          60.886076
+date                 22.405063
+publication_ID        0.000000
+keyword               6.962025
+contact_person_ID     0.000000
+rating               60.379747
+rated_by             67.341772
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in lab_drying_h-k ---
+code            0.000000
+preshead        5.394679
+conductivity    5.394679
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in lab_drying_h-t ---
+code        0.000000
+preshead    0.738371
+theta       0.738371
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in lab_drying_t-d ---
+code            0.000000
+theta          32.404828
+diffusivity    32.404828
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in lab_drying_t-k ---
+code            0.000000
+theta           8.791402
+conductivity    8.791402
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in lab_wetting_h-k ---
+code             0.000000
+preshead        91.676436
+conductivity    91.676436
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in lab_wetting_h-t ---
+code         0.000000
+preshead    58.910506
+theta       58.910506
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in lab_wetting_t-d ---
+code            0.000000
+theta          98.377029
+diffusivity    98.377029
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in lab_wetting_t-k ---
+code             0.000000
+theta           78.093306
+conductivity    78.093306
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in mineralogy ---
+code                 0.00000
+mineral_type        87.83314
+mineral_fraction    87.83314
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in particle_size ---
+code                 0.000000
+particle_size        1.811339
+particle_fraction    1.811339
+dtype: float64
+
+==================================================
+
+--- Missing Values Ratio in soil_properties ---
+code                  0.000000
+bulk_density          3.544304
+particle_density     49.493671
+porosity             53.164557
+OM_content           50.886076
+k_sat                45.696203
+theta_sat            61.392405
+CEC                  81.012658
+pH                   62.025316
+electrolyte_level    96.708861
+SAR                  89.873418
+ESP                  97.594937
+EC                   92.151899
+free_Fe_Al_oxide     98.227848
+dtype: float64
+
+==================================================
+
